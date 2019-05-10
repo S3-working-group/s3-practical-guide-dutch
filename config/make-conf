@@ -1,9 +1,9 @@
 
 # filename for the slide deck
-TARGETFILE=S3-practical-guide
+TARGETFILE=S3-practical-guide-dutch
 
 # template pattern numbers
-SECTIONPREFIX= Pattern %(chapter)s.%(section)s:
+SECTIONPREFIX= Patroon %(chapter)s.%(section)s:
 
 # build index database?
-BUILD_INDEX=YES
+BUILD_INDEX=NO
