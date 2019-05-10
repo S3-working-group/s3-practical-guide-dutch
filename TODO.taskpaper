@@ -1,0 +1,15 @@
+S3 Practical Guide Dutch:
+	Initial setup:
+		- copy over files from English version
+		- copy over illustrations from English version
+		- edit project file
+		- check makefile
+		- setup jekyll site
+		- setup DNS @done
+		- build translations
+		- integrate Dutch translations
+		- setup github page
+		- first build of jekyll site
+		- forst build of PDF/epub
+		
+
