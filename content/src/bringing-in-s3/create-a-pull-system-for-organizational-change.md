@@ -4,8 +4,7 @@
 
 Verander dingen wanneer het waarde heeft om dat te doen:
 
-- gebruik patronen die een oplossing bieden voor de belangrijkste problemen op dít moment 
-  - ga geen dingen repareren die niet kapot zijn!
-  - ontmoet mensen waar ze zijn…
-  - … en laat ze hun eigen tempo kiezen
-- overweeg alle verandering aan te bieden als een optie, waarvoor op vrijwillige basis wordt gekozen!
+- Maak gebruik van patronen die helpen bij het oplossen van actuele en belangrijke problemen.
+- Ga geen dingen repareren die niet kapot zijn!
+- Ontmoet iedereen waar ze zijn…
+- … en laat ze hun eigen tempo kiezen.

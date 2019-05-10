@@ -1,8 +1,8 @@
 ## Vraag om hulp
 
-**Een eenvoudig protocol voor het leren, het delen van vaardigheden en het opbouwen van verbindingen, met respect voor de autonomie van mensen.**
+**A simple protocol for learning, skill sharing, and building connections, with respect for people's agency.**
 
-Vraag iemand, "*zou je bereid zijn om me te helpen ...*?" De ander kan antwoorden met een eenvoudig "*ja*" of "*nee*".
+Ask someone, "*would you be willing to help me with ...*?" The person asked accepts or declines with a simple "*yes*" or "*no*".
 
 - als het verzoek wordt afgewezen, accepteert de persoon het antwoord zonder onderhandelingen of verhoor
 - als het verzoek onduidelijk is, vraag om meer informatie

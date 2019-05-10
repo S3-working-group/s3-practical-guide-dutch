@@ -1,7 +1,9 @@
-## Coördinator (Rol)
+## Coördinator
 
-Een persoon in de rol van een coördinator is verantwoordelijk voor het **coördineren van het werk binnen een domein** en is **geselecteerd voor een beperkte termijn.**
+A person fulfilling the role of a coordinator is accountable for **coordinating a domain's operations** and is **selected for a limited term.**
 
-- de coördinator kan worden geselecteerd door de groep zelf, of door de delegator
-- meerdere coördinatoren kunnen samenwerken om werk te synchroniseren over meerdere domeinen
-- in plaats van een coördinator te selecteren, kan een groep kiezen voor zelforganisatie
+De coördinator kan worden geselecteerd door het team zelf, of door de [delegator](glossary:delegator).
+
+Meerdere coördinatoren kunnen samenwerken om werk te synchroniseren over meerdere [domeinen](glossary:domain).
+
+In plaats van een coördinator te selecteren, kan een team kiezen voor zelforganisatie.

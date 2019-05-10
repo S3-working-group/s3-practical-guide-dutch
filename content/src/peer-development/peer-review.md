@@ -1,19 +1,13 @@
 ## Peer Review
 
-![right,fit](img/process/peer-review.png)
+**Ondersteun elkaar om te leren en te groeien binnen jouw rollen en teams.**
 
-**Mensen steunen elkaar om te leren en te groeien in de rollen en groepen die zij dienen.**
+De rolhouder - of het team - leidt de peer review door het proces op te zetten en in elke stap als eerst te spreken.
 
-De rol-houder - of groep - leidt de beoordeling door gelijken door het proces op te zetten en in elke stap als eerst te spreken.
+![Peer review proces](img/process/peer-review.png)
 
-Zorg ervoor dat mensen met aanvullende perspectieven worden uitgenodigd om bij te dragen aan de beoordeling en een facilitator.
+Zorg ervoor dat er mensen met aanvullende perspectieven worden uitgenodigd om bij te dragen aan de review, en dat er een [facilitator](section:facilitate-meetings) is.
 
-Verbetersuggesties gelden voor persoonlijke ontwikkeling, samenwerking, updates van de domein beschrijving (inclusief driver) en strategie.
+Verbetersuggesties kunnen betrekking hebben op persoonlijke ontwikkeling, samenwerking, updates van de [domein](glossary:domain)beschrijving (inclusief de [driver](glossary:organizational-driver)) en [strategie](glossary:strategy).
 
-* * *
-
-## Beoordeling door gelijken (...)
-
-### De voortdurende verbetering van het vermogen van mensen om effectief te zijn in hun rollen te voldoen en het samenwerken in groepen.
-
-![inline,fit](img/evolution/development-process.png)
+![De voortdurende verbetering van het vermogen van mensen om effectief te zijn in hun rollen en samen te werken in een team](img/evolution/development-process.png)

@@ -1,22 +1,16 @@
 ## Coördinatie Vergadering
 
-**Kom regelmatig bij elkaar (meestal wekelijks) om over werk te rapporten en het te coördineren.**
+**Meet on a regular basis (usually weekly) for reporting on and coordinating work across domains.**
 
-- faciliteer de vergadering en gebruik rondes in plaats van discussie als dit waardevol is
-- indien mogelijk, stel de agenda dan op voorafgaand aan de vergadering 
-    - geef aan wat aanwezigen moeten doen aan voorbereiding
-    - overige items kunnen boven tafel komen tijdens het horen van de status updates
+- faciliteer de vergadering ([timebox](glossary:timebox) gesprekken en gebruik rondes waar waardevol)
+- when useful, compile an agenda before the meeting and share it with attendees in advance 
+    - include details of any prerequisites that can help attendees to prepare
+    - further agenda items may come up when hearing status reports
 
-* * *
+Agenda-items:
 
-## Coördinatie Vergadering (...)
+- cross domain synchronization and alignment
+- prioritization and distribution of work 
+- responding to impediments
 
-![right,fit](img/meetings/coordination-meeting.png)
-
-- statusrapport: 
-    - cirkel statistieken (indien aanwezig)
-    - projecten en taken
-- agenda-items: 
-    - delen van informatie
-    - taken of projecten toevoegen of bijwerken
-    - nieuwe of bijgewerkte overeenkomsten voorstellen
+![Fases van een coördinatievergadering](img/meetings/coordination-meeting.png)

@@ -1,30 +1,21 @@
 ## Logboek
 
+**Maintain a coherent and accessible system that stores all information required for collaboration.**
+
 Een logboek is een (digitaal) systeem om alle informatie op te slaan die relevant is voor het functioneren van een organisatie en zijn teams. Het logboek is toegankelijk voor alle leden van een organisatie en informatie wordt alleen vertrouwelijk gehouden als er goede redenen zijn om dat te doen.
 
-Veel gebruikte platformen voor logboeken zijn Wikis (bijv. Dokuwiki of MediaWiki), Content Management Systemen (bijv. Wordpress), Google Suite, Evernote of Trello, enz.
-
-* * *
+Common platforms for logbooks are Wikis (e.g. [Dokuwiki](https://www.dokuwiki.org/), [MediaWiki](https://www.mediawiki.org/), [Confluence](https://www.atlassian.com/software/confluence)), Content Management Systems (e.g. [Wordpress](https://wordpress.org/)), [G Suite](https://gsuite.google.com), [Evernote](https://evernote.com/business) or even [Trello](https://trello.com/).
 
 ### Logboek inhoud
 
-- Organisatie:
-    
-    - primaire driver, strategie en organisatiewaarden
-    - structuur van de organisatie (domeinen en verbindingen)
-    - overeenkomsten 
+Content relating to the whole organization:
 
-- Cirkel:
-    
-    - cirkel beschrijving en strategie
-    - overeenkomsten (inclusief de domeinnamen, strategieën en ontwikkelingsplannen van de afgevaardigden)
-    - backlogs en andere informatie gerelateerd aan het werk en de governance van een cirkel
+- [primaire driver](glossary:primary-driver), [strategie](glossary:strategy) en [waarden](glossary:values) van de organisatie
+- organisatiestructuur ([domeinen](glossary:domain) en de verbindingen tussen hen)
+- [overeenkomsten](glossary:agreement) 
 
-* * *
+Inhoud met betrekking tot een specifiek team of [rol](glossary:role):
 
-### Logboek inhoud (...)
-
-- Persoonlijke logboeken 
-    - domein beschrijvingen, strategieën en ontwikkelingsplannen
-    - governance en operationele backlogs voor rollen
-    - besluiten die betrekking hebben op het leveren van waarde in een rol
+- the domain description and strategy
+- overeenkomsten (inclusief [gedelegeerden'](glossary:delegatee) domeinomschrijvingen, strategieën en [ontwikkelplannen](section:development-plan))
+- [backlogs](glossary:backlog) en andere informatie over werk en [governance](glossary:governance)

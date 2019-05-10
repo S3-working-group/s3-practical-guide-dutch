@@ -1,8 +1,40 @@
 ## Fractal Organization
 
-![right,fit](img/structural-patterns/fractal-organization.png)
+**Meerdere entiteiten (organisaties of projecten) met een gemeenschappelijke (of vergelijkbare) primaire driver en structuur die lessen kunnen delen over functionele domeinen, actie op één lijn te brengen en besluiten op hoog niveau te nemen (bijv. algemene strategie)**.
 
-Een patroon dat ingezet kan worden wanneer meerdere organisaties (of domeinen) met een gemeenschappelijke driver samenwerken, om waardevolle lessen te delen, en, indien waardevol, acties uit te zetten en af te stemmen.
+Een fractale organisatie kan een groot netwerk inschakelen om snel te reageren op veranderende contexten.
 
-- een manier om de verschillende betrokken entiteiten te organiseren, te verenigen en te sturen, terwijl ze autonomie en het agentschap behouden
-- een structuur om innovatie en uitwisseling van leren in een grote gemeenschap te bevorderen op een 'zo nodig' basis
+Indien nodig kan het patroon herhaald worden om meerdere fractale organisaties te verbinden tot één.
+
+![Fractal Organization](img/structural-patterns/fractal-organization.png)
+
+### Randvoorwaarden
+
+Een fractale organisatie kan worden gevormd door meerdere (onderling) afhankelijke organisaties die een gemeenschappelijke (primaire) [driver](glossary:driver) delen, of door meerdere branches, afdelingen of projecten binnen een grotere organisatie.
+
+Deze [entiteiten](glossary:constituent) (dat wil zeggen organisaties, branches, afdelingen of projecten) moeten ten minste enkele - en meestal de meeste - functionele [domeinen](glossary:domain) delen (bijv. boekhouding, productbeheer of ontwikkeling).
+
+### Rangen
+
+A fractal organization has at least three tiers:
+
+- first tier: the **constituents** (i.e. organizations, branches, departments or projects)
+- tweede rang: **functie-specifieke [cirkels van afgevaardigden](section:delegate-circle)** om lessen te delen en om overeenkomsten te maken, namens functie specifieke domeinen
+- third tier: a **cross-functional delegate circle** to make and evolve agreements in response to drivers affecting the overall body of constituents
+
+### Een fractale organisatie vormen
+
+1. Het vormen van de **tweede rang**: Bij elke entiteit besluiten de leden van elk zelfde soort functioneel domein wie hen zal vertegenwoordigen in een **functie specifieke cirkel van afgevaardigden**, waar zij hun kennis en lessen delen, en bijdragen aan het maken en doorontwikkelen van overeenkomsten. Representatives are selected for a limited term (after which a new selection is made).
+2. Het vormen van de **derde rang**: afgevaardigden van de tweede rang selecteren allemaal een afgevaardigde voor een **cross-functionele cirkel van afgevaardigden**.
+
+### Impact op de organisatie(s)
+
+Each constituent:
+
+- gains access to a wide array of experience, wisdom and skills to increase effectiveness and innovation.
+- can share resources, infrastructure and experience with other constituents according to capacity and need
+
+The second and third tier:
+
+- can test decisions simultaneously across multiple instances of a function-specific domain, providing extensive feedback and rapid learning
+- organize, align and steer the whole system while preserving autonomy and agency of the individual constituents

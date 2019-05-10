@@ -2,31 +2,27 @@
 
 {{define:backlog}}
 
+Overweeg om backlogs zichtbaar te maken, niet alleen voor andere leden van een team, maar ook voor de bredere organisatie.
+
 Verschillende soorten backlogs:
 
-- activiteiten backlog
-- sprint backlog
+- [governance](glossary:governance) backlog
+- [activiteiten](glossary:operations) backlog
+- [sprint](section:planning-and-review-meetings) backlog
 - product backlog
 - hindernissen backlog
 
-* * *
+**Implementation:**
 
-## Backlog (...)
+- **analoge backlog**: plakmemo's op een muur, of indexkaarten, magneten en whiteboard
+- **digitale backlog:** bijv. [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), [Asana](https://asana.com/)
 
-- **Implementatie** 
-    - **analoge backlog**: sticky notities op een muur, of indexkaarten, magneten en whiteboard
-    - **digitale backlog**: bijvoorbeeld Google Sheets, Trello, Kanban Flow, Jira
+Each item on a (prioritized) backlog typically contains:
 
-* * *
-
-## Backlog (...)
-
-Elk item op een (geprioriteerde) backlog bevat:
-
-- een **korte beschrijving** of een driver
-- a **unique reference number** (or link) for each work item
-- (the **order of work items**)
-- **dependencies** to other work items or projects
-- **due date** (if necessary)
-- (optional) a measure for **value** 
-- (optional) a measure for **investment** (often an estimate of time or complexity)
+- een **korte beschrijving** van een [op te leveren resultaat](glossary:deliverable) of een [driver](glossary:organizational-driver)
+- een **uniek referentienummer** (of link) voor elk werkitem
+- (de **volgorde van werk items**)
+- **afhankelijkheden** met andere werkproducten of projecten
+- **vervaldatum** (indien nodig)
+- (optioneel) een manier om **waarde** te meten 
+- (optioneel) een manier om **investering** te meten (vaak een schatting van tijd of complexiteit)

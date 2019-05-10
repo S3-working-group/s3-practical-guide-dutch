@@ -1,8 +1,8 @@
 ## Evaluatiecriteria
 
-![right,fit](img/templates/outcome-and-criteria.png)
+**Develop well-defined evaluation criteria to determine if acting on an agreement had the desired effect.**
 
-Goed gedefinieerde evaluatiecriteria kunnen helpen begrijpen of een overeenkomst het gewenste effect heeft gehad.
-
-- ga voor **eenvoudige en ondubbelzinnige** criteria en documenteer ze (om discussie te vermijden bij het reviewen van de overeenkomsten)
-- definieer **bruikbare statistieken** om de effecten en afwijkingen van de beoogde resultaten op te merken en te volgen
+- ga voor **eenvoudige en ondubbelzinnige** criteria en documenteer ze (om discussie te vermijden bij het reviewen van de [overeenkomsten](glossary:agreement))
+- definieer **bruikbare statistieken** om de effecten en afwijkingen van de [beoogde resultaten](glossary:intended-outcome) op te merken en te volgen
+- consider adding criteria which make it explicit when the outcome of an agreement would be considered **unsuccessful**
+- when reviewing an agreement, consider **evolving the evaluation criteria** based on what you have learned

@@ -1,9 +1,11 @@
 ## Links
 
-![fit](img/framework/logo.png)
+De **nieuwste online versie** van de Praktische gids bij [http://patronen.sociocracy30.org](http://patterns.sociocracy30.org) kan worden geannoteerd via hypothes.is en komt met een alfabetische index en een patroon kaart voor eenvoudige navigatie.
 
-**Laatste versie van deze handleiding**: <http://sociocracy30.org/guide/>
+Diverse andere formaten en talen kunnen worden gevonden op <http://sociocracy30.org/guide/>
 
-**S3 website**: <http://sociocracy30.org>
+**Meer S3 bronnen**: [http://sociocracy30.org/resources/](http://sociocracy30.org/resources)
 
-Volg ons op **twitter**: [@sociocracy30](http://twitter.com/@sociocracy30)
+**S3 website:** <http://sociocracy30.org>
+
+**Volg ons op twitter:** *@sociocracy30*

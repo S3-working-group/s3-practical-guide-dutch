@@ -1,10 +1,12 @@
-## Vertegenwoordiger (rol)
+## Afgevaardigde
+
+**Selecteer een teamlid om deel te nemen aan de governance van een ander team om de stroom van informatie en invloed mogelijk te maken.**
 
 Afgevaardigden (a.k.a. linken):
 
-- representeren de belangen van de ene groep in een andere groep
+- representeer de belangen van één [team](glossary:team) bij een ander team
 - zijn geselecteerd voor een beperkte termijn
-- neemt als volwaardig lid deel in de **governance beslissingen** van de cirkel waar zij heen is gedelegeerd, en kan: 
-    - raise items for the agenda
-    - participate in forming proposals
-    - bezwaar hebben op overeenkomsten en voorstellen (wanneer er reden is om dat te doen)
+- neemt deel aan de **governance besluitvorming** van het team waar ze aan gekoppeld zijn, en kan: 
+    - items voor op de agenda voorstellen
+    - meedoen aan het vormen van voorstellen
+    - [bezwaren](glossary:objection) hebben op voorstellen en bestaande [overeenkomsten](glossary:agreement)

@@ -1,21 +1,20 @@
 ## Cirkel
 
-![right,fit](img/circle/circle.png)
-
 {{define:circle}}
 
 Een cirkel:
 
 - kan permanent of tijdelijk zijn
-- kan zelforganiserend zijn
-- is verantwoordelijk voor haar eigen ontwikkeling en het maken van bijbehorende afspraken
+- kan [zelforganiserend](glossary:self-organization) zijn
+- is verantwoordelijk voor zijn eigen ontwikkeling en bijbehorende set aan [overeenkomsten](glossary:agreement)
 
-* * *
+- **semi-autonoom:**
+    
+    - De leden van een cirkel handelen binnen de kaders van hun [domein](glossary:domain).
+    - Elke cirkel kan autonoom [waarde](glossary:value) creëren.
+- **zelfsturend:** 
+    - De leden van een cirkel beslissen voortdurend samen wat ze moeten doen om hun domein te verantwoorden en stellen beperkingen op hoe en wanneer het gebeurt.
+- **gelijkwaardigheid van cirkelleden:** 
+    - Alle leden van een cirkel zijn even verantwoordelijk voor de governance van het domein van de cirkel.
 
-## Cirkel (cont.)
-
-- **semi-autonoom** 
-    - een cirkel werkt binnen de kaders van hun domein
-    - elke cirkel kan autonoom waarde creëren
-- **zelfsturend**: 
-    - een cirkel bepaalt voortdurend wat er moet gebeuren om verantwoording te geven aan hun domein en stelt kaders op over hoe en wanneer acties ondernomen worden.
+![Alle leden van een cirkel zijn even verantwoordelijk voor de governance van het domein van de cirkel](img/circle/circle.png)

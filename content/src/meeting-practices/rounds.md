@@ -1,10 +1,11 @@
 ## Rounds
 
-![right,fit](img/circle/rounds.png)
+**In een groepsvergadering ga je de cirkel rond, zodat iedereen op zijn beurt het woord kan voeren.**
 
-**Een facilitatie techniek om gelijkwaardigheid binnen groepen te handhaven.**
+Rondes is een techniek waarmee je gelijkwaardigheid kunt faciliteren en een effectieve dialoog kunt ondersteunen.
 
-- ga rond de cirkel, zodat iedereen de kans krijgt om te spreken
-- begin elke ronde met een ander persoon en verander de richting (met of tegen de klok) om variatie aan te brengen in wie als eerst en als laatst spreekt, en in de volgorde van de bijdragen van mensen.
+Wees duidelijk over de doelstellingen en de beoogde resultaten van elke ronde.
 
-Ervaren groepen kunnen soms kiezen om bepaalde rondes in S3 groepsprocessen te versnellen.
+Vorm een cirkel en begin elke ronde met een ander persoon en verander de richting (met of tegen de klok) om variatie aan te brengen in wie als eerst en als laatst spreekt, en in de volgorde van de bijdragen van mensen.
+
+![Rounds](img/circle/rounds.png)

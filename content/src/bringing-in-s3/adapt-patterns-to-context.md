@@ -2,11 +2,14 @@
 
 **Pas S3 patronen aan en ontwikkel deze om beter aan te sluiten bij jouw specifieke context.**
 
-![rechts,passend](img/process/adapt-pattern-to-context.png)
+Zorg ervoor dat iedereen die wordt geraakt:
 
-- zorg ervoor dat iedereen geraakt door de aanpassing; 
-    - begrijpt waarom het nodig is om het patroon aan te passen
-    - aanwezig is of vertegenwoordigd is wanneer tot aanpassen wordt besloten
-- gebruik S3 principes als een gids voor het aanpassen
-- experimenteer lang genoeg met de aanpassingen om echt te kunnen leren van de voordelen en eventuele valkuilen
-- overweeg om waardevolle aanpassingen te delen met de S3 community
+- begrijpt waarom het veranderen van het patroon noodzakelijk (of nuttig) is
+- aanwezig of vertegenwoordigd is bij de beslissing welke veranderingen er worden doorgevoerd
+- de S3 principes gebruikt als richtlijn bij de aanpassingen.
+
+Experimenteer lang genoeg met de aanpassingen om echt te kunnen leren van de voordelen en eventuele valkuilen.
+
+Deel waardevolle aanpassingen met de S3 community.
+
+![Fases van patronen aanpassen aan een specifieke context](img/process/adapt-pattern-to-context.png)

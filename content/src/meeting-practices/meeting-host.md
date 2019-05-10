@@ -1,22 +1,21 @@
-## Vergadering Host (Rol)
+## Host van de vergadering
 
-De vergadering host is verantwoordelijk voor de voorbereiding en follow-up van vergaderingen, workshops of andere evenementen.
+**Select someone to take responsibility for the preparation and follow-up of meetings, workshops or other events.**
 
-De rol kan tijdelijk worden toegewezen (d.w.z. voor één specifieke bijeenkomst) of voor een bepaalde periode.
-
-* * *
+Een persoon kan de rol van host van de vergadering op zich nemen voor een specifieke gebeurtenis of voor verschillende bijeenkomsten gedurende een bepaalde periode.
 
 ### Responsibilities Of A Meeting Host
 
-- voorbereiding 
-    - doelen en op te leveren resultaten identificeren
-    - agenda en planning voorbereiden en distribueren
-    - vereiste tijd schatten
-    - deelnemers identificeren en uitnodigen
-    - de vergadering/workshop plannen
-    - boek locatie (en transport indien nodig)
-    - de ruimte voorbereiden, vereiste materialen en informatie leveren
-    - zorg ervoor dat er, indien nodig, een facilitator is en een notulist
-- opvolging 
-    - locatie netjes achterlaten, sleutels terugbrengen, etc.
-    - ervoor zorgen dat de notulen worden gedistribueerd
+Preparation:
+
+- doelen en op te leveren resultaten identificeren
+- prepare and distribute agenda
+- identify and invite the participants
+- estimate the time required and schedule the meeting/workshop
+- book the location (and transportation if required)
+- set up the space and provide required materials and information
+- zorg ervoor dat er, indien nodig, een facilitator is en een notulist
+
+**Na de vergadering:** locatie opruimen, sleutels teruggeven, losse eindjes aan elkaar knopen en ervoor zorgen dat de notulen worden rond gedeeld.
+
+**Zie ook:** [Vergaderingen faciliteren](section:facilitate-meetings), [Voorbereiden voor vergaderingen](section:prepare-for-meetings)

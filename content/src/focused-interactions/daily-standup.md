@@ -1,12 +1,12 @@
 ## Dagelijkse Standup
 
-![right,fit](img/meetings/planning-review-standup.png)
+**Ontmoet dagelijks om werk te organiseren, leren te vergemakkelijken en productiviteit en doeltreffendheid te verbeteren.**
 
-**Een vergadering om werk te coördineren, leren te vergemakkelijken, en de productiviteit en effectiviteit te verbeteren.**
-
-- time-boxed (meestal 15 minuten)
+- [Getimeboxed](glossary:timebox) (meestal 15 minuten)
 - dagelijks op hetzelfde moment
-- de groep verzamelt rond een zichtbaar projectmanagement board/tool voor: 
-    - coördinatie van dagelijks werk
-    - aanpakken van belemmeringen/hindernissen
-    - ter plaatse aanpassen van bestaande overeenkomsten of het maken van nieuwe overeenkomsten
+- het team verzamelt rond een zichtbaar projectmanagement board/tool om: 
+    - organize daily work
+    - address impediments/blocks
+    - bestaande [overeenkomsten](glossary:agreement) aanpassen of ter plekke nieuwe overeenkomsten maken
+
+![De dagelijkse standup is een essentiële bijeenkomst voor zelforganiserende teams.](img/meetings/planning-review-standup.png)

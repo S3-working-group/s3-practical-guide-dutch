@@ -1,33 +1,21 @@
 ## Reageren op Drivers van de organisatie
 
-![right,fit](img/driver-domain/driver-response-full.png)
+**Verduidelijk drivers van de organisatie (d.w.z. wat er gebeurt en wat er nodig is in relatie tot de organisatie), en reageer op passende wijze.**
 
-*Geef duidelijkheid over wat er gebeurt en wat er nodig is met betrekking tot de organisatie, en reageer op een manier die passend is.*
+Reacties op [drivers van de organisatie](glossary:organizational-driver) omvatten:
 
-Reacties op drivers:
+- directe actie ([activiteiten](glossary:operations))
+- organizing how work will be done 
+- making governance decisions
 
-- actie
-- besluiten (inclusief het creëren van een rol, cirkel, hulpteam of open domein)
+De reactie op een driver van de organisatie wordt doorgaans behandeld als een experiment dat in de loop der tijd geëvalueerd en ontwikkeld wordt.
 
-* * *
+![Mogelijke reacties op drivers van de organisatie](img/driver-domain/driver-response-full.png)
 
 ### Drivers van de Organisatie Kwalificeren
 
-Sommige drivers zijn (direct of indirect) gerelateerd aan de primaire driver van een organisatie. Deze worden beschouwd als **organisatorische drivers**. Andere drivers vallen niet binnen het domein van de organisatie.
+{{glossary:organizational-driver}}
 
-Een simpele manier om te checken of drivers bij het domein van de organisatie horen, is door te vragen:
+Een eenvoudige manier om te kwalificeren of een driver binnen het [domein](glossary:domain) van een organisatie valt is door te controleren:
 
-*Zou reageren op deze driver de stroom van waarde binnen de organisatie verbeteren, of zouden we mogelijk schade hiermee vermijden? oftewel kan het ons helpen of schaden?*
-
-* * *
-
-### Review van drivers
-
-![right,fit](img/evolution/kaizen.png)
-
-De reactie op een driver is meestal een experiment dat gedurende de tijd wordt doorontwikkeld, gebaseerd op wat er wordt geleerd.
-
-- Is de omschrijving van de situatie nog steeds kloppend?
-- Denken we nog steeds dat hetzelfde nodig is als wat we eerder hadden vastgesteld?
-- Ligt de driver nog steeds binnen ons domein?
-- Is de driver nog relevant?
+*Zou het de organisatie helpen om aandacht te besteden aan deze driver? Of zou het ons schaden als we dat niet doen?*

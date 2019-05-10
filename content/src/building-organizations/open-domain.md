@@ -1,15 +1,15 @@
 ## Open Domein
 
-![right,fit](img/structural-patterns/open-domain.png)
+**Bewust accountable zijn voor een domein op uitnodiging in plaats van in opdracht en nodig degenen die kunnen bijdragen uit om dit te doen wanneer zij kunnen.**
 
-**Een manier om de verantwoording voor een domein opzettelijk door uitnodiging in plaats van toewijzing te laten plaatsvinden.**
+De [delegator](glossary:delegator) van het open domein verduidelijkt:
 
-De delegator van het open domein verduidelijkt:
-
-- primaire driver, belangrijkste verantwoordelijkheden en de kaders van het open domein
+- de [primaire driver](glossary:primary-driver), kernverantwoordelijkheden en kaders van het open domein
 - wie wordt uitgenodigd om bij te dragen aan het open domein
-- kaders met betrekking tot de deelname van de delegator aan de governance van het open domein
+- kaders met betrekking tot de deelname van de delegator aan de [governance](glossary:governance) van het open domein
 
-De delegator van het open domein is er verantwoordelijk voor dat het open domein regelmatig gereviewed en geëvalueerd wordt.
+Afhankelijk van de beperkingen die de delegator stelt, kunnen de medewerkers alleen maar [werk organiseren en uitvoeren](glossary:operations), of ook deelnemen aan governance.
 
-Afhankelijk van de kaders die door delegatoren zijn opgesteld, kunnen mensen die bijdragen aan het open domein verantwoordelijk zijn voor werk en/of governance van het open domein.
+Een delegator is verantwoordelijk voor het uitvoeren van regelmatige beoordelingen om effectiviteit van werk en besluitvorming op een open domein te ondersteunen.
+
+![Open Domein](img/structural-patterns/open-domain.png)

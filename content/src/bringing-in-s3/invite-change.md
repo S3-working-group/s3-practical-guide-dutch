@@ -1,8 +1,14 @@
 ## Uitnodigen van verandering
 
-**Een manier om als individu verandering te initiëren en faciliteren.**
+**Maak de reden voor verandering duidelijk en nodig mensen uit om deel te nemen.**
 
-- geef het goede voorbeeld, ben zelf de verandering die je wilt zien in een ander
-- gebruik patronen en pas deze aan wanneer het handig is om dit te doen
-- vertel het verhaal over hoe en waarom je patronen uit S3 aan het gebruiken bent, inclusief het documenteren van uitkomsten, successen en falen
-- nodig anderen uit om met je mee te experimenteren
+Uitnodigen tot in plaats van het opleggen van verandering vermindert weerstand en stelt mensen in staat om zelf te kiezen.
+
+Bij het uitnodigen:
+
+- wees transparant over de reden voor verandering
+- maak de verwachtingen en begrenzingen helder
+- vermijd dwang of manipulatie
+- erken iedere scepsis en twijfels
+
+Nodig de betrokken en geraakte mensen uit om deel te nemen aan de reguliere evaluatie van resultaten.

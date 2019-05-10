@@ -1,17 +1,15 @@
 ## Overeenkomst
 
-![right,fit](img/evolution/driver-agreement-improvement.png)
-
 {{define:agreement}}
 
-- overeenkomsten worden gemaakt in reactie op drivers 
-- overeenkomsten zijn de **verantwoordelijkheid van de mensen** die ze maken
-- overeenkomsten worden **regelmatig geëvalueerd**
+Overeenkomsten worden gemaakt in reactie op [drivers van de organisatie](glossary:organizational-driver), worden **regelmatig gereviewed**, en zo nodig door ontwikkeld.
 
-**Opmerking**: In S3 worden richtlijnen, processen of protocollen die gemaakt zijn door personen in een rol als overeenkomst behandeld.
+**Algehele accountability** voor een overeenkomst ligt bij de mensen die ze maken.
 
-* * *
+Een overeenkomst kan **delegatie van specifieke verantwoordelijkheden** aan individuen of groepen bevatten.
 
-### Format voor overeenkomsten
+Neem **verwachtingen op** gerelateerd aan [op te leveren resultaten](glossary:deliverable), gedrag of middelen in de context van de overeenkomst.
 
-![inline,fit](img/templates/agreement-template.png)
+**Opmerking:** In S3 worden richtlijnen, processen of protocollen die gemaakt zijn door personen in een rol ook als overeenkomst behandeld.
+
+![Format voor overeenkomsten](img/templates/agreement-template.png)

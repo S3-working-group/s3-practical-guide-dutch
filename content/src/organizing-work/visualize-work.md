@@ -1,19 +1,15 @@
-## Visualize Work
+## Visualiseer Werk
 
-![right,fit](img/workflow-and-value/simple-process.png)
+**Onderhoud een systeem dat alle belanghebbenden in staat stelt om de stand van zaken van alle lopende, lopende of voltooide werkitems in te zien.**
 
-Transparantie over de stand van zaken van alle in afwachting zijnde, lopende of voltooide werkitems.
+- waardevol voor [zelforganisatie](glossary:self-organization) en systemen van binnentrekken van werk
+- systeem moet toegankelijk zijn voor iedereen die geraakt wordt
+- **analoog**: plakmemo's op een muur, of indexkaarten, magneten en whiteboard
+- **digitaal**: [Trello](https://trello.com/), [Kanbanery](https://kanbanery.com/), [Leankit](https://leankit.com/), [Jira](https://www.atlassian.com/software/jira), [Google Sheets](https://www.google.com/sheets/about/), etc.
 
-- waardevol voor zelforganisatie en pull-systemen
-- system must be accessible to everyone affected
-- **analog**: post-its on a wall, or index cards, magnets and white board
-- **digitaal**: Trello, Kanbanery, Leankit, Jira, Google Sheets, etc.
+![Visualisatie van een eenvoudig werkproces](img/workflow-and-value/simple-process.png)
 
-* * *
-
-### Things to track:
-
-![right,fit](img/workflow-and-value/card.png)
+### Dingen om bij te houden:
 
 - **types of work items** (e.g. customer request, project tasks, reporting tasks, rework)
 - **startdatum** (en **vervaldatum** indien nodig)
@@ -21,5 +17,7 @@ Transparantie over de stand van zaken van alle in afwachting zijnde, lopende of 
 - **fases** van het werk (bijv. "te doen", "in uitvoering", "review" en "done")
 - hindernis/grenzen
 - wie werkt aan welke items
-- overeenkomsten en verwachtingen die de werkstroom leiden (bijvoorbeeld definitie van voltooid, beleid, kwaliteitsnormen)
+- [overeenkomsten](glossary:agreement) en verwachtingen die de werkstroom leiden (bijvoorbeeld definitie van voltooid, beleid, kwaliteitsnormen)
 - gebruik kleuren, symbolen, hoogtepunten etc.
+
+![Een kaart representeert een werkitem](img/workflow-and-value/card.png)

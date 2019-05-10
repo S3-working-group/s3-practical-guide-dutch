@@ -1,10 +1,9 @@
 ## Dubbele Koppeling
 
-![right,fit](img/structural-patterns/double-link.png)
+**Maak een *bidirectionele* informatiestroom en beïnvloeding tussen twee teams mogelijk.**
 
-**Maak een *twee-wegs* stroom van informatie en invloed mogelijk tussen twee groepen.**
+Twee onderling afhankelijke teams kiezen elk een van hun leden om hun belangen te behartigen in de governance besluiten van het andere team.
 
-Twee onderling afhankelijke groepen kiezen elk een van hun leden om hun belangen te behartigen in de governance besluiten van de andere groep.
+Een dubbele link maakt gelijkwaardigheid tussen twee teams mogelijk en kan worden gebruikt om waardevolle informatie uit hiërarchische structuren te halen.
 
-- zorgt voor gelijkwaardigheid tussen twee groepen
-- kan worden gebruikt om waardevolle informatie te verkrijgen in hiërarchische structuren
+![Dubbel koppelen van twee cirkels](img/structural-patterns/double-link.png)

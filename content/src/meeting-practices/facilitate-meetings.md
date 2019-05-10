@@ -1,9 +1,13 @@
 ## Facilitate Meetings
 
-Kies iemand om een vergadering te faciliteren. Zelfs een onervaren facilitator kan helpen om focus te behouden tijdens een vergadering en een positief verschil maken.
+**Choose someone to facilitate a meeting to help the group maintain focus, keep the meeting on track and draw out the participant's creativity and wisdom.**
 
-- een agenda van onderwerpen voorbereiden
-- selecteer een facilitator die: 
-    - een geschikte activiteit of formaat faciliteert voor elk topic
-    - houd de ruimte, houd de tijd in de gaten en navigeert de agenda tijdens de vergadering
-    - faciliteert de evaluatie aan het eind van de vergadering
+Before each meeting, prepare an agenda of topics, and select a facilitator to:
+
+- hold the space, keep the time and navigate the agenda during the meeting
+- facilitate a suitable activity for each topic
+- faciliteer een [evaluatie](section:evaluate-meetings) aan het eind van de vergadering
+
+Overweeg om een facilitator te selecteren voor een specifieke termijn. Zelfs een onervaren facilitator kan een positief verschil maken.
+
+**Zie ook:** [Bereid voor voor Vergaderingen](section:prepare-for-meetings), [Rolselectie](section:role-selection)

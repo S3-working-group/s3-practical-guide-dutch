@@ -2,60 +2,60 @@
 
 {{define:objection}}
 
-Bezwaren bevatten informatie waaruit blijkt dat:
+Bezwaren onthullen informatie over **onbedoelde gevolgen**, of over **potentiële manieren om te verbeteren**.
 
-- het zeer waarschijnlijk of zeker oplopen van schade (het is niet veilig genoeg om te proberen)
-- er manieren zijn om voorstellen, besluiten, overeenkomsten of acties direct te verbeteren zodat zij meer waarde opleveren
+Het is de verantwoordelijkheid van individuen om potentiële bezwaren tegen voorstellen, besluiten, bestaande [overeenkomsten](glossary:agreement) of acties te uiten.
 
-* * *
-
-### Bezwaren kwalificeren
-
-It's the accountability of individuals to raise potential objections.
-
-Degenen die verantwoordelijk zijn voor de actie of (voorgestelde) overeenkomst, zijn verantwoordelijk voor het *overwegen van argumenten en het verwerken van gekwalificeerde bezwaren.*
-
-Achterhouden van bezwaren kan schade toebrengen aan individuen, groepen of de hele organisatie, omdat dit het effectief reageren op drivers bemoeilijkt.
+Achterhouden van bezwaren kan schade toebrengen aan individuen, teams of de hele organisatie, omdat dit het effectief reageren op[ drivers van de organisatie](glossary:organizational-driver) bemoeilijkt.
 
 Het vermogen om *mogelijke* bezwaren op elk moment in te brengen, betekent dat besluiten alleen *goed genoeg moeten zijn voor nu en veilig genoeg om te proberen*.
 
-* * *
+Those accountable for the action or (proposed) agreement in question, are responsible for *considering arguments and addressing objections.*
 
-### Bezwaren kwalificeren (...)
+Bij het zoeken naar potentiële bezwaren, overweeg:
 
-*Wanneer we dit doen, hoe wordt de waardestroom in de organisatie dan belemmert of waar missen we dan een kans voor verbetering?*
+- waarom de [beoogde uitkomst](glossary:intended-outcome) niet (volledig) bereikt gaat worden: **effectiviteit**
+- why it would be wasteful to proceed as proposed (or previously agreed): **efficiency**
+- de negatieve gevolgen van iets op andere plekken (in hetzelfde [domein](glossary:domain), in de bredere organisatie of daarbuiten): **bijwerkingen**
 
-Bezwaren voorkomen:
+The information revealed by objections can be used to improve:
 
 - huidige en geplande actie
-- dat mensen acties ondernemen gebaseerd op genomen besluiten
-- dat bestaande overeenkomsten doorgaan zonder ze opnieuw te bekijken
-- dat voorstellen overeenkomsten worden
+- how people execute on decisions
+- bestaande overeenkomsten
+- voorstellen
+- shared understanding of drivers
 
-* * *
+### Bezwaren kwalificeren
+
+Niet alle argumenten zijn ook bezwaren. Maak onderscheid tussen bezwaren, die altijd waardevolle informatie onthullen, en andere argumenten die gebaseerd zijn op aannames of persoonlijke voorkeuren.
+
+To discover if an argument qualifies as an objection, in a group context a facilitator might ask:
+
+*“Do you think this argument qualifies as an objection?”*
+
+Als niemand het met het argument oneens is, is een bezwaar doorgaans gekwalificeerd. Streef er anders naar het werkelijke bezwaar te ontdekken of eventuele misvattingen te onthullen.
 
 ### Bezwaren begrijpen
 
 Enkele nuttige vragen:
 
-- How does the argument relate to this specific proposal or agreement?
+- Hoe zit het met dit specifieke voorstel of met deze overeenkomst?
 - Geeft het argument aan hoe een (voorgestelde of huidige) **actie of overeenkomst**: 
-    - harms response to any organizational driver?
-    - can be improved right now?
-    - prevents or diminishes someone's contribution towards responding to a driver?
-    - is in conflict with the organization's values?
-    - is considered not ‘safe enough’ to try?
-
-* * *
+    - bemoeilijkt de reactie op een driver van de organisatie?
+    - kan nu verbeterd worden?
+    - voorkomt of vermindert iemands bijdrage aan het reageren op een driver?
+    - is in strijd met de waarden van de organisatie?
+    - wordt gezien als niet “veilig genoeg” om te proberen?
 
 ### Zorgen
 
-Een **zorg** is een *mening* over dat iets doen (zelfs als het *goed genoeg voor nu en veilig genoeg om te proberen* is) ** kan leiden tot een belemmering – of een gemiste kans tot verbetering – van de stroom van waarde binnen de organisatie.</p> 
+{{define:concern}}
 
-Bij consent besluitvorming worden zorgen als volgt gebruikt:
+In [Consent Decision Making](section:consent-decision-making), concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation).
 
-- ze kunnen informatie geven over hoe overeenkomsten verder ontwikkeld kunnen worden (evaluatiecriteria en frequentie van evalueren) 
-- worden gehoord wanneer er tijd is of wanneer ze als zeer belangrijk worden beschouwd
-- ze worden vastgelegd (in een logboek)
+Bring up concerns if you consider them important and at least record them along with evaluation criteria.
 
-Als mensen denken dat een voorstel niet “veilig genoeg is om te proberen”, kunnen ze zorgen inbrengen als bezwaar om te controleren hoe anderen de kans op schade inschatten.
+If you are in doubt whether you have an objection or a concern, check with others if they think it qualifies as an objection.
+
+![Een manier om bezwaren te kwalificeren](img/agreements/qualify-objection-process.png)

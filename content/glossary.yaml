@@ -3,55 +3,70 @@ title: Woordenlijst
 continued: (...)
 terms:
   accountability:
-    name: Accountability
+    name: Accountability (principe)
     definition:
     glossary: Reageer wanneer er iets nodig is, houd je aan afspraken, en neem verantwoordelijkheid over het beloop van de organisatie.
   account:
     name: Verantwoordelijk zijn voor (w.)
-    glossary: om de verantwoordelijkheid te nemen voor iets dat moet worden aangepakt.
+    glossary: de verantwoordelijkheid nemen voor iets.
   agreement:
     name: Overeenkomst
-    definition: Een **overeenkomst** is een afspraak over een richtlijn, proces of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden.
-    glossary: Een overeengekomen richtlijn, proces of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden.
+    definition: Een **overeenkomst** is een afspraak over een richtlijn, proces, beleid of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden.
+    glossary: Een overeengekomen richtlijn, proces, beleid of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden.
   alignment:
     name: Alignment
     glossary: Het proces om de acties van alle delen van een organisatie op één lijn te brengen met de doelstellingen van de organisatie.
   backlog:
     name: Backlog
-    definition: Een **backlog** (to-do-lijst) is een zichtbare lijst van (meestal geprioriteerde) werkitems (drivers) waar aandacht aan besteed moet worden.
-    glossary: Een zichtbare lijst van (vaak geprioriteerde) onafgemaakte werkitems (drivers) waar aandacht aan besteed moet worden.
+    definition: Een **backlog** (naar-do-list) is een (geprioriteerde) lijst van werk gerelateerde items (deliverables), of (drivers) die nog moeten worden opgepakt.
+    glossary: Een (geprioriteerde) lijst van werk gerelateerde items (deliverables), of (drivers) die nog moeten worden opgepakt.
   chosen-values:
     name: Gekozen waarden
-    glossary: Een set van principes van een groep (of een organisatie) die zij gezamenlijk hebben gekozen en aangenomen als richtlijnen voor gewenst gedrag in de samenwerking.
+    glossary: Een set van principes van een team (of een organisatie) die zij gezamenlijk hebben gekozen en aangenomen als richtlijnen voor gewenst gedrag in de samenwerking.
   circle:
     name: Cirkel
-    definition: Een **cirkel** is een gelijkwaardige, zelfsturende en semi-autonome groep mensen die samenwerken om voor een domein te verantwoorden.
-    glossary: Een gelijkwaardige, semi-autonome en zelfsturende groep van mensen die samenwerken om verantwoording te geven aan een domein.
+    definition: Een **cirkel** is een zelfsturend en semi-autonoom team van gelijkwaardige mensen die samen verantwoording geven aan een domein.
+    glossary: Een zelfsturend en semi-autonoom team van gelijkwaardige mensen die samen verantwoording geven aan een domein.
+  check-in:
+    name: Inchecken
+    definition:
+    glossary: Een korte vermelding waar u iets deelt over wat u aandacht heeft, hoe het met u gaat, welke gedachten, gevoelens, afleidingen of behoeften u heeft.
   complexity:
     name: Complexiteit
     glossary: Een omgeving waar onbekenden onbekend zijn, oorzaak en gevolg alleen achteraf begrepen kunnen worden, en acties tot onvoorspelbare veranderingen leiden. [Snowden en Boone]
   concern:
     name: Zorg
-    definition:
-    glossary: De mening dat iets doen de waardestroom in de organisatie belemmert of dat we een kans missen voor verbetering.
+    definition: Een **zorg** is een aanname dat iets doen (zelfs in de afwezigheid van bezwaren) **mogelijk** in de weg kan staan van een (meer) effectieve reactie op een organisatiedrijfveer.
+    glossary: Een aanname dat iets doen (zelfs in de afwezigheid van bezwaren) mogelijk in de weg kan staan van een (meer) effectieve reactie op een organisatiedrijfveer.
   consent:
-    name: Consent
+    name: Instemming (beginsel)
     definition:
-    glossary: Dingen doen, omdat er geen goede reden is om het niet te doen.
+    glossary: Zoek bewust naar en benoem bezwaren op beslissingen en acties en zoek naar oplossingen voor deze bezwaren.
+  constituent:
+    name: Kiezer
+    definition:
+    glossary: Een team (bijv. een cirkel, team, afdeling, branch, project of organisatie) dat autoriteit delegeert aan een vertegenwoordiger om namens hen te handelen in andere teams of organisaties.
   continuous-improvement:
-    name: Continue verbetering
+    name: Continue Verbeteren (beginsel)
     definition:
     glossary: Incrementeel veranderen zodat gestaag empirisch leren kan plaatsvinden.
+  coordination:
+    name: Coördinatie
+    definition:
+    glossary: Het proces dat het mogelijk maakt voor individuen of teams om effectief samen te werken over verschillende domeinen heen om zo gemeenschappelijke doelstellingen te bereiken.
   delegatee:
     name: Gedelegeerde
     glossary: Een individu of groep die de aansprakelijkheid aanvaardt voor een domein dat aan hen is overgedragen.
+  delegation:
+    name: Delegeren
+    glossary: Het verlenen van gezag van de ene partij (de delegator) aan een andere (de gedelegeerde) om verantwoording te geven aan een domein, (dat wil zeggen bepaalde dingen te doen en/of bepaalde besluiten te nemen) waarvoor de delegator de algemene verantwoordelijkheid behoudt.
   delegator:
     name: Delegator
     glossary: Een individu of groep die de verantwoording voor een domein overdragen aan (een) ander(en).
   deliverable:
     name: Deliverable
-    definition:
-    glossary: Iets dat wordt opgeleverd voortkomend uit een overeenkomst over een reactie op een driver. Dit kunnen producten, grondstoffen, diensten, ervaringen en transformaties zijn.
+    definition: Een **deliverable** is een product, service, component of materiaal dat is geleverd in reactie op een driver van de organisatie.
+    glossary: Een product, service, component of materiaal dat is geleverd in reactie op een driver van de organisatie.
   domain:
     name: Domein
     definition: Een **domein** een afgebakend gebied van invloed, activiteit en besluitvorming binnen een organisatie.
@@ -61,60 +76,82 @@ terms:
     definition: Een **driver** is het motief van een persoon of een groep om te reageren op een specifieke situatie.
     glossary: Het motief van een persoon of een groep om te reageren op een specifieke situatie.
   effectiveness:
-    name: Effectiviteit
+    name: Effectiviteit (beginsel)
     definition: Besteed alleen tijd aan wat je dichter bij het bereiken van je doelstellingen brengt.
     glossary: Besteed alleen tijd aan wat je dichter bij het bereiken van je doelstellingen brengt.
   empiricism:
-    name: Empirie
+    name: Empirisme (beginsel)
     definition:
-    glossary: Test alle veronderstellingen door middel van experimenten, voortdurende herziening en falsificatie.
+    glossary: Test alle veronderstellingen door te experimenteren en te reviseren.
   equivalence:
-    name: Gelijkwaardigheid
+    name: Gelijkwaardigheid (beginsel)
     definition:
     glossary: Betrek mensen bij het nemen van de beslissingen die hen raken.
+  evolve:
+    name: Evolueren (v.)
+    glossary: geleidelijk ontwikkelen.
+  flow-of-value:
+    name: Stroom van waarde
+    glossary: Deliverables die door de organisatie heen stromen richting andere stakeholders en/of klanten.
   governance:
     name: Governance
-    definition:
-    glossary: Voortdurend besluiten over water moet gebeurend om doelstellingen te bereiken, en het vaststellen van kaders over hoe en wanneer dingen worden uitgevoerd.
+    definition: "**Governance** in een organisatie (of een domein) is het vaststellen van doelstellingen en het nemen en ontwikkelen van besluiten die ervoor moeten zorgen dat deze doelstellingen ook worden bereikt."
+    glossary: Het vaststellen van doelstellingen en het nemen en ontwikkelen van besluiten die ervoor moeten zorgen dat deze doelstellingen ook worden bereikt.
   governance-backlog:
     name: Governance backlog
     definition: Een **governance backlog** is een zichtbare, geprioriteerde lijst van items (drivers) die gerelateerd zijn aan het besturen van een domein en aandacht nodig hebben.
     glossary: Een zichtbare, geprioriteerde lijst van items (drivers) die gerelateerd zijn aan het besturen van een domein en aandacht nodig hebben.
+  intended-outcome:
+    name: Beoogde Resultaat
+    definition:
+    glossary: Het verwachte resultaat van een overeenkomst, actie, project of strategie.
+  helping-team:
+    name: Hulpteam
+    definition:
+    glossary: Een team van gelijkwaardige mensen met het mandaat om een specifieke reeks van eisen uit te voeren welke bepaald zijn door een delegerende persoon.
   key-responsibilities:
     name: Kernverantwoordelijkheden
     glossary: Essentieel werk en besluitvorming noodzakelijk in de context van een domein.
   logbook:
     name: Logboek
     definition:
-    glossary: Een (digitaal) systeem om alle informatie op te slaan die relevant is voor het sturen van een organisatie en de teams.
+    glossary: Een (digitaal) systeem om alle informatie op te slaan die relevant is voor het sturen van een organisatie.
   need:
     name: Behoefte
+    definition: Een behoefte is het gebrek aan iets wat gewenst of noodzakelijk is (een vereiste).
+    glossary: Het gebrek aan iets wat gewenst of noodzakelijk is (een vereiste).
+  open-domain:
+    name: Open Domein
     definition:
-    glossary: Een behoefte is het gebrek aan iets wat gewenst of noodzakelijk is.
+    glossary: Een domein dat wordt verantwoord door een groep mensen die worden uitgenodigd om bij te dragen wanneer ze dat kunnen.
   operations:
-    name: Activiteiten (Het werk uitvoeren)
-    definition:
-    glossary: Mensen die doen wat er moet gebeuren, ondersteunt door coördinatie en governance.
+    name: Activiteiten
+    definition: "**Activiteiten** is het doen en organiseren van werk en dagelijks activiteiten binnen de kaders die zijn gedefinieerd door governance."
+    glossary: Het doen en organiseren van werk en dagelijks activiteiten binnen de kaders die zijn gedefinieerd door governance.
+  operations-backlog:
+    name: Activiteiten backlog
+    definition: Een **activiteiten backlog** is een zichtbare lijst van (meestal geprioriteerde) nog op te leveren werkitems (op te leveren resultaten).
+    glossary: Een zichtbare lijst van (meestal geprioriteerde) nog op te leveren werkitems (op te leveren resultaten).
   objection:
     name: Bezwaar
-    definition: Een **bezwaar** is een reden waarom iets doet in de weg staat van (meer) effectieve reactie op een driver.
-    glossary: Een reden voor waarom iets doen in de weg staat van een (meer) effectieve reactie op driver.
+    definition: Een **bezwaar** is een reden waarom iets doen in de weg staat van een (meer) effectieve reactie op een driver van de organisatie (dat wil zeggen een vereiste van de organisatie).
+    glossary: Een _argument_ – gerelateerd aan een voorstel, besluit, bestaande overeenkomst of actie – die onbedoelde gevolgen of potentiële manieren om te verbeteren onthult.
   peer-domain:
     name: Domein op gelijk niveau
     definition:
     glossary: Twee domeinen bevinden zich binnen hetzelfde directe superdomein en kunnen overlappen.
+  objective:
+    name: Doel
+    definition:
+    glossary: Een (specifiek) resultaat dat een persoon of team of organisatie wil bereiken; een streven of een doel.
   organization:
     name: Organisatie
     definition:
-    glossary: Een groep mensen die samenwerkt aan een gezamenlijk doel (of driver).
+    glossary: Een groep mensen die samenwerken aan een gedeelde driver (of doel). Vaak verdeelt een organisatie zich in verschillende teams.
   organizational-driver:
     name: Driver van de Organisatie
-    definition: Een **organisatorische driver** is een driver die (direct of indirect) gerelateerd is aan de primaire driver van een organisatie.
-    glossary: Een driver die (direct of indirect) gerelateerd is aan de primaire driver van een organisatie.
-  peer-drivers:
-    name: Peer Drivers
     definition:
-    glossary: Twee drivers die direct het gevolg zijn van een reactie op dezelfde superdriver, worden zogenaamde peer drivers genoemd.
+    glossary: Een driver is het motief van een persoon of groep om te reageren op een specifieke situatie. Een driver is een **driver van de organisatie** als een reactie op deze driver de organisatie zou helpen om waarde te genereren, verspilling te elimineren of schade te voorkomen.
   pattern:
     name: Patroon
     definition: Een **patroon** is een sjabloon om een specifieke context succesvol te navigeren.
@@ -122,18 +159,18 @@ terms:
   primary-driver:
     name: Primaire Driver
     definition:
-    glossary: De driver die een domein definieert wordt de primaire bestuurder van dat domein genoemd.
+    glossary: The primary driver for a domain is the main driver that people who account for that domain respond to.
   principle:
     name: Principe
-    definition: Een **principe** is een basisidee of regel die uitleg geeft of bepaald hoe iets gebeurt of werkt.
-    glossary: Een basisidee of regel die verklaart of bepaalt hoe iets gebeurt of werkt.
+    definition: A **principle** is a basic idea or rule that guides behavior, or explains or controls how something happens or works.
+    glossary: A basic idea or rule that guides behavior, or explains or controls how something happens or works.
   role:
     name: Rol
     definition:
-    glossary: Een gebied van accountability gedefinieerd door een domein en toegewezen aan een individu.
+    glossary: A domain that is delegated to an individual.
   scm:
-    name: SKM
-    glossary: (de Sociocratische Kring-Organisatie Method) Een op sociaal-democratische principes gebaseerde bestuursmethode voor organisaties, ontwikkeld door Gerard Endenburg in Nederland.
+    name: Sociocratic Circle-Organisation Method (SCM)
+    glossary: An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
   self-governance:
     name: Zelfsturing
     definition:
@@ -141,18 +178,18 @@ terms:
   self-organization:
     name: Zelforganisatie
     definition:
-    glossary: Mensen coördineren werk binnen de kaders die door governance zijn vastgesteld.
+    glossary: Elke activiteit of proces waarmee mensen hun dagelijkse werk organiseren zonder invloed van een externe tussenpersonen, en binnen kaders die zijn gedefinieerd door governance. In elke organisatie of team bestaan zelforganisatie en externe invloed naast elkaar.
   semi-autonomy:
     name: Semi-autonomie
     definition:
-    glossary: Mensen met autonomie om waarde te creëren, beperkt door de kaders van hun domein.
+    glossary: De autonomie van mensen om waarde te creëren binnen hun domein, verder beperkt door hun eigen governance besluiten en bezwaren (waaronder die van de delegator en van vertegenwoordigers).
   sociocracy:
     name: Sociocratie
     glossary: Een denkwijze waarbij mensen die door besluiten worden getroffen, deze kunnen beïnvloeden op basis van redenen om dat te doen.
   strategy:
     name: Strategie
-    definition: Een **strategie** is een hoog over aanpak voor hoe mensen waarde gaan creëren om succesvol invulling te geven aan een domein.
-    glossary: Een hoog over aanpak voor hoe mensen waarde gaan creëren om succesvol invulling te geven aan een domein.
+    definition: Een **strategie** is een hoog over aanpak voor hoe mensen waarde gaan creëren om succesvol invulling te geven aan (de driver en doelstelling van) een domein.
+    glossary: Een hoog over aanpak voor hoe mensen waarde gaan creëren om succesvol invulling te geven aan (de driver en doelstelling van) een domein.
   subdomain:
     name: Subdomein
     definition:
@@ -169,8 +206,20 @@ terms:
     name: Superdomein
     definition:
     glossary: Een domein dat een ander domein volledig omvat.
+  team:
+    name: Team
+    definition:
+    glossary: Een groep mensen die samenwerken naar een gedeelde bestuurder (of objectief). Meestal maakt een team deel uit van een organisatie, of wordt het gevormd als een samenwerking van verschillende organisaties.
+  tension:
+    name: Spanning
+    definition:
+    glossary: Een persoonlijke ervaring, een teken van dissonantie tussen hoe iemand zou willen dat het is en hoe iemand vindt dat het werkelijk is.
+  timebox:
+    name: Timebox
+    definition: Een **timebox** is een vooraf afgesproken tijdsperiode die te besteden is aan een specifieke activiteit (die niet noodzakelijkerwijs is afgerond aan het einde van de timebox).
+    glossary: Een vooraf afgesproken tijdsperiode die te besteden is aan een specifieke activiteit (die niet noodzakelijkerwijs is afgerond aan het einde van de timebox).
   transparency:
-    name: Transparantie
+    name: Transparantie (beginsel)
     definition:
     glossary: Alle informatie toegankelijk maken voor iedereen in een organisatie, tenzij er een goede reden is om dit niet te doen.
   value:
@@ -179,9 +228,9 @@ terms:
     glossary: Het belang of nut van iets in relatie tot de driver. Het kan ook een principe zijn dat dient als richtlijn voor gedrag, dan meestal in het meervoud (waardes).
   values:
     name: Waarden
-    glossary: Waardevolle principes die dienen als richtlijnen voor gewenst gedrag. Niet te verwarren met waarde (enkelvoud) in de context van een driver.
+    definition: "** Waarden ** zijn waardevolle principes die dienen als richtlijnen voor gewenst gedrag. Waarden definiëren de ruimte voor actie en ethische beperkingen."
+    glossary: "Waardevolle principes die dienen als richtlijnen voor gewenst gedrag. Niet te verwarren met waarde (enkelvoud) in de context van een driver."
   waste:
     name: Verspilling
     definition: "**Verspilling** is alles dat onnodig is of in de weg staat om op een (meer) effectieve manier te reageren op de driver."
     glossary: Alles dat onnodig is of in de weg staat om op een (meer) effectieve manier te reageren op de driver.
-

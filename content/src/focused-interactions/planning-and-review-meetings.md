@@ -1,8 +1,9 @@
 ## Planning en Review Vergaderingen
 
-![right,fit](img/meetings/planning-review.png)
+**Mensen komen regelmatig bij elkaar (1-4 weken) in getimeboxte vergaderingen om werk te plannen en te evalueren.**
 
-Mensen komen regelmatig bij elkaar (1-4 weken) in time-boxed vergaderingen om werk te plannen en te evalueren.
+**Planning vergadering**: selecteer en schat in welke werkitems gepland worden voor de volgende iteratie.
 
-- selecteer en schat tijdens de planningsvergadering in welke werkitems de komende iteratie opgepakt zullen worden
-- evalueer de items die afgerond zijn tijdens een review vergadering en besluit of er items aangepast moeten worden en welke andere wijzigingen er eventueel zijn voor de volgende iteratie
+**Review vergadering**: bekijk voltooide werkitems en besluit of er dingen opnieuw gedaan moeten worden of moeten worden aangepast voor de komende iteratie.
+
+![Planning en Review Vergaderingen](img/meetings/planning-review.png)

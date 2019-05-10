@@ -1,7 +1,7 @@
 ## Koppelen
 
-![right,fit](img/structural-patterns/link.png)
+**Maak de informatiestroom en beïnvloeding tussen twee teams mogelijk.**
 
-**Maakt het stromen van informatie en invloed tussen twee groepen mogelijk.**
+Een team selecteert één van zijn leden om hun belangen te behartigen bij de [governance](glossary:governance) besluiten van een ander team.
 
-Een groep selecteert een van haar leden om hun belangen te behartigen in de governance besluiten van een andere groep.
+![Een cirkel gekoppeld aan een andere cirkel](img/structural-patterns/link.png)

@@ -1,23 +1,22 @@
 ## Evaluate Meetings
 
-![right,fit](img/meetings/evaluate-interactions.png)
-
 **Neem tijd om te leren aan het einde van elke vergadering of workshop.**
 
-Reflecteer op interacties, vier successen en deel suggesties voor verbetering.
+Reflecteer op interacties, vier successen en deel suggesties voor verbetering voor het sluiten van de vergadering.
 
-- vóór de afsluitronde
 - reserveer hier 5 minuten voor bij 1 uur en 15 minuten bij een volledige workshop
-- leg het geleerde vast en bekijk dit voorafgaand aan de volgende vergadering
-- korte formats: 
-    - minder doen/meer doen/mee beginnen/mee stoppen
-    - positief/minder goed/voorgestelde verbeteringen
+- record learning and review it before the next meeting
 
-* * *
+Korte formats die u kunt gebruiken:
+
+- minder doen/meer doen/mee beginnen/mee stoppen
+- positief/minder goed/voorgestelde verbeteringen
+
+![Evalueer vergaderingen meteen voordat de vergadering wordt gesloten](img/meetings/evaluate-interactions.png)
 
 ### Evaluate Meetings: Long Format
 
-Vragen iedereen in een ronde na te denken over een of meer van de volgende onderwerpen en dit kort te delen:
+Vraag iedereen in een [ronde](section:round) kort iets te delen over een of meer van de volgende onderwerpen en degenen die belangrijk zijn voor de volgende keer vast te leggen:
 
 - effectiviteit en indeling
 - facilitering en deelname

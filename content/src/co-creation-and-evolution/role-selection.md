@@ -1,14 +1,34 @@
 ## RolSelectie
 
-![right,fit](img/agreements/selection.png)
+**Een groepsproces om een persoon te selecteren voor een rol op grond van de reden.**
 
-**Een groepsproces om mensen te selecteren voor rollen.**
+In plaats van simpelweg het toewijzen van mensen aan [rollen](section:role), of het maken van een keuze alleen gebaseerd op meerderheid, kan men gebruik maken van het rol selectieproces om:
 
-- Mensen vermijden interesse uit te spreken voor het selectieproces
-- Nominaties worden gemaakt op basis van de reden, niet volgens de meerderheid
-- Je kunt jezelf nomineren of passen
-- Wanneer er gezocht wordt naar bezwaren, vraag de persoon die genomineerd is als laatste
+- tap collective intelligence by hearing and deliberating on reasons for nominations
+- increase ownership over the decision
+- ensure support for the role keeper by those affected.
 
-Bezwaren op een kandidaat kan op meerdere manieren worden opgelost, inclusief het aan passen van de rolomschrijving of door iemand anders te nomineren.
+Een voorwaarde voor het selectieproces is een [duidelijke beschrijving](section:clarify-domains) van het rol [domein](glossary:domain).
 
-**Opmerking:** Dit patroon kan ook worden gebruikt om één optie te selecteren wanneer er eerdere mogelijkheden zijn.
+### Rol selectie - Stappen
+
+![Rol selectie proces](img/agreements/selection.png)
+
+1. **Presenteer Rolomschrijving:** indien mogelijk, stuur de domeinnaam van de rol vooraf.
+2. **Registreer Nominaties:** Deelnemers schrijven hun nominatie op een papiertje. Mensen kunnen zichzelf nomineren, iemand anders of passen.
+3. ** redenen voor nominaties: ** Elke persoon deelt wie ze hebben genomineerd en waarom.
+4. **Informatie Verzamelen:** Deelnemers delen of vragen informatie die de groep kan ondersteunen bij het maken van een passende selectie.
+5. **Nominatie Wijzigingen:** Controleer of iemand zijn nominatie wil wijzigen in het licht van redenen en informatie die tot nu toe gedeeld zijn, en luister naar de redenen voor elke verandering.
+6. **Stel een genomineerde voor** voor de rol: De facilitator leidt het proces om een geschikte genomineerde te identificeren op basis van de redenen die zijn gehoord, bijvoorbeeld door: 
+    - zelf een genomineerde voor te stellen of een groepslid te vragen
+    - enkele genomineerde uit te nodigen om samen tot een voorstel te komen voor wie er genomineerd zou moeten zijn
+    - uitnodiging tot groepsdialoog om te helpen bij het vinden van de sterkste genomineerde
+7. **Vraag om bezwaren:** Vraag deelnemers (inclusief de voorgestelde genomineerde) om tegelijkertijd te laten zien of ze al dan niet [bezwaar](glossary:objection) hebben. 
+8. **Adresseer en los bezwaren op** begin met een van de voorgestelde genomineerden. [Bezwaren](section:resolve-objections) op een genomineerde kunnen op meerdere manieren <0>worden opgelost</0>, inclusief het aan passen van de rolomschrijving of iemand anders te nomineren. Als alle bezwaren worden opgelost, controleer dan opnieuw of de (uiteindelijke) kandidaat de rol aanvaardt.
+9. **Vieren!:** Erken de bereikte overeenstemming en bedank de persoon die vanaf nu rolhouder is.
+
+Om te voorkomen dat anderen worden beïnvloed, vermijd het uiten van persoonlijke belangstelling of meningen voordat de selectie plaatsvindt.
+
+Soms blijkt uit een rol selectie dat er een gebrek aan capaciteit, relevante ervaring, kwaliteiten of vaardigheden is. Een groep zal dan ook moeten overwegen om externe kandidaten te kiezen, prioriteiten te heroverwegen of een alternatieve manier te vinden om het domein te verantwoorden.
+
+Dit patroon kan ook worden gebruikt in een situatie waarin een keuze tussen verschillende opties nodig is.

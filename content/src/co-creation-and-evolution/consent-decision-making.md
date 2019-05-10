@@ -1,17 +1,16 @@
 ## Consente Besluitvorming
 
-![right,fit](img/agreements/cdm-condensed.png)
+**Een (gefaciliteerd) groepsproces voor besluitvorming: het uitnodigen van bezwaren en het overwegen van informatie en kennis die aan het licht zijn gekomen om voorstellen of bestaande overeenkomsten verder te ontwikkelen.**
 
-**Een (gefaciliteerd) groepsproces om besluiten te nemen.**
+Voorstellen worden [overeenkomsten](glossary:agreement) wanneer zij *goed genoeg voor nu zijn en veilig genoeg om te proberen* tot de volgende review.
 
-- nodig uit tot bezwaar en integreer de wijsheid die zij onthullen om bestaande voorstellen of besluiten te evolueren
-- het achterhouden van bezwaren kan het bereiken van de doelstellingen van een groep bemoeilijken
-- onopgeloste bezwaren voorkomen dat voorstellen overeenkomsten worden
-- voorstellen hoeven alleen *goed genoeg te zijn voor nu en veilig genoeg om te proberen* tot de volgende review
+Onopgeloste [bezwaren](glossary:objection) zorgen ervoor dat voorstellen geen overeenkomsten worden.
 
-* * *
+Het achterhouden van bezwaren kan het bereiken van de doelstellingen van een team bemoeilijken.
 
-### Implicit Contract of Consent
+### Impliciet Contract van Consent
 
-- Het is mijn intentie om, in de afwezigheid van bezwaren op een overeenkomst, uitvoering te geven aan hetgeen is afgesproken.
-- Ik stem ermee in om bezwaren te delen op de momenten dat ik mij daarvan bewust ben.
+1. In the absence of objections to an agreement, I intend to follow through on the agreement to the best of my ability.
+2. Ik stem ermee in om bezwaren te delen op de momenten dat ik mij daarvan bewust ben.
+
+![Consente Besluitvorming](img/agreements/consent-decision-making.png)

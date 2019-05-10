@@ -2,12 +2,10 @@
 
 **Een plan voor de ontwikkeling van effectievere manieren om te reageren op een domein, overeengekomen tussen delegator en gedelegeerde.**
 
-Het ontwikkelingsplan kan worden gemaakt voor een persoon in een rol, of voor een groep (bijvoorbeeld een afdeling, cirkel, team of open domein).
+Het ontwikkelingsplan kan worden gemaakt voor een persoon in een rol, of voor een team (bijv. een afdeling, [cirkel](section:circle) of [open domein](section:open-domain)).
 
-Ontwikkeling kan gebeuren door de beschrijving van driver en het domein te verfijnen, het wijzigen van de strategie, of door nieuwe of bijgewerkte overeenkomsten en specifieke acties die moeten worden ondernomen, hetzij binnen het domein van de delegator, hetzij binnen het domein van de gedelegeerde.
+Ontwikkeling kan gebeuren door de beschrijving van [driver](section:organizational-driver) en het [domein](glossary:domain) te verfijnen, het wijzigen van de [strategie](glossary:strategy), of door nieuwe of bijgewerkte overeenkomsten en specifieke acties die moeten worden ondernomen, hetzij binnen het domein van de delegator, hetzij binnen het domein van de gedelegeerde.
 
-Een ontwikkelingsplan (en eventuele begeleidende aanbevelingen voor wijzigingen in de domeinnaam en de driver) vereist toestemming van zowel de gedelegeerde als de delegator.
+Een ontwikkelplan (en alle bijbehorende aanbevelingen voor wijzigingen in de beschrijvingen van het [domein](glossary:domain) en de [driver](glossary:organizational-driver)) vereist consent van zowel de [gedelegeerde](glossary:delegatee) als de [delegator](glossary:delegator).
 
-* * *
-
-![inline,fit](img/templates/development-plan-template.png)
+![Een format voor ontwikkelplannen](img/templates/development-plan-template.png)
