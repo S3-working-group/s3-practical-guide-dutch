@@ -10,7 +10,7 @@ We verkopen consultancy, faciliteren leren, coaching en mentoring, ook gericht o
 
 <https://thriveincollaboration.com>
 
-[james@thriveincollaboration.com](james@thriveincollaboration.com)
+<james@thriveincollaboration.com>
 
 ### Bernhard Bockelbrink
 
@@ -18,7 +18,7 @@ We verkopen consultancy, faciliteren leren, coaching en mentoring, ook gericht o
 
 <https://evolvingcollaboration.com>
 
-[bernhard.bockelbrink@evolvingcollaboration.com](bernhard.bockelbrink@evolvingcollaboration.com)
+<bernhard.bockelbrink@evolvingcollaboration.com>
 
 ### Liliana David
 
@@ -26,4 +26,4 @@ We verkopen consultancy, faciliteren leren, coaching en mentoring, ook gericht o
 
 <https://thriveincollaboration.com>
 
-[lili@thriveincollaboration.com]<lili@thriveincollaboration.com>
+<lili@thriveincollaboration.com>

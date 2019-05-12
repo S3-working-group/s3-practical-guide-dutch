@@ -1,6 +1,6 @@
 ## Wijzigingen
 
-### Wijzigingen 2019-05-01
+### Wijzigingen 2019-05-03
 
 - verfijnde glossary termen voor [overaankomst](glossary:agreement), [organisatie](glossary:organization) en [team](glossary:team), voegde woordenlijst term toe voor [Doelstelling](glossary:objective)
 - Prinses van Accountability: verduidelijkt de individuele accountablity voor het werk en voor samenwerking
