@@ -1,13 +1,13 @@
 ## Check In
 
-**Help people to become aware of themselves and others, and to focus, be present and engage.**
+**Help mensen zich bewust te worden van zichzelf en anderen en zich te concentreren, aanwezig te zijn en zich te engageren.**
 
-To check in, briefly disclose something about what’s up for you and how you are, revealing thoughts, feelings, distractions or needs.
+Deel tijdens de check in iets over wat jouw aandacht heeft, hoe het gaat, welke gedachten, gevoelens, afleidingen of behoeften je hebt.
 
-Checking in may take the form of an opening or closing round in a group meeting, or just a brief exchange in a 1:1 meeting.
+De check in kan in de vorm van een openingsronde of afsluitronde tijdens een groepsbijeenkomst, of gewoon tijdens een 1 op 1.
 
-You can also call for a group check-in during a meeting, or even choose to individually check in whenever you think this is valuable for the group.
+Je kan ook een groeps check in hebben tijdens de vergadering, of een individuele check in nemen wanneer je denkt dat dit waardevol is.
 
-In a group check-in, allow people to pass if they choose.
+Tijdens een groepscheck in moeten mensen ook kunnen passen.
 
-When checking in, in a new setting, people can also say their name and where they are coming from, as a way to introduce themselves. (Tip: Avoid talking about function, rank etc unless there is a reason to do so.)
+In een nieuwe setting kunnen mensen ook hun naam noemen tijdens de check in, als een manier om zichzelf voor te stellen. (tip: vermijdt om over functie en status te praten, tenzij er een goede reden is om dat wel te doen.)

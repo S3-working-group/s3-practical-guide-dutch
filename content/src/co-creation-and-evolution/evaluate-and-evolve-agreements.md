@@ -1,11 +1,11 @@
-## Evaluate And Evolve Agreements
+## Overeenkomsten evalueren en doorontwikkelen
 
 **Blijf overeenkomsten voortdurend ontwikkel en elimineer verspilling.**
 
 Een regelmatige herziening van overeenkomsten is essentieel voor een lerende organisatie:
 
-- adapt agreements to suit changing context
-- integrate learning to make them more effective
+- pas overeenkomsten aan om beter te passen bij de context
+- integreer het geleerde om ze effectiever te maken
 
 Zorg ervoor dat alle [overeenkomsten](glossary:agreement) een passende reviewdatum hebben.
 
@@ -13,30 +13,30 @@ Evaluatie van overeenkomsten kan zo eenvoudig zijn als even snel checken of iets
 
 ![Experimenteren, evalueren, evolueren](img/evolution/kaizen.png)
 
-Agreements are often reviewed in [Governance Meetings](section:governance-meeting), however sometimes it's more effective to schedule a dedicated session.
+Overeenkomsten worden vaak herzien in [Governance vergaderingen](section:governance-meeting), maar soms is het effectiever om een speciale sessie te plannen.
 
-Adjust review frequency as necessary, and review early if required.
+Pas de review frequentie aan indien nodig en doe het eerder indien nodig.
 
-Elements of this pattern can also be used by individuals to evaluate decisions they make.
+Elementen van dit proces kunnen ook door individuen worden gebruikt om beslissingen die zij nemen te evalueren.
 
 ### Korte formats
 
-- *How has this agreement helped us?*
-- *Is there any reason to drop this agreement?*
-- *How can this agreement be improved?*
-- Agree on a next review date.
+- *Hoe heeft deze overeenkomst ons geholpen?*
+- *Is er reden om deze overeenkomst te laten vallen?*
+- *Hoe kan deze overeenkomst worden verbeterd?*
+- Zet de datum voor de volgende review vast.
 
 ### Lang Format
 
 ![Een lang format voor het beoordelen en evolueren van overeenkomsten](img/agreements/evaluate-agreements.png)
 
-Preparation:
+Voorbereiding:
 
-- Schedule the review.
-- Ensure all necessary information is available.
+- Plan de review.
+- Zorg ervoor dat alle noodzakelijke informatie beschikbaar is.
 
-Follow-up:
+Opvolging:
 
-- Agree on the next review date.
-- Document decisions and tasks, and share with relevant people.
-- Consider effects on any related agreements.
+- Zet de datum voor de volgende review vast.
+- Leg besluiten en taken vast en deel deze met relevante personen.
+- Denk aan de gevolgen voor alle overeenkomsten die hiermee verband houden.

@@ -1,6 +1,6 @@
-## Sociocracy 3.0 - A Practical Guide For Evolving Agile and Resilient Organizations
+## Sociocratie 3.0 - Een praktische gids voor de ontwikkeling van wendbare en veerkrachtige organisaties
 
-### Effective Collaboration At Any Scale
+### Effectief samenwerken op elke schaal
 
 Sociocratie 3.0 - **oftewel S3** is een praktische gids om wendbare en veerkrachtige organisaties te ontwikkelen van elke schaalgrootte, van kleine start-ups tot aan grote internationale netwerken en landelijke samenwerkingen bestaande uit meerdere entiteiten. Het voorziet in een samenhangende manier om integriteit in een organisatie te laten groeien en **een sociocratische, agile manier van denken** te ontwikkelen.
 

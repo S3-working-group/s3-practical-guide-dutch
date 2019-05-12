@@ -20,9 +20,9 @@ Degenen die een domein delegeren (de *delegatoren*) behouden nog steeds de algeh
 
 Het is ook mogelijk om een domein te begrijpen in relatie tot drivers van de organisatie:
 
-- the domain's **primary driver** - the main driver the people accounting for that domain (the *delegatees*) respond to
-- the set of subdrivers the organization may benefit from addressing when responding to the primary driver, which include: 
-    - **key responsibilities** (any driver following directly from the domain's primary driver)
-    - drivers for **constraints of the domain** (which typically relate to the organization's wider context)
+- de **primaire driver** van het domein is de hoofddriver waar de mensen die voor dat domein verantwoordelijk zijn (de *gedelegeerden*) op reageren
+- de reeks subdrivers waar de organisatie aandacht aan moet besteden om te reageren op de primaire driver. Denk hierbij aan: 
+    - **kernverantwoordelijkheden** (elke driver die direct voortkomt uit de primaire driver van het domein)
+    - drivers voor **kaders van het domein** (die meestal betrekking hebben op de bredere context van de organisatie)
 
 ![Drivers en domeinen](img/driver-domain/drivers-and-domains.png)

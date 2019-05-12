@@ -11,11 +11,11 @@ msgstr ""
 "Last-Translator: sociocracy30\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2019-05-10 15:53\n"
+"PO-Revision-Date: 2019-05-12 09:37\n"
 
 # continuation marker for follow-up slides
 msgid "(…)"
-msgstr "(…)"
+msgstr ""
 
 # patterns (plural)
 msgid "Patterns"
@@ -31,7 +31,7 @@ msgstr "Sociocratie 3.0 - Een praktische gids"
 
 # site descriptions for practical guide microsite
 msgid "The official description of Sociocracy 3.0 — All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
-msgstr ""
+msgstr "De officiële beschrijving van Sociocratie 3.0 – Alle patronen, de zeven principes en kernbegrippen. Onderhouden door Bernhard Bockelbrink, James Priest en Liliana David."
 
 # Headline for Section "Introduction" (e.g. in ebook)
 msgid "Introduction"
@@ -51,7 +51,7 @@ msgstr " Patroon %(chapter)s.%(section)s:"
 
 # Filename
 msgid "S3-practical-guide"
-msgstr "S3-praktische gids"
+msgstr ""
 
 # Title for reveal.js slide deck
 msgid "S3 - A Practical Guide"

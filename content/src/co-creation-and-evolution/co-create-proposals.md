@@ -1,18 +1,18 @@
 ## Voorstellen co-creëren
 
-**Bring people together to co-create proposals in response to organizational drivers: tap collective intelligence, build sense of ownership and increase engagement and accountability.**
+**Breng mensen samen om voorstellen te co-creëren in reactie op drivers van de organisatie: maak gebruik van de collectieve intelligentie, vergroot het gevoel van eigenaarschap en betrokkenheid en accountability.**
 
-There are many ways to co-create proposals. They typically follow a similar pattern:
+Er zijn veel manieren om voorstellen te co-creëren. Ze volgen meestal een soortgelijk patroon:
 
 1. Stem in met de [driver](glossary:organizational-driver) (of probleem / kans / behoefte)
-2. Explore the topic and understand constraints
-3. Generate ideas
-4. Design a proposal (often done by a smaller group)
+2. Verken het onderwerp en begrijp kaders
+3. Genereer ideeën
+4. Ontwerp een voorstel (vaak gedaan door een kleinere groep)
 
-One way to co-create proposals is to use S3's [Proposal Forming](section:proposal-forming) pattern.
+Een manier om voorstellen te maken is om S3's [Voorstel vorm](section:proposal-forming) patroon te gebruiken.
 
-![Een format voor voorstellen](img/templates/proposal-template.png)
+![Een format voor voorstellen](img/templates/voorstel-template.png)
 
-For inspiration for steps 2 and 3, look to classic group facilitation techniques or design thinking activities.
+Voor inspiratie voor stappen 2 en 3, kijk naar klassieke groepsfaciliteringstechnieken of Design Thinking activiteiten.
 
-Besides in a face-to-face workshop, you can adapt this process for online meetings. You can even use it asynchronously (and over an extended period of time) to include many people.
+Naast een face-to-face workshop kun je dit proces aanpassen voor online vergaderingen. Het kan zelfs asynchroon (en gedurende een langere periode) gebruiken om veel mensen erbij te betrekken.

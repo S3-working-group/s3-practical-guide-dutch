@@ -1,11 +1,11 @@
-## Governance Backlog
+## Governance backlog
 
 {{define:governance-backlog}}
 
-A governance backlog contains:
+Een governance backlog bevat:
 
-- matters requiring a decision
+- zaken die een besluit vereisen
 - voorstellen om te maken en overwegen
 - mensen selecteren voor rollen
 
-**Note:** Upcoming reports and agreements due review are usually added directly to the agenda (rather than the backlog).
+**Opmerking:** Aankomende verslagen en overeenkomsten die gereviewed moeten worden, worden meestal direct toegevoegd aan de agenda (in plaats van de backlog).

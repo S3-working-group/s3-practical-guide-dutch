@@ -22,9 +22,9 @@
 
 **Verzamel ideeën** als mogelijke ingrediënten voor een voorstel.
 
-**Ontwerp een voorstel** over hoe te reageren op de driver, door de creatieve ideeën en informatie die tot nu toe verzameld is te gebruiken. Dit wordt meestal gedaan door een kleinere groep (tuners).
+**Ontwerp een voorstel** over hoe te reageren op de driver, door de creatieve ideeën en informatie die tot nu toe verzameld is te gebruiken. Dit wordt meestal gedaan door een kleinere groep (fine)"tuners".
 
-### Choosing Tuners
+### Selecteer tuners
 
 Denk aan:
 
@@ -33,6 +33,6 @@ Denk aan:
 - wie kan eventueel nog meer een waardevolle bijdrage leveren?
 - denk aan expertise, blik van buiten, en inspiratie
 
-Tussen twee en drie tuners is meestal voldoende. Controleer op eventuele bezwaren tegen de voorgestelde tuner(s).
+Tussen twee en drie tuners is meestal geschikt. Controleer of er bezwaren zijn tegen de voorgestelde tuner(s).
 
 ![Voorstel vormproces](img/agreements/proposal-forming.png)
