@@ -1,11 +1,11 @@
 ---
 section-prefix: ' Patroon %(chapter)s.%(section)s:'
 content:
-  title: titel
+  title: title
   end: SKIP
   introduction:
     title: Introductie
-    slug: introductie
+    slug: introduction
     sections:
       - 
         title: S3 Overzicht

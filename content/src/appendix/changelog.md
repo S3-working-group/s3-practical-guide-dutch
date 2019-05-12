@@ -123,7 +123,7 @@
 - [Voorbereiden van vergaderingen](section:prepare-for-meetings)
 - [Activiteiten timeboxen](section:timebox-activities)
 
-### Wijzigingen 2018-08-17
+### Wijzigingen 2018-03-31
 
 - patroon *Beschrijf Drivers* naar *Beschrijf drivers van de organisatie* hernoemd
 - [Beschrijf drivers van de organisatie](section:describe-organizational-drivers): de vier aspecten van een driver uitgelegd: de huidige situatie, de gevolgen van de situatie voor de organisatie, de behoefte van de organisatie in verband met deze situatie en de gevolgen van het feit dat zij zich bezighouden met het vervullen van de behoefte

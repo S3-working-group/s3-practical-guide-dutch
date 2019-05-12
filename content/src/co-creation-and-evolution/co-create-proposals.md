@@ -11,7 +11,7 @@ Er zijn veel manieren om voorstellen te co-creëren. Ze volgen meestal een soort
 
 Een manier om voorstellen te maken is om S3's [Voorstel vorm](section:proposal-forming) patroon te gebruiken.
 
-![Een format voor voorstellen](img/templates/voorstel-template.png)
+![Een format voor voorstellen](img/templates/proposal-template.png)
 
 Voor inspiratie voor stappen 2 en 3, kijk naar klassieke groepsfaciliteringstechnieken of Design Thinking activiteiten.
 
