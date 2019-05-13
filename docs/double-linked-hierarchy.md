@@ -1,5 +1,5 @@
 ---
-title: "Double-Linked Hierarchy"
+title: "Dubbel-gelinkte Hiërarchie"
 ---
 
 
@@ -11,8 +11,8 @@ de kaders van een domein."> zelforganiserende</dfn><dfn data-info="Cirkel: Een z
 
 Een dubbel-gelinkte hiërarchie:
 
-- brings equivalence to governance
-- maintains the potential for a functional hierarchy (if it enables the flow of value).
+- brengt gelijkwaardigheid in governance
+- behoud de mogelijkheid om een functionele hiërarchie in stand te houden (als het de stroom van waarde mogelijk maakt).
 
 ![Een dubbele-gelinkte hiërarchie: niet de typische hiërarchie](img/structural-patterns/double-linked-hierarchy.png)
 

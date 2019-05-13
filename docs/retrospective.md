@@ -3,7 +3,7 @@ title: "Retrospectief"
 ---
 
 
-**Dedicate time to reflect on past experience, learn, and decide how to improve work process.**
+**Spendeer tijd aan het reflecteren op opgedane ervaringen, leer ervan en besluit hoe het werkproces verbeterd kan worden.**
 
 - uitkomst: wijzigingen in het werkproces, nieuwe taken, "tussendoor" <dfn data-info="Overeenkomst: Een overeengekomen richtlijn, proces, beleid of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden.">overeenkomsten</dfn>, en <dfn data-info="Driver van de Organisatie: Een driver is het motief van een persoon of groep om te reageren op een specifieke situatie. Een driver is een **driver van de organisatie** als een reactie op deze driver de organisatie zou helpen om waarde te genereren, verspilling te elimineren of schade te voorkomen.">drivers</dfn> waar een afspraak over gemaakt moet worden
 - gefaciliteerde vergadering (~1u)

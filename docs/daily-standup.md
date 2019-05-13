@@ -8,8 +8,8 @@ title: "Dagelijkse Standup"
 - <dfn data-info="Timebox: Een vooraf afgesproken tijdsperiode die te besteden is aan een specifieke activiteit (die niet noodzakelijkerwijs is afgerond aan het einde van de timebox).">Getimeboxed</dfn> (meestal 15 minuten)
 - dagelijks op hetzelfde moment
 - het team verzamelt rond een zichtbaar projectmanagement board/tool om: 
-    - organize daily work
-    - address impediments/blocks
+    - dagelijks werk organiseren
+    - aanpakken van belemmeringen/hindernissen
     - bestaande <dfn data-info="Overeenkomst: Een overeengekomen richtlijn, proces, beleid of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden.">overeenkomsten</dfn> aanpassen of ter plekke nieuwe overeenkomsten maken
 
 ![De dagelijkse standup is een essentiële bijeenkomst voor zelforganiserende teams.](img/meetings/planning-review-standup.png)

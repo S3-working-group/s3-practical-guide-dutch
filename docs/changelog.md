@@ -3,7 +3,7 @@ title: "Wijzigingen"
 ---
 
 
-### Wijzigingen 2019-05-01
+### Wijzigingen 2019-05-03
 
 - verfijnde glossary termen voor <dfn data-info="Overeenkomst: Een overeengekomen richtlijn, proces, beleid of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden.">overaankomst</dfn>, <dfn data-info="Organisatie: Een groep mensen die samenwerken aan een gedeelde driver (of doel). Vaak verdeelt een organisatie zich in verschillende teams.">organisatie</dfn> en <dfn data-info="Team: Een groep mensen die samenwerken naar een gedeelde bestuurder (of objectief). Meestal maakt een team deel uit van een organisatie, of wordt het gevormd als een samenwerking van verschillende organisaties.">team</dfn>, voegde woordenlijst term toe voor <dfn data-info="Doel: Een (specifiek) resultaat dat een persoon of team of organisatie wil bereiken; een streven of een doel.">Doelstelling</dfn>
 - Prinses van Accountability: verduidelijkt de individuele accountablity voor het werk en voor samenwerking
@@ -126,7 +126,7 @@ title: "Wijzigingen"
 - [Voorbereiden van vergaderingen](prepare-for-meetings.html)
 - [Activiteiten timeboxen](timebox-activities.html)
 
-### Wijzigingen 2018-08-17
+### Wijzigingen 2018-03-31
 
 - patroon *Beschrijf Drivers* naar *Beschrijf drivers van de organisatie* hernoemd
 - [Beschrijf drivers van de organisatie](describe-organizational-drivers.html): de vier aspecten van een driver uitgelegd: de huidige situatie, de gevolgen van de situatie voor de organisatie, de behoefte van de organisatie in verband met deze situatie en de gevolgen van het feit dat zij zich bezighouden met het vervullen van de behoefte

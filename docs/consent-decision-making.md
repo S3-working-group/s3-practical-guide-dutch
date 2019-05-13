@@ -1,5 +1,5 @@
 ---
-title: "Consente Besluitvorming"
+title: "Consent Besluitvorming"
 ---
 
 
@@ -13,10 +13,10 @@ Het achterhouden van bezwaren kan het bereiken van de doelstellingen van een tea
 
 ### Impliciet Contract van Consent
 
-1. In the absence of objections to an agreement, I intend to follow through on the agreement to the best of my ability.
+1. Het is mijn intentie om, in de afwezigheid van bezwaren op een overeenkomst, uitvoering te geven aan hetgeen is afgesproken.
 2. Ik stem ermee in om bezwaren te delen op de momenten dat ik mij daarvan bewust ben.
 
-![Consente Besluitvorming](img/agreements/consent-decision-making.png)
+![Consent Besluitvorming](img/agreements/consent-decision-making.png)
 
 [&#9654; Bezwaar](objection.html)<br/>[&#9664; Drivers van de Organisatie Beschrijven](describe-organizational-drivers.html)<br/>[&#9650; Co-Creatie en Evolutie](co-creation-and-evolution.html)
 

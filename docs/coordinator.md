@@ -3,7 +3,7 @@ title: "Coördinator"
 ---
 
 
-A person fulfilling the role of a coordinator is accountable for **coordinating a domain's operations** and is **selected for a limited term.**
+Een persoon in de rol van een coördinator is verantwoordelijk voor het **coördineren van het werk binnen een domein** en is **geselecteerd voor een beperkte termijn.**
 
 De coördinator kan worden geselecteerd door het team zelf, of door de <dfn data-info="Delegator: Een individu of groep die de verantwoording voor een domein overdragen aan (een) ander(en).">delegator</dfn>.
 

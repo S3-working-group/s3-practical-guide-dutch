@@ -1,4 +1,4 @@
-footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2019-05-03-nl-0.1) - <http://sociocracy30.org>
+footer: ![] (img/by-sa-sm.png) B. Bockelbrink, J. Priest, L. David (v2019-05-03-nl-0.2) - <http://sociocracy30.org>
 slidenumbers: true
 autoscale: true
 theme: Plain Jane, 1
@@ -15,9 +15,9 @@ theme: Plain Jane, 1
 
 ---
 
-## Sociocracy 3.0 - A Practical Guide For Evolving Agile and Resilient Organizations
+## Sociocratie 3.0 - Een praktische gids voor de ontwikkeling van wendbare en veerkrachtige organisaties
 
-### Effective Collaboration At Any Scale
+### Effectief samenwerken op elke schaal
 
 Sociocratie 3.0 - **oftewel S3** is een praktische gids om wendbare en veerkrachtige organisaties te ontwikkelen van elke schaalgrootte, van kleine start-ups tot aan grote internationale netwerken en landelijke samenwerkingen bestaande uit meerdere entiteiten. Het voorziet in een samenhangende manier om integriteit in een organisatie te laten groeien en **een sociocratische, agile manier van denken** te ontwikkelen.
 
@@ -185,9 +185,9 @@ Voor een uitleg over termen verwijzen we naar de woordenlijst aan het eind.
 
 _Een **patroon** is een sjabloon om een specifieke context succesvol te navigeren._
 
-- S3 patterns are discovered through observing many organizations as they solve problems and respond to opportunities
-- S3 patterns can be evolved and adapted to suit differing contexts
-- the patterns are grouped by topic into ten categories
+- S3 patronen worden ontdekt door veel organisaties te observeren als ze problemen oplossen en op kansen reageren
+- S3 patronen kunnen worden geëvolueerd en aangepast aan verschillende contexten
+- Patronen zijn per onderwerp gegroepeerd in tien categorieën
 
 ![Patronen zijn per onderwerp gegroepeerd in tien categorieën](img/pattern-group-headers/all-groups-dark.png)
 
@@ -248,11 +248,11 @@ _**Waarde** is het belang of nut van iets in relatie tot de driver._
 
 _**Verspilling** is alles dat onnodig is of in de weg staat om op een (meer) effectieve manier te reageren op de driver._
 
-By adopting the concept of value and waste, many practices and ideas from **lean production** and **lean software development** can be utilized by organizations pulling in S3 patterns:
+Door het concept van waarde en verspilling aan te nemen, kunnen veel werkwijzen en ideeën van **lean productie** en **lean software ontwikkeling** worden gebruikt door organisaties S3 patronen beginnen te gebruiken:
 
 - value stream mapping
-- various strategies for eliminating waste
-- the Kanban Method
+- verschillende strategieën voor het elimineren van verspilling
+- de Kanban methode
 
 ---
 
@@ -278,10 +278,10 @@ Degenen die een domein delegeren (de *delegatoren*) behouden nog steeds de algeh
 
 Het is ook mogelijk om een domein te begrijpen in relatie tot drivers van de organisatie:
 
-- the domain's **primary driver** - the main driver the people accounting for that domain (the *delegatees*) respond to
-- the set of subdrivers the organization may benefit from addressing when responding to the primary driver, which include: 
-    - **key responsibilities** (any driver following directly from the domain's primary driver)
-    - drivers for **constraints of the domain** (which typically relate to the organization's wider context)
+- de **primaire driver** van het domein is de hoofddriver waar de mensen die voor dat domein verantwoordelijk zijn (de *gedelegeerden*) op reageren
+- de reeks subdrivers waar de organisatie aandacht aan moet besteden om te reageren op de primaire driver. Denk hierbij aan: 
+    - **kernverantwoordelijkheden** (elke driver die direct voortkomt uit de primaire driver van het domein)
+    - drivers voor **kaders van het domein** (die meestal betrekking hebben op de bredere context van de organisatie)
 
 ![Drivers en domeinen](img/driver-domain/drivers-and-domains.png)
 
@@ -345,8 +345,8 @@ Afhankelijk van de kaders die de delegator stelt, hebben teams min of meer de be
 Reacties op [drivers van de organisatie](glossary:organizational-driver) omvatten:
 
 - directe actie ([activiteiten](glossary:operations))
-- organizing how work will be done 
-- making governance decisions
+- (zelf) organiseren hoe werk zal worden gedaan 
+- governance besluiten nemen
 
 De reactie op een driver van de organisatie wordt doorgaans behandeld als een experiment dat in de loop der tijd geëvalueerd en ontwikkeld wordt.
 
@@ -358,19 +358,19 @@ Een driver is het motief van een persoon of groep om te reageren op een specifie
 
 Een eenvoudige manier om te kwalificeren of een driver binnen het [domein](glossary:domain) van een organisatie valt is door te controleren:
 
-*Zou het de organisatie helpen om aandacht te besteden aan deze driver? Of zou het ons schaden als we dat niet doen?*
+*Zou het de organisatie helpen om op deze driver te reageren? Of is het schadelijk om dit niet te doen?*
 
 ---
 
-## Patroon 1.2: Navigeer Via Tension
+## Patroon 1.2: Navigeren via spanning
 
-**Pay attention to tension you experience in relation to the organization, investigate the cause and pass on any organizational drivers you discover to the people accountable for the appropriate domain.**
+**Let goed op spanningen die je ervaart in relatie tot de organisatie. Onderzoek hoe de spanning ontstaat en geef drivers van de organisatie waar je achterkomt aan de mensen in het juiste domein om ze op te pakken.**
 
-**Challenges and opportunities** for an organization are revealed by people bringing awareness to the reasons why they experience tension.
+**Uitdagingen en kansen** voor een organisatie worden onthuld wanneer mensen zich bewust worden van de spanningen zij ervaren.
 
-**Note:** In this context, a *tension* is a personal experience: a symptom of dissonance between an individual's perception of a situation, and their expectations (or preferences).
+**Opmerking:** Een *spanning* is een persoonlijke ervaring: een teken van dissonantie tussen hoe een persoon vindt dat het nu is en hoe iemand zou verwachten of willen dat het is.
 
-Om **drivers te ontdekken** is het nodig om te onderzoeken waar spanning door wordt veroorzaakt en te beschrijven wat er gebeurt en wat er nodig is. Soms blijkt een spanning voort te komen uit misverstanden en dan kan dit uitzoeken ervoor zorgen dat de spanning verdwijnt.
+Onderzoek wat zorgt voor spanning om **drivers te ontdekken** en omschrijf wat er gebeurt en wat er nodig is. Soms kom je erachter dat het is gebaseerd op misvatting en verdwijnt de spanning weer.
 
 ![Navigeren via spanning, Drivers van de organisatie beschrijven, Reageren op drivers van de organisatie](img/process/navigate-describe-respond.png)
 
@@ -387,7 +387,7 @@ Een eenvoudige manier om een driver te beschrijven is door uit te leggen:
 - **Wat gebeurt er...:** 
     - de **huidige situatie**
     - het **effect** van deze situatie op de organisatie
-- ...en **wat nodig is:** 
+- ...en **wat is er nodig:** 
     - de **behoefte**van de organisatie in relatie tot deze situatie
     - de **impact** van het vervullen van deze behoefte
 
@@ -406,7 +406,7 @@ Maak een korte maar toereikende samenvatting met voldoende informatie om duideli
 Beschrijf de huidige situatie:
 
 - Vat kort samen wat er gebeurt en, indien nodig, de context waarin dit gebeurt.
-- Be objective - describe observations and avoid evaluation.
+- Wees objectief: Beschrijf observaties en vermijd interpretaties en oordelen.
 
 ### 2. Effect
 
@@ -415,7 +415,7 @@ Beschrijf de huidige situatie:
 Verduidelijk het effect van de huidige situatie op de organisatie:
 
 - Verduidelijk **waarom** de situatie aandacht nodig heeft: hoe beïnvloedt het de organisatie? 
-- Be explicit about whether the effects are current or anticipated. 
+- Wees expliciet over welke effecten er nu plaatsvinden of verwacht worden. 
 - Leg uitdagingen, verliezen, kansen of winst uit. 
 
 ### 3. Behoefte
@@ -425,12 +425,12 @@ Verduidelijk het effect van de huidige situatie op de organisatie:
 Leg uit wat de organisatie [nodig heeft](glossary:need) in relatie tot deze situatie:
 
 - Een **behoefte van een organisatie** is iets dat een team (of individu) nodig heeft om effectief te zijn in zijn [domein](glossary:domain). 
-- Be specific on whose need it is (“we need”, “they need”, “I need”).
-- If there’s disagreement about the need, it helps to zoom out from specific solutions and focus on what the organization is lacking in this situation.
+- Wees specifiek over wiens behoefte het is (“wij hebben nodig”, “zij hebben nodig”, “Ik heb nodig”).
+- Als er onenigheid bestaat over de noodzaak, helpt het om niet in te gaan op specifieke oplossingen, maar te concentreren op wat de organisatie in deze situatie mist.
 
 ### 4. Impact
 
-> *“...so we can stay focused on our work”.*
+> *“...zodat we ons op ons werk kunnen blijven concentreren”.*
 
 Beschrijf de impact van het vervullen van die behoefte:
 
@@ -447,16 +447,16 @@ Naast de samenvatting kunnen er meer details over de driver in het logboek worde
 
 Zorg ervoor dat de drivers regelmatig worden herzien, om je inzicht in wat er gebeurt en nodig is te vergroten.
 
-Helpful questions for a review include:
+Handige vragen voor een review zijn:
 
-- Is the description of the situation (still) correct?
-- Do we still associate the same needs with the situation?
-- Is the driver still within our domain?
-- Is the driver still relevant?
+- Is de omschrijving van de situatie nog steeds kloppend?
+- Denken we nog steeds dat hetzelfde nodig is als wat we eerder hadden vastgesteld?
+- Ligt de driver nog steeds binnen ons domein?
+- Is de driver nog relevant?
 
 ---
 
-## Patroon 1.4: Consente Besluitvorming
+## Patroon 1.4: Consent Besluitvorming
 
 **Een (gefaciliteerd) groepsproces voor besluitvorming: het uitnodigen van bezwaren en het overwegen van informatie en kennis die aan het licht zijn gekomen om voorstellen of bestaande overeenkomsten verder te ontwikkelen.**
 
@@ -468,10 +468,10 @@ Het achterhouden van bezwaren kan het bereiken van de doelstellingen van een tea
 
 ### Impliciet Contract van Consent
 
-1. In the absence of objections to an agreement, I intend to follow through on the agreement to the best of my ability.
+1. Het is mijn intentie om, in de afwezigheid van bezwaren op een overeenkomst, uitvoering te geven aan hetgeen is afgesproken.
 2. Ik stem ermee in om bezwaren te delen op de momenten dat ik mij daarvan bewust ben.
 
-![Consente Besluitvorming](img/agreements/consent-decision-making.png)
+![Consent Besluitvorming](img/agreements/consent-decision-making.png)
 
 ---
 
@@ -487,53 +487,53 @@ Achterhouden van bezwaren kan schade toebrengen aan individuen, teams of de hele
 
 Het vermogen om *mogelijke* bezwaren op elk moment in te brengen, betekent dat besluiten alleen *goed genoeg moeten zijn voor nu en veilig genoeg om te proberen*.
 
-Those accountable for the action or (proposed) agreement in question, are responsible for *considering arguments and addressing objections.*
+Degenen die verantwoordelijk zijn voor de actie of (voorgestelde) overeenkomst, zijn verantwoordelijk voor het *overwegen van argumenten en het verwerken van gekwalificeerde bezwaren.*
 
 Bij het zoeken naar potentiële bezwaren, overweeg:
 
 - waarom de [beoogde uitkomst](glossary:intended-outcome) niet (volledig) bereikt gaat worden: **effectiviteit**
-- why it would be wasteful to proceed as proposed (or previously agreed): **efficiency**
+- waarom het verspilling zou zijn om door te gaan zoals voorgesteld (of eerder overeengekomen): **efficientie**
 - de negatieve gevolgen van iets op andere plekken (in hetzelfde [domein](glossary:domain), in de bredere organisatie of daarbuiten): **bijwerkingen**
 
-The information revealed by objections can be used to improve:
+De informatie die door bezwaren wordt onthuld, kan worden gebruikt om te verbeteren:
 
 - huidige en geplande actie
-- how people execute on decisions
+- hoe mensen besluiten uitvoeren
 - bestaande overeenkomsten
 - voorstellen
-- shared understanding of drivers
+- gedeeld begrip van drivers
 
 ### Bezwaren kwalificeren
 
 Niet alle argumenten zijn ook bezwaren. Maak onderscheid tussen bezwaren, die altijd waardevolle informatie onthullen, en andere argumenten die gebaseerd zijn op aannames of persoonlijke voorkeuren.
 
-To discover if an argument qualifies as an objection, in a group context a facilitator might ask:
+Om te ontdekken of een argument als bezwaar wordt aangemerkt, zou een facilitator in een groepscontext kunnen vragen:
 
-*“Do you think this argument qualifies as an objection?”*
+*"Denken jullie dat dit argument gekwalificeerd is als een bezwaar?"*
 
-Als niemand het met het argument oneens is, is een bezwaar doorgaans gekwalificeerd. Streef er anders naar het werkelijke bezwaar te ontdekken of eventuele misvattingen te onthullen.
+Als niemand het met het argument oneens is, is een bezwaar doorgaans in aanmerking genomen. Anders wil men het werkelijke bezwaar ontdekken of misverstanden blootleggen.
 
 ### Bezwaren begrijpen
 
 Enkele nuttige vragen:
 
-- Hoe zit het met dit specifieke voorstel of met deze overeenkomst?
-- Geeft het argument aan hoe een (voorgestelde of huidige) **actie of overeenkomst**: 
-    - bemoeilijkt de reactie op een driver van de organisatie?
-    - kan nu verbeterd worden?
-    - voorkomt of vermindert iemands bijdrage aan het reageren op een driver?
-    - is in strijd met de waarden van de organisatie?
-    - wordt gezien als niet “veilig genoeg” om te proberen?
+- Hoe is dit argument gerelateerd aan dit specifieke voorstel of deze overeenkomst?
+- Geeft het argument aan hoe een (voorgesteld of huidig) **actie of overeenkomst**: 
+    - de reactie op een driver van de organisatie bemoeilijkt?
+    - nu verbeterd kan worden?
+    - iemands bijdrage aan het reageren op een driver voorkomt of vermindert?
+    - in strijd is met de waarden van de organisatie?
+    - gezien wordt als niet “veilig genoeg” om te proberen?
 
 ### Zorgen
 
 _Een **zorg** is een aanname dat iets doen (zelfs in de afwezigheid van bezwaren) **mogelijk** in de weg kan staan van een (meer) effectieve reactie op een organisatiedrijfveer._
 
-In _Consent Decision Making_, concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation).
+In _consent besluitvorming_ kunnen zorgen aangeven hoe overeenkomsten in de toekomst mogelijk verder ontwikkeld kunnen worden (bijvoorbeeld de evaluatiecriteria of reviewfrequentie).
 
-Bring up concerns if you consider them important and at least record them along with evaluation criteria.
+Noem zorgen wanneer ze belangrijk genoeg zijn om ze ten minste op te nemen bij de evaluatiecriteria.
 
-If you are in doubt whether you have an objection or a concern, check with others if they think it qualifies as an objection.
+Bij twijfel over of het een zorg of bezwaar is, gebruik dan de anderen om het argument te kwalificeren.
 
 ![Een manier om bezwaren te kwalificeren](img/agreements/qualify-objection-process.png)
 
@@ -555,14 +555,14 @@ Meestal is het het meest effectief om**één bezwaar per keer** op te lossen, al
 
 ---
 
-## Patroon 1.7: Evaluate And Evolve Agreements
+## Patroon 1.7: Overeenkomsten evalueren en doorontwikkelen
 
 **Blijf overeenkomsten voortdurend ontwikkel en elimineer verspilling.**
 
 Een regelmatige herziening van overeenkomsten is essentieel voor een lerende organisatie:
 
-- adapt agreements to suit changing context
-- integrate learning to make them more effective
+- pas overeenkomsten aan om beter te passen bij de context
+- integreer het geleerde om ze effectiever te maken
 
 Zorg ervoor dat alle [overeenkomsten](glossary:agreement) een passende reviewdatum hebben.
 
@@ -570,67 +570,67 @@ Evaluatie van overeenkomsten kan zo eenvoudig zijn als even snel checken of iets
 
 ![Experimenteren, evalueren, evolueren](img/evolution/kaizen.png)
 
-Agreements are often reviewed in _Governance Meetings_, however sometimes it's more effective to schedule a dedicated session.
+Overeenkomsten worden vaak herzien in _Governance vergaderingen_, maar soms is het effectiever om een speciale sessie te plannen.
 
-Adjust review frequency as necessary, and review early if required.
+Pas de review frequentie aan indien nodig en doe het eerder indien nodig.
 
-Elements of this pattern can also be used by individuals to evaluate decisions they make.
+Elementen van dit proces kunnen ook door individuen worden gebruikt om beslissingen die zij nemen te evalueren.
 
 ### Korte formats
 
-- *How has this agreement helped us?*
-- *Is there any reason to drop this agreement?*
-- *How can this agreement be improved?*
-- Agree on a next review date.
+- *Hoe heeft deze overeenkomst ons geholpen?*
+- *Is er reden om deze overeenkomst te laten vallen?*
+- *Hoe kan deze overeenkomst worden verbeterd?*
+- Zet de datum voor de volgende review vast.
 
 ### Lang Format
 
 ![Een lang format voor het beoordelen en evolueren van overeenkomsten](img/agreements/evaluate-agreements.png)
 
-Preparation:
+Voorbereiding:
 
-- Schedule the review.
-- Ensure all necessary information is available.
+- Plan de review.
+- Zorg ervoor dat alle noodzakelijke informatie beschikbaar is.
 
-Follow-up:
+Opvolging:
 
-- Agree on the next review date.
-- Document decisions and tasks, and share with relevant people.
-- Consider effects on any related agreements.
+- Zet de datum voor de volgende review vast.
+- Leg besluiten en taken vast en deel deze met relevante personen.
+- Denk aan de gevolgen voor alle overeenkomsten die hiermee verband houden.
 
 ---
 
 ## Patroon 1.8: Degenen die Geraakt Worden Besluiten
 
-**Involve people in making decisions that affect them, to maintain equivalence and accountability, and to increase the amount of information available on the subject.**
+**Iedereen die door een besluit wordt getroffen, moet betrokken worden bij het nemen van het besluit. Zo behoud je gelijkwaardigheid en accountability en vergroot je de informatie die beschikbaar is over het onderwerp.**
 
 Voor grotere groepen:
 
 - faciliteer een proces in verschillende fasen en maak kleinere groepen die gedelegeerden selecteren
 - gebruik een online tool en voer een asynchroon _timeboxed_ en gefaseerd proces uit
 
-Consider including those affected in reviewing and evolving decisions, too.
+Overweeg om degenen die door een besluit geraakt worden ook te betrekken bij de evaluatie en doorontwikkeling van de besluiten.
 
 ---
 
 ## Patroon 1.9: Voorstellen co-creëren
 
-**Bring people together to co-create proposals in response to organizational drivers: tap collective intelligence, build sense of ownership and increase engagement and accountability.**
+**Breng mensen samen om voorstellen te co-creëren in reactie op drivers van de organisatie: maak gebruik van de collectieve intelligentie, vergroot het gevoel van eigenaarschap en betrokkenheid en accountability.**
 
-There are many ways to co-create proposals. They typically follow a similar pattern:
+Er zijn veel manieren om voorstellen te co-creëren. Ze volgen meestal een soortgelijk patroon:
 
 1. Stem in met de [driver](glossary:organizational-driver) (of probleem / kans / behoefte)
-2. Explore the topic and understand constraints
-3. Generate ideas
-4. Design a proposal (often done by a smaller group)
+2. Verken het onderwerp en begrijp kaders
+3. Genereer ideeën
+4. Ontwerp een voorstel (vaak gedaan door een kleinere groep)
 
-One way to co-create proposals is to use S3's _Proposal Forming_ pattern.
+Een manier om voorstellen te maken is om S3's _Voorstel vorm_ patroon te gebruiken.
 
 ![Een format voor voorstellen](img/templates/proposal-template.png)
 
-For inspiration for steps 2 and 3, look to classic group facilitation techniques or design thinking activities.
+Voor inspiratie voor stappen 2 en 3, kijk naar klassieke groepsfaciliteringstechnieken of Design Thinking activiteiten.
 
-Besides in a face-to-face workshop, you can adapt this process for online meetings. You can even use it asynchronously (and over an extended period of time) to include many people.
+Naast een face-to-face workshop kun je dit proces aanpassen voor online vergaderingen. Het kan zelfs asynchroon (en gedurende een langere periode) gebruiken om veel mensen erbij te betrekken.
 
 ---
 
@@ -658,9 +658,9 @@ Besides in a face-to-face workshop, you can adapt this process for online meetin
 
 **Verzamel ideeën** als mogelijke ingrediënten voor een voorstel.
 
-**Ontwerp een voorstel** over hoe te reageren op de driver, door de creatieve ideeën en informatie die tot nu toe verzameld is te gebruiken. Dit wordt meestal gedaan door een kleinere groep (tuners).
+**Ontwerp een voorstel** over hoe te reageren op de driver, door de creatieve ideeën en informatie die tot nu toe verzameld is te gebruiken. Dit wordt meestal gedaan door een kleinere groep (fine)"tuners".
 
-### Choosing Tuners
+### Selecteer tuners
 
 Denk aan:
 
@@ -669,31 +669,31 @@ Denk aan:
 - wie kan eventueel nog meer een waardevolle bijdrage leveren?
 - denk aan expertise, blik van buiten, en inspiratie
 
-Tussen twee en drie tuners is meestal voldoende. Controleer op eventuele bezwaren tegen de voorgestelde tuner(s).
+Tussen twee en drie tuners is meestal geschikt. Controleer of er bezwaren zijn tegen de voorgestelde tuner(s).
 
 ![Voorstel vormproces](img/agreements/proposal-forming.png)
 
 ---
 
-## Patroon 1.11: RolSelectie
+## Patroon 1.11: Rolselectie
 
 **Een groepsproces om een persoon te selecteren voor een rol op grond van de reden.**
 
 In plaats van simpelweg het toewijzen van mensen aan _rollen_, of het maken van een keuze alleen gebaseerd op meerderheid, kan men gebruik maken van het rol selectieproces om:
 
-- tap collective intelligence by hearing and deliberating on reasons for nominations
-- increase ownership over the decision
-- ensure support for the role keeper by those affected.
+- gebruik collectieve intelligentie door alle reden voor nominaties te horen en deze te overdenken
+- vergroot gevoel van eigenaarschap over het besluit
+- te zorgen voor steun voor de rolhouder door de betrokkenen.
 
 Een voorwaarde voor het selectieproces is een _duidelijke beschrijving_ van het rol [domein](glossary:domain).
 
-### Rol selectie - Stappen
+### Rolselectie - Stappen
 
 ![Rol selectie proces](img/agreements/selection.png)
 
 1. **Presenteer Rolomschrijving:** indien mogelijk, stuur de domeinnaam van de rol vooraf.
-2. **Registreer Nominaties:** Deelnemers schrijven hun nominatie op een papiertje. Mensen kunnen zichzelf nomineren, iemand anders of passen.
-3. ** redenen voor nominaties: ** Elke persoon deelt wie ze hebben genomineerd en waarom.
+2. **Leg nominaties vast:** Deelnemers schrijven hun voordracht op een papiertje. Mensen kunnen zichzelf nomineren, iemand anders, of passen.
+3. ** Redenen voor nominaties: ** Elke persoon deelt wie ze hebben genomineerd en waarom.
 4. **Informatie Verzamelen:** Deelnemers delen of vragen informatie die de groep kan ondersteunen bij het maken van een passende selectie.
 5. **Nominatie Wijzigingen:** Controleer of iemand zijn nominatie wil wijzigen in het licht van redenen en informatie die tot nu toe gedeeld zijn, en luister naar de redenen voor elke verandering.
 6. **Stel een genomineerde voor** voor de rol: De facilitator leidt het proces om een geschikte genomineerde te identificeren op basis van de redenen die zijn gehoord, bijvoorbeeld door: 
@@ -701,7 +701,7 @@ Een voorwaarde voor het selectieproces is een _duidelijke beschrijving_ van het 
     - enkele genomineerde uit te nodigen om samen tot een voorstel te komen voor wie er genomineerd zou moeten zijn
     - uitnodiging tot groepsdialoog om te helpen bij het vinden van de sterkste genomineerde
 7. **Vraag om bezwaren:** Vraag deelnemers (inclusief de voorgestelde genomineerde) om tegelijkertijd te laten zien of ze al dan niet [bezwaar](glossary:objection) hebben. 
-8. **Adresseer en los bezwaren op** begin met een van de voorgestelde genomineerden. _Bezwaren_ op een genomineerde kunnen op meerdere manieren <0>worden opgelost</0>, inclusief het aan passen van de rolomschrijving of iemand anders te nomineren. Als alle bezwaren worden opgelost, controleer dan opnieuw of de (uiteindelijke) kandidaat de rol aanvaardt.
+8. **Adresseer en los bezwaren op** begin met een van de voorgestelde genomineerden. _Bezwaren_ op een genomineerde kunnen op meerdere manieren <1>worden opgelost</1>, inclusief het aan passen van de rolomschrijving of iemand anders te nomineren. Als alle bezwaren worden opgelost, controleer dan opnieuw of de (uiteindelijke) kandidaat de rol aanvaardt.
 9. **Vieren!:** Erken de bereikte overeenstemming en bedank de persoon die vanaf nu rolhouder is.
 
 Om te voorkomen dat anderen worden beïnvloed, vermijd het uiten van persoonlijke belangstelling of meningen voordat de selectie plaatsvindt.
@@ -733,9 +733,9 @@ Een (kleine of grote) groep identificeert en clustert [drivers](glossary:driver)
 
 ## Patroon 2.1: Vraag om hulp
 
-**A simple protocol for learning, skill sharing, and building connections, with respect for people's agency.**
+**Een eenvoudig protocol voor het leren, het delen van vaardigheden en het opbouwen van verbindingen, met respect voor de autonomie van mensen.**
 
-Ask someone, "*would you be willing to help me with ...*?" The person asked accepts or declines with a simple "*yes*" or "*no*".
+Vraag iemand, "*zou je bereid zijn om me te helpen ...*?" De ander kan antwoorden met een eenvoudig "*ja*" of "*nee*".
 
 - als het verzoek wordt afgewezen, accepteert de persoon het antwoord zonder onderhandelingen of verhoor
 - als het verzoek onduidelijk is, vraag om meer informatie
@@ -747,16 +747,16 @@ Ask someone, "*would you be willing to help me with ...*?" The person asked acce
 
 Nodig een collega uit om constructieve feedback te geven over:
 
-- your performance in a role
-- your general participation and contribution
+- prestaties in een rol
+- jouw algemene deelname en bijdrage
 - elk specifiek aspect waarin je misschien geïnteresseerd bent
 
 Overwegingen:
 
-- invite peers to take some time to prepare
+- vraag collega's om de tijd te nemen om voor te bereiden
 - nodig zowel **waarderingen** uit als **uit te voeren verbetersuggesties**
 - vraag door om de feedback beter te begrijpen en voorkom oordelen en discussie
-- decide for yourself what you will do with feedback you receive
+- besluit zelf wat je met de feedback gaat doen
 
 ---
 
@@ -892,7 +892,7 @@ Overweeg om als governance facilitator te leren over en gebruik te leren maken v
 - _Rondes_
 - _Voorstel Vormen_
 - _Consent Besluitvorming_
-- _Rol Selectie_
+- _Rolselectie_
 - _Vergaderingen evalueren_
 - _Bezwaren Oplossen_
 - _Peer Review_
@@ -907,7 +907,7 @@ Het breken van [overeenkomsten](glossary:agreement) is soms **noodzakelijk** maa
 
 Wees verantwoordelijk:
 
-- **ruim** eventuele schade <0>op</0>
+- **ruim op** eventuele schade
 - zorg zo snel mogelijk voor **opvolging** met degenen die geraakt zijn
 - **verander de overeenkomst** in plaats van deze herhaaldelijk te breken
 
@@ -1095,10 +1095,10 @@ De rolhouder heeft de leiding bij het opstellen van een [strategie](glossary:str
 
 Een rol is een eenvoudige manier voor een organisatie (of [team](glossary:team)) om terugkerende taken of een specifiek werkterrein te delegeren aan een van haar leden.
 
-- people can take responsibility for more than one role
+- mensen kunnen de verantwoordelijkheid voor meer dan één rol op zich nemen
 - in plaats van formeel een nieuw team op te richten, is het soms eenvoudiger om slechts één rol te delen tussen verschillende mensen
-- rol houders zijn geselecteerd met consent en voor een beperkte duur
-- peers support one another to develop in the roles they keep
+- rolhouders zijn geselecteerd met consent en voor een beperkte duur
+- gelijken (collega's) ondersteunen elkaar om te ontwikkelen in de rollen die ze vervullen
 
 Een rolhouder kan een governance [backlog](glossary:backlog) en een [logboek](glossary:logbook) bijhouden om te helpen vastleggen hoe zij van plan zijn [waarde](glossary:value) te leveren en om deze aanpak door te ontwikkelen.
 
@@ -1124,21 +1124,21 @@ Een team selecteert één van zijn leden om hun belangen te behartigen bij de [g
 
 Twee onderling afhankelijke teams kiezen elk een van hun leden om hun belangen te behartigen in de governance besluiten van het andere team.
 
-Een dubbele link maakt gelijkwaardigheid tussen twee teams mogelijk en kan worden gebruikt om waardevolle informatie uit hiërarchische structuren te halen.
+Een dubbele koppeling maakt gelijkwaardigheid tussen twee teams mogelijk en kan worden gebruikt om waardevolle informatie uit hiërarchische structuren te halen.
 
 ![Dubbel koppelen van twee cirkels](img/structural-patterns/double-link.png)
 
 ---
 
-## Patroon 4.6: Afgevaardigde
+## Patroon 4.6: Vertegenwoordiger
 
 **Selecteer een teamlid om deel te nemen aan de governance van een ander team om de stroom van informatie en invloed mogelijk te maken.**
 
-Afgevaardigden (a.k.a. linken):
+Vertegenwoordigers (a.k.a. links):
 
 - representeer de belangen van één [team](glossary:team) bij een ander team
 - zijn geselecteerd voor een beperkte termijn
-- neemt deel aan de **governance besluitvorming** van het team waar ze aan gekoppeld zijn, en kan: 
+- deelnemen aan de **governance** van het team waarmee ze verbonden zijn, en kan: 
     - items voor op de agenda voorstellen
     - meedoen aan het vormen van voorstellen
     - [bezwaren](glossary:objection) hebben op voorstellen en bestaande [overeenkomsten](glossary:agreement)
@@ -1176,7 +1176,7 @@ De [delegator](glossary:delegator) van het open domein verduidelijkt:
 - wie wordt uitgenodigd om bij te dragen aan het open domein
 - kaders met betrekking tot de deelname van de delegator aan de [governance](glossary:governance) van het open domein
 
-Afhankelijk van de beperkingen die de delegator stelt, kunnen de medewerkers alleen maar [werk organiseren en uitvoeren](glossary:operations), of ook deelnemen aan governance.
+Afhankelijk van de kaders die de delegator stelt, kunnen de medewerkers alleen maar [werk organiseren en uitvoeren](glossary:operations), of ook deelnemen aan governance.
 
 Een delegator is verantwoordelijk voor het uitvoeren van regelmatige beoordelingen om effectiviteit van werk en besluitvorming op een open domein te ondersteunen.
 
@@ -1186,7 +1186,7 @@ Een delegator is verantwoordelijk voor het uitvoeren van regelmatige beoordeling
 
 ## Patroon 4.9: Open Systemen
 
-**Intentionally communicate with and learn from others outside of your system.**
+**Intentioneel communiceren met en leren van anderen buiten uw systeem.**
 
 Individuen, teams en hele organisaties kunnen onderlinge afhankelijkheid erkennen en mensen van buiten hun systeem bewust uitnodigen om **kennis, ervaring en invloed te introduceren** om bij te dragen aan besluitvorming en collectief leren te ondersteunen.
 
@@ -1365,7 +1365,7 @@ Een andere manier om een domein te verduidelijken is door een [S3 Delegatie Canv
 
 ---
 
-## Patroon 6.4: Clarify Intended Outcome
+## Patroon 6.4: Verduidelijk de Beoogde Resultaten
 
 **Wees duidelijk over de verwachte resultaten van overeenkomsten, acties, projecten en strategieën.**
 
@@ -1383,9 +1383,9 @@ De beoogde resultaten kunnen worden gebruikt om _Evaluatie Criteria_ te definië
 
 _Een **deliverable** is een product, service, component of materiaal dat is geleverd in reactie op een driver van de organisatie._
 
-When describing deliverables:
+Waar op te letten bij het beschrijven van op te leveren resultaten:
 
-- voeg de vereiste hoeveelheid details toe
+- voeg de juiste hoeveelheid details toe
 - refereer aan andere documenten indien handig of nodig
 
 Het is nuttig om de resultaten op een duidelijke manier te beschrijven, zodat de communicatie en de samenwerking binnen de organisatie, met de klant en met externe partners kan worden verbeterd.
@@ -1396,26 +1396,26 @@ Het is nuttig om de resultaten op een duidelijke manier te beschrijven, zodat de
 
 ## Patroon 6.6: Evaluatiecriteria
 
-**Develop well-defined evaluation criteria to determine if acting on an agreement had the desired effect.**
+**Ontwikkel goed gedefinieerde evaluatiecriteria om te bepalen of het gewenste effect had op een overeenkomst.**
 
 - ga voor **eenvoudige en ondubbelzinnige** criteria en documenteer ze (om discussie te vermijden bij het reviewen van de [overeenkomsten](glossary:agreement))
 - definieer **bruikbare statistieken** om de effecten en afwijkingen van de [beoogde resultaten](glossary:intended-outcome) op te merken en te volgen
-- consider adding criteria which make it explicit when the outcome of an agreement would be considered **unsuccessful**
-- when reviewing an agreement, consider **evolving the evaluation criteria** based on what you have learned
+- overweeg criteria toe te voegen die het expliciet maken wanneer de uitkomst van een overeenkomst **mislukt**
+- wanneer je een overeenkomst reviewed, denk **aan het evolueren van de beoordelingscriteria** gebaseerd op wat je geleerd hebt
 
 ---
 
 ## Patroon 6.7: Logboek
 
-**Maintain a coherent and accessible system that stores all information required for collaboration.**
+**Onderhoud een coherent en toegankelijk systeem, waar alle benodigde informatie in terug te vinden is.**
 
 Een logboek is een (digitaal) systeem om alle informatie op te slaan die relevant is voor het functioneren van een organisatie en zijn teams. Het logboek is toegankelijk voor alle leden van een organisatie en informatie wordt alleen vertrouwelijk gehouden als er goede redenen zijn om dat te doen.
 
-Common platforms for logbooks are Wikis (e.g. [Dokuwiki](https://www.dokuwiki.org/), [MediaWiki](https://www.mediawiki.org/), [Confluence](https://www.atlassian.com/software/confluence)), Content Management Systems (e.g. [Wordpress](https://wordpress.org/)), [G Suite](https://gsuite.google.com), [Evernote](https://evernote.com/business) or even [Trello](https://trello.com/).
+Algemene platformen voor logboeken zijn Wikis (bijv. [Dokuwiki](https://www.dokuwiki.org/), [MediaWiki](https://www.mediawiki.org/), [Confluence](https://www.atlassian.com/software/confluence)), Content Management Systems (bijv. [Wordpress](https://wordpress.org/)), [G Pake](https://gsuite.google.com), [Evernote](https://evernote.com/business) of zelfs [Trello](https://trello.com/).
 
 ### Logboek inhoud
 
-Content relating to the whole organization:
+Inhoud met betrekking tot de hele organisatie:
 
 - [primaire driver](glossary:primary-driver), [strategie](glossary:strategy) en [waarden](glossary:values) van de organisatie
 - organisatiestructuur ([domeinen](glossary:domain) en de verbindingen tussen hen)
@@ -1423,7 +1423,7 @@ Content relating to the whole organization:
 
 Inhoud met betrekking tot een specifiek team of [rol](glossary:role):
 
-- the domain description and strategy
+- cirkel beschrijving en strategie
 - overeenkomsten (inclusief [gedelegeerden'](glossary:delegatee) domeinomschrijvingen, strategieën en _ontwikkelplannen_)
 - [backlogs](glossary:backlog) en andere informatie over werk en [governance](glossary:governance)
 
@@ -1435,7 +1435,7 @@ Inhoud met betrekking tot een specifiek team of [rol](glossary:role):
 
 De logboekhouder is verantwoordelijk voor het onderhouden van het [logboek](glossary:logbook) van een team door:
 
-- details van [overeenkomsten](glossary:agreement), [domein](glossary:domain) beschrijvingen, _selecties_, evaluatiecriteria, notulen van vergaderingen etc. vast te leggen
+- details van [overeenkomsten](glossary:agreement), [domein](glossary:domain) beschrijvingen, _selecties_, evaluatiecriteria, notulen van vergaderingen etc. vast te leggen.
 - organiseer relevante informatie en verbeter het systeem indien waardevol
 - houdt verslag up to date
 - ervoor te zorgen dat het logboek voor iedereen in het team, en indien afgesproken de organisatie, toegankelijk is
@@ -1459,18 +1459,18 @@ Een governance vergadering is meestal:
 - gefaciliteerd 
 - vooraf voorbereid 
 - _getimeboxed_ voor de duur van 90-120 minuten
-- scheduled every 2-4 weeks
+- elke 2-4 weken gepland
 
 Een typische governance vergadering omvat:
 
 - opening: _check in_ met elkaar en stem af over de doelstelling van de bijeenkomst
 - administratieve zaken 
-    - check for consent to the last meeting's minutes
-    - agree on a date for the next meeting
-    - check for any last-minute agenda items and for consent to the agenda
+    - controleer of de notulen van de laatste vergadering zijn goedgekeurd
+    - ga akkoord op een datum voor de volgende vergadering
+    - controleer of er nog last minute agendapunten zijn en haal consent over de agenda
 - agenda items 
 - _evaluatie van de vergadering:_ reflecteer op de interactie, vier successen en deel suggesties voor verbetering
-- closing: check in with each other before you leave the meeting
+- afsluiten: check in met elkaar voordat je de vergadering verlaat
 
 ![Fases van een governance vergadering](img/meetings/governance-meeting.png)
 
@@ -1488,7 +1488,7 @@ Typische agenda items omvatten:
 
 ## Patroon 7.2: Retrospectief
 
-**Dedicate time to reflect on past experience, learn, and decide how to improve work process.**
+**Spendeer tijd aan het reflecteren op opgedane ervaringen, leer ervan en besluit hoe het werkproces verbeterd kan worden.**
 
 - uitkomst: wijzigingen in het werkproces, nieuwe taken, "tussendoor" [overeenkomsten](glossary:agreement), en [drivers](glossary:organizational-driver) waar een afspraak over gemaakt moet worden
 - gefaciliteerde vergadering (~1u)
@@ -1516,8 +1516,8 @@ Veel verschillende activiteiten voor elke fase kunnen worden gevonden op [plans-
 - [Getimeboxed](glossary:timebox) (meestal 15 minuten)
 - dagelijks op hetzelfde moment
 - het team verzamelt rond een zichtbaar projectmanagement board/tool om: 
-    - organize daily work
-    - address impediments/blocks
+    - dagelijks werk organiseren
+    - aanpakken van belemmeringen/hindernissen
     - bestaande [overeenkomsten](glossary:agreement) aanpassen of ter plekke nieuwe overeenkomsten maken
 
 ![De dagelijkse standup is een essentiële bijeenkomst voor zelforganiserende teams.](img/meetings/planning-review-standup.png)
@@ -1538,18 +1538,18 @@ Veel verschillende activiteiten voor elke fase kunnen worden gevonden op [plans-
 
 ## Patroon 7.5: Coördinatie Vergadering
 
-**Meet on a regular basis (usually weekly) for reporting on and coordinating work across domains.**
+**Kom regelmatig bij elkaar (meestal wekelijks) om over werk te rapporten en het te coördineren tussen domeinen.**
 
 - faciliteer de vergadering ([timebox](glossary:timebox) gesprekken en gebruik rondes waar waardevol)
-- when useful, compile an agenda before the meeting and share it with attendees in advance 
-    - include details of any prerequisites that can help attendees to prepare
-    - further agenda items may come up when hearing status reports
+- wanneer nuttig, stel een agenda voor de vergadering op en deel deze van te voren met deelnemers 
+    - voeg details toe van alle voorwaarden die deelnemers kunnen helpen zich voor te bereiden
+    - overige agenda items kunnen boven tafel komen tijdens het horen van de status updates
 
-Agenda-items:
+Agenda items:
 
-- cross domain synchronization and alignment
-- prioritization and distribution of work 
-- responding to impediments
+- synchronisatie en afstemming tussen domeinen
+- prioritering en distributie van werk 
+- reageren op de belemmeringen
 
 ![Fases van een coördinatievergadering](img/meetings/coordination-meeting.png)
 
@@ -1562,7 +1562,7 @@ Agenda-items:
 
 ---
 
-## Patroon 8.1: Rounds
+## Patroon 8.1: Rondes
 
 **In een groepsvergadering ga je de cirkel rond, zodat iedereen op zijn beurt het woord kan voeren.**
 
@@ -1572,90 +1572,90 @@ Wees duidelijk over de doelstellingen en de beoogde resultaten van elke ronde.
 
 Vorm een cirkel en begin elke ronde met een ander persoon en verander de richting (met of tegen de klok) om variatie aan te brengen in wie als eerst en als laatst spreekt, en in de volgorde van de bijdragen van mensen.
 
-![Rounds](img/circle/rounds.png)
+![Rondes](img/circle/rounds.png)
 
 ---
 
-## Patroon 8.2: Facilitate Meetings
+## Patroon 8.2: Vergaderingen faciliteren
 
-**Choose someone to facilitate a meeting to help the group maintain focus, keep the meeting on track and draw out the participant's creativity and wisdom.**
+**Kies iemand om de vergadering te faciliteren en de groep te helpen focus te behouden, binnen de planning te blijven en creativiteit en wijsheid te ontlokken.**
 
-Before each meeting, prepare an agenda of topics, and select a facilitator to:
+Stel een agenda op voorafgaand aan elke vergadering en selecteer een facilitator om:
 
-- hold the space, keep the time and navigate the agenda during the meeting
-- facilitate a suitable activity for each topic
-- faciliteer een _evaluatie_ aan het eind van de vergadering
+- houd de ruimte, houd de tijd in de gaten en navigeert de agenda tijdens de vergadering
+- een geschikte activiteit of formaat voor elk topic te faciliteren
+- een _evaluatie_ aan het eind van de vergadering te faciliteren
 
-Overweeg om een facilitator te selecteren voor een specifieke termijn. Zelfs een onervaren facilitator kan een positief verschil maken.
+Overweeg om een facilitator te selecteren voor een bepaalde term. Zelfs een onervaren facilitator kan een positief verschil maken.
 
 **Zie ook:** _Bereid voor voor Vergaderingen_, _Rolselectie_
 
 ---
 
-## Patroon 8.3: Prepare For Meetings
+## Patroon 8.3: Voorbereiden voor Vergaderingen
 
-**Prepare in advance to make meetings more effective.**
+**Vooraf voorbereiden om de vergaderingen effectiever te maken.**
 
-Some considerations for successfully preparing a meeting:
+Enkele overwegingen voor het succesvol voorbereiden van een vergadering:
 
 - verhelderen en communiceren van de [driver](glossary:driver) voor en de [beoogde resultaten](glossary:intended-outcome) van de vergadering
-- decide who to invite 
-- create an agenda
-- schedule the meeting enough in advance, so people have time to prepare
-- choose an appropriate duration for the meeting 
+- besluit wie uit te nodigen 
+- maak een agenda
+- de vergadering op tijd genoeg plannen, zodat mensen tijd hebben om zich voor te bereiden
+- kies een passende duur voor de vergadering 
 - wees duidelijk wie de _vergadering zal faciliteren_, wie aantekeningen neemt en wie er voor de follow-up zal zorgen
 
 ### Agenda voorbereiden
 
-Involve people in preparing and prioritizing an agenda and send it out in advance
+Betrek mensen bij het voorbereiden en prioriteren van de vergadering en stuur deze vooraf rond
 
-For each agenda item agree on:
+Stem voor elk agendapunt in over:
 
-- the driver 
-- the intended outcome
-- the process
-- the time you want to spend on it 
-- what people need to do to prepare
+- de driver 
+- de beoogde resultaten
+- het proces
+- de tijd die je eraan wilt besteden 
+- wat mensen moeten doen om zich voor te bereiden
 
 ### Ondersteun de voorbereiding van de deelnemers
 
-- consider what can be done in advance to prepare for the meeting
-- notify people about any expectations and prerequisites
-- make any resources available that people may need for preparation
+- bedank wat er van tevoren kan worden gedaan om de vergadering voor te bereiden
+- meld mensen over wat te verwachten en eventuele voorwaarden
+- maak alle beschikbare middelen beschikbaar die mensen nodig hebben voor voorbereiding
 
 ### Als deelnemer
 
-- consider the pattern _Artful Participation_
-- review the agenda and consider how you can contribute to each item
-- bring up objections to an agenda, and if possible resolve them before the meeting
-- review improvement suggestions from the last meeting's evaluation and consider how **you** might act on them
+- bekijk het patroon _Artful Participation_
+- bekijk de agenda en bedenk hoe je kan bijdragen aan ieder item
+- bespreek bezwaren op een agenda en los deze zo mogelijk op voorafgaand aan de vergadering
+- review verbetersuggesties van de evaluatie van de vorige vergadering en bedenk hoe **jij** ernaar kunt handelen
 
 ---
 
 ## Patroon 8.4: Check In
 
-**Help people to become aware of themselves and others, and to focus, be present and engage.**
+**Help mensen zich bewust te worden van zichzelf en anderen en zich te concentreren, aanwezig te zijn en zich te engageren.**
 
-To check in, briefly disclose something about what’s up for you and how you are, revealing thoughts, feelings, distractions or needs.
+Deel tijdens de check in iets over wat jouw aandacht heeft, hoe het gaat, welke gedachten, gevoelens, afleidingen of behoeften je hebt.
 
-Checking in may take the form of an opening or closing round in a group meeting, or just a brief exchange in a 1:1 meeting.
+De check in kan in de vorm van een openingsronde of afsluitronde tijdens een groepsbijeenkomst, of gewoon tijdens een 1 op 1.
 
-You can also call for a group check-in during a meeting, or even choose to individually check in whenever you think this is valuable for the group.
+Je kan ook een groeps check in hebben tijdens de vergadering, of een individuele check in nemen wanneer je denkt dat dit waardevol is.
 
-In a group check-in, allow people to pass if they choose.
+Tijdens een groepscheck in moeten mensen ook kunnen passen.
 
-When checking in, in a new setting, people can also say their name and where they are coming from, as a way to introduce themselves. (Tip: Avoid talking about function, rank etc unless there is a reason to do so.)
+In een nieuwe setting kunnen mensen ook hun naam noemen tijdens de check in, als een manier om zichzelf voor te stellen. (tip: vermijdt om over functie en status te praten, tenzij er een goede reden is om dat wel te doen.)
 
 ---
 
-## Patroon 8.5: Evaluate Meetings
+## Patroon 8.5: Vergaderingen evalueren
 
 **Neem tijd om te leren aan het einde van elke vergadering of workshop.**
 
 Reflecteer op interacties, vier successen en deel suggesties voor verbetering voor het sluiten van de vergadering.
 
 - reserveer hier 5 minuten voor bij 1 uur en 15 minuten bij een volledige workshop
-- record learning and review it before the next meeting
+- leg het geleerde vast en bekijk dit voorafgaand aan de volgende vergadering
 
 Korte formats die u kunt gebruiken:
 
@@ -1664,7 +1664,7 @@ Korte formats die u kunt gebruiken:
 
 ![Evalueer vergaderingen meteen voordat de vergadering wordt gesloten](img/meetings/evaluate-interactions.png)
 
-### Evaluate Meetings: Long Format
+### Vergaderingen evalueren: Lang Formaat
 
 Vraag iedereen in een _ronde_ kort iets te delen over een of meer van de volgende onderwerpen en degenen die belangrijk zijn voor de volgende keer vast te leggen:
 
@@ -1679,20 +1679,20 @@ Vraag iedereen in een _ronde_ kort iets te delen over een of meer van de volgend
 
 ## Patroon 8.6: Host van de vergadering
 
-**Select someone to take responsibility for the preparation and follow-up of meetings, workshops or other events.**
+**Selecteer iemand om verantwoordelijk te zijn voor het voorbereiden en opvolgen van workshops of andere bijeenkomsten.**
 
 Een persoon kan de rol van host van de vergadering op zich nemen voor een specifieke gebeurtenis of voor verschillende bijeenkomsten gedurende een bepaalde periode.
 
-### Responsibilities Of A Meeting Host
+### Verantwoordelijkheden van een host van de vergadering
 
-Preparation:
+Voorbereiding:
 
 - doelen en op te leveren resultaten identificeren
-- prepare and distribute agenda
-- identify and invite the participants
-- estimate the time required and schedule the meeting/workshop
-- book the location (and transportation if required)
-- set up the space and provide required materials and information
+- agenda voorbereiden en uitdelen
+- deelnemers identificeren en uitnodigen
+- schat de vereiste tijd en plan de vergadering/workshop
+- boek locatie (en transport indien nodig)
+- de ruimte voorbereiden, vereiste materialen en informatie leveren
 - zorg ervoor dat er, indien nodig, een facilitator is en een notulist
 
 **Na de vergadering:** locatie opruimen, sleutels teruggeven, losse eindjes aan elkaar knopen en ervoor zorgen dat de notulen worden rond gedeeld.
@@ -1701,17 +1701,17 @@ Preparation:
 
 ---
 
-## Patroon 8.7: Governance Backlog
+## Patroon 8.7: Governance backlog
 
 _Een **governance backlog** is een zichtbare, geprioriteerde lijst van items (drivers) die gerelateerd zijn aan het besturen van een domein en aandacht nodig hebben._
 
-A governance backlog contains:
+Een governance backlog bevat:
 
-- matters requiring a decision
+- zaken die een besluit vereisen
 - voorstellen om te maken en overwegen
 - mensen selecteren voor rollen
 
-**Note:** Upcoming reports and agreements due review are usually added directly to the agenda (rather than the backlog).
+**Opmerking:** Aankomende verslagen en overeenkomsten die gereviewed moeten worden, worden meestal direct toegevoegd aan de agenda (in plaats van de backlog).
 
 ---
 
@@ -1736,12 +1736,12 @@ Verschillende soorten backlogs:
 - product backlog
 - hindernissen backlog
 
-**Implementation:**
+**Implementatie:**
 
 - **analoge backlog**: plakmemo's op een muur, of indexkaarten, magneten en whiteboard
 - **digitale backlog:** bijv. [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), [Asana](https://asana.com/)
 
-Each item on a (prioritized) backlog typically contains:
+Elk item op een (geprioriteerde) backlog bevat meestal:
 
 - een **korte beschrijving** van een [op te leveren resultaat](glossary:deliverable) of een [driver](glossary:organizational-driver)
 - een **uniek referentienummer** (of link) voor elk werkitem
@@ -1755,9 +1755,9 @@ Each item on a (prioritized) backlog typically contains:
 
 ## Patroon 9.2: Prioriteer Backlogs
 
-**Order all uncompleted work items with the most important items first, then pull work items from the top whenever there is new capacity.**
+**Orden al nog te voltooien werkitems en zet de belangrijkste bovenaan. Pak dan item voor item werk op, wanneer er capaciteit beschikbaar is.**
 
-No two items can be of equal importance, meaning it is necessary to agree on priorities and make tough choices.
+Geen twee punten kunnen even belangrijk zijn, wat betekent dat het noodzakelijk is om het eens te worden over prioriteiten en moeilijke keuzes te maken.
 
 Een geprioriteerde [backlog](glossary:backlog) helpt om **focus** op de belangrijkste items te houden.
 
@@ -1776,7 +1776,7 @@ Een geprioriteerde [backlog](glossary:backlog) helpt om **focus** op de belangri
 
 ### Dingen om bij te houden:
 
-- **types of work items** (e.g. customer request, project tasks, reporting tasks, rework)
+- **type werkitems** (bijv. klantverzoeken, projecttaken, rapportagetaken, opnieuw te doen werk)
 - **startdatum** (en **vervaldatum** indien nodig)
 - **prioriteiten**
 - **fases** van het werk (bijv. "te doen", "in uitvoering", "review" en "done")
@@ -1791,9 +1791,9 @@ Een geprioriteerde [backlog](glossary:backlog) helpt om **focus** op de belangri
 
 ## Patroon 9.4: Pull-systeem voor werk
 
-**People pull in new work items when they have capacity (instead of having work pushed or assigned to them.**
+**Mensen pakken nieuwe items op wanneer ze capaciteit hebben (in plaats van dat er werk naar hen toe wordt geduwd).**
 
-Prioritize pending work items to ensure that important items are worked on first.
+Prioriteer openstaande werkitems om ervoor te zorgen dat de belangrijke items eerst worden opgepakt.
 
 Het naar binnentrekken van werk voorkomt overbelasting van het systeem, vooral wanneer het _ werk in uitvoering wordt gelimiteerd_.
 
@@ -1813,45 +1813,45 @@ Wanneer een actie een overeengekomen limiet van lopende werkzaamheden overschrij
 
 ---
 
-## Patroon 9.6: Timebox Activities
+## Patroon 9.6: Activiteiten timeboxen
 
-**Set a time constraint to stay focused, bring consciousness to the time you have and how you use it.**
+**Stel een tijdsbeperking in om focus te behouden, wees bewust van de tijd die je hebt en hoe je het gebruikt.**
 
 _Een **timebox** is een vooraf afgesproken tijdsperiode die te besteden is aan een specifieke activiteit (die niet noodzakelijkerwijs is afgerond aan het einde van de timebox)._
 
-- to get value out of the timebox, be clear what you want to achieve
-- agree on the duration of the timebox and visualize time
-- negotiate and agree to extend a timebox before the time is up
-- break down longer activities into manageable timeboxes
-- consider frequent review of progress
-- consider choosing someone (the "time keeper") to help others stay conscious of time
+- om waarde te krijgen uit de tijdvak, wees duidelijk wat je wilt bereiken
+- ga akkoord met de duur van de tijdvak en visualiseer tijd
+- onderhandel over en ga akkoord met het verlengen van een timebox voor er geen tijd meer is
+- verdeel langere activiteiten in kleinere beheersbare timeboxes
+- review regelmatig de voortgang
+- overweeg iemand te kiezen (de "time keeper") om anderen te helpen zich bewust te blijven van de tijd
 
-You could timebox:
+Wat je kunt timeboxen:
 
-- meetings, calls, dialogue
-- tasks
-- experiments
-- an attempt to solve a problem
-- checking emails
-- breaks
-- a longer stretch of work (a sprint)
+- vergaderingen, belletjes, gesprekken
+- taken
+- experimenten
+- een poging om een probleem op te lossen
+- email controleren
+- pauze
+- een langere werkperiode (een sprint)
 
 ---
 
 ## Patroon 9.7: Uitlijnen van invloed, informatie- en waardestromen
 
-**In support of continuous flow of value, move decision making close to where value is created, and align the flow of information accordingly.**
+**Om de waardestroom te organiseren is het van belang om de besluitvorming te laten plaatsvinden dichtbij waar de waarde wordt gecreëerd en om de stroom van invloed en informatie ook zo te laten lopen.**
 
 **Waardestroom:** Deliverables die door de organisatie heen stromen richting andere stakeholders en/of klanten.
 
 Bereik en onderhoud de uitlijning van de waardestroom door de [overeenkomsten](glossary:agreement) in een organisatie continue te blijven ontwikkelen:
 
-- ensure all decisions affecting the flow of value actually support the flow of value
-- enable people with relevant skills and knowledge to influence decisions
-- make available any helpful information
-- aim for shorter feedback loops to amplify learning.
+- zorg ervoor dat alle besluiten die de waardestroom beïnvloeden, de waardestroom ondersteunen
+- zorg ervoor dat de mensen met de juiste kennis en vaardigheden de besluiten kunnen beïnvloeden
+- maak handige informatie beschikbaar
+- richt op het creëren van korte feedback loops om leren te versnellen.
 
-When decision making is conducted close to where value is created, and the flow of information supports the continuous and steady flow of value, the potential for accumulation of waste is reduced.
+Wanneer de besluitvorming plaatsvindt dichtbij waar de waarde wordt gecreëerd, en de informatiestroom de voortdurende en constante waardestroom ondersteunt, wordt het potentieel voor ophoping van verspilling verminderd.
 
 ![Het uitlijnen van de stroom van informatie om de waardestroom te ondersteunen](img/workflow-and-value/align-flow.png)
 
@@ -1859,7 +1859,7 @@ When decision making is conducted close to where value is created, and the flow 
 
 ## Patroon 9.8: Coördinator
 
-A person fulfilling the role of a coordinator is accountable for **coordinating a domain's operations** and is **selected for a limited term.**
+Een persoon in de rol van een coördinator is verantwoordelijk voor het **coördineren van het werk binnen een domein** en is **geselecteerd voor een beperkte termijn.**
 
 De coördinator kan worden geselecteerd door het team zelf, of door de [delegator](glossary:delegator).
 
@@ -1876,27 +1876,27 @@ In plaats van een coördinator te selecteren, kan een team kiezen voor zelforgan
 
 ---
 
-## Organizational Structure
+## Organisatiestructuur
 
 De organisatiestructuur is de feitelijke indeling van [domeinen](glossary:domain) en hun verbindingen. Het geeft aan waar de invloed ligt en via welke kanalen de informatie en invloed stroomt.
 
-Continuously evolve your organization's structure to:
+Evolueer de structuur van uw organisatie continu naar:
 
 - steun de continue [stroom waarde](glossary:flow-of-value)
-- enable effective collaboration around dependencies
-- ensure information is available to those who need it
-- distribute power to influence as required
+- maak effectief samenwerken rond afhankelijkheden mogelijk
+- zorg ervoor dat informatie beschikbaar is voor degene die deze nodig heeft
+- verdeel macht om daar waar nodig voldoende invloed te hebben
 
-The basic building blocks for organizational structure are interdependent, connected domains.
+De basisbouwstenen voor de organisatiestructuur zijn onderling afhankelijk, verbonden domeinen.
 
-Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex adaptive system, or network, where multiple functional structures can co-exist).
+Domeinen kunnen worden gekoppeld om een hiërarchie of een **heterarchy** (a.k.a. complex adaptief systeem, of netwerk, waar meerdere functionele structuren naast elkaar kunnen bestaan) te vormen.
 
 Sociocratie 3.0 beschrijft een verscheidenheid aan **structurele patronen** om een organisatiestructuur op te bouwen.
 
 - S3's structurele patronen zijn van toepassing op verschillende lagen van abstractie
 - verschillende structurele patronen dienen verschillende [drivers](glossary:driver)
-- structural patterns can be adapted and combined as needed
-- more patterns are out there and will be discovered
+- structurele patronen kunnen worden aangepast en gecombineerd indien nodig
+- meer patronen zijn er en zullen worden ontdekt
 
 ---
 
@@ -1910,13 +1910,13 @@ Een service cirkel kan worden bemenst door leden van de [domeinen](glossary:doma
 
 ---
 
-## Patroon 10.2: Delegate Circle
+## Patroon 10.2: Cirkel van Afgevaardigden
 
 **Delegeer het nemen van governance besluiten die invloed hebben op meerdere domeinen aan afgevaardigden die door deze domeinen zijn geselecteerd.**
 
 Om [governance belsuiten](glossary:governance) te nemen namens hen, sturen stakeholders _afgevaardigden_ om een cirkel van afgevaardigden te vormen.
 
-![Delegate Circle](img/structural-patterns/delegate-circle.png)
+![Cirkel van Afgevaardigden](img/structural-patterns/delegate-circle.png)
 
 Acties volgende uit besluiten van een gedelegeerde cirkel worden uitgevoerd binnen de verschillende [domeinen](glossary:domain) die in desbetreffende cirkel worden vertegenwoordigd.
 
@@ -1932,8 +1932,8 @@ Een cirkel van afgevaardigden kan andere mensen (bijvoorbeeld externe deskundige
 
 Teams in de periferie:
 
-- deliver value in direct exchange with the outside world (customers, partners, communities, municipalities etc.) 
-- steward the monetary resources and steer the organization
+- lever waarde in directe uitwisseling met de buitenwereld (klanten, partners, gemeenschappen, gemeenten etc.) 
+- beheert de monetaire middelen en stuurt de organisatie
 
 Het centrum biedt interne diensten om de organisatie te ondersteunen.
 
@@ -1943,7 +1943,7 @@ Het centrum biedt interne diensten om de organisatie te ondersteunen.
 
 ---
 
-## Patroon 10.4: Double-Linked Hierarchy
+## Patroon 10.4: Dubbel-gelinkte Hiërarchie
 
 **Alle autoriteit om governance besluiten te nemen wordt gedelegeerd naar zelfsturende cirkels, dubbel gekoppeld binnen alle niveau's van de hiërarchie om van een traditionele hiërarchie over te gaan naar een structuur die beter geschikt is om de collectieve intelligentie te gebruiken en betrokkenheid te vergroten.**
 
@@ -1952,8 +1952,8 @@ Het centrum biedt interne diensten om de organisatie te ondersteunen.
 
 Een dubbel-gelinkte hiërarchie:
 
-- brings equivalence to governance
-- maintains the potential for a functional hierarchy (if it enables the flow of value).
+- brengt gelijkwaardigheid in governance
+- behoud de mogelijkheid om een functionele hiërarchie in stand te houden (als het de stroom van waarde mogelijk maakt).
 
 ![Een dubbele-gelinkte hiërarchie: niet de typische hiërarchie](img/structural-patterns/double-linked-hierarchy.png)
 
@@ -1976,7 +1976,7 @@ Een dubbel-gelinkte hiërarchie:
 
 ---
 
-## Patroon 10.6: Fractal Organization
+## Patroon 10.6: Fractale organisatie
 
 **Meerdere entiteiten (organisaties of projecten) met een gemeenschappelijke (of vergelijkbare) primaire driver en structuur die lessen kunnen delen over functionele domeinen, actie op één lijn te brengen en besluiten op hoog niveau te nemen (bijv. algemene strategie)**.
 
@@ -1984,7 +1984,7 @@ Een fractale organisatie kan een groot netwerk inschakelen om snel te reageren o
 
 Indien nodig kan het patroon herhaald worden om meerdere fractale organisaties te verbinden tot één.
 
-![Fractal Organization](img/structural-patterns/fractal-organization.png)
+![Fractale organisatie](img/structural-patterns/fractal-organization.png)
 
 ### Randvoorwaarden
 
@@ -1994,28 +1994,28 @@ Deze [entiteiten](glossary:constituent) (dat wil zeggen organisaties, branches, 
 
 ### Rangen
 
-A fractal organization has at least three tiers:
+Een fractie organisatie heeft ten minste drie rangen:
 
-- first tier: the **constituents** (i.e. organizations, branches, departments or projects)
+- eerste rang: de **kiesgerechtigden** (dat wil zeggen organisaties, branches, afdelingen of projecten)
 - tweede rang: **functie-specifieke _cirkels van afgevaardigden_** om lessen te delen en om overeenkomsten te maken, namens functie specifieke domeinen
-- third tier: a **cross-functional delegate circle** to make and evolve agreements in response to drivers affecting the overall body of constituents
+- derde rang: een **cross-functionele cirkel van afgevaardigden** om overeenkomsten te maken en te evolueren in reactie op drivers die alle kiesgerechtigden beïnvloeden
 
 ### Een fractale organisatie vormen
 
-1. Het vormen van de **tweede rang**: Bij elke entiteit besluiten de leden van elk zelfde soort functioneel domein wie hen zal vertegenwoordigen in een **functie specifieke cirkel van afgevaardigden**, waar zij hun kennis en lessen delen, en bijdragen aan het maken en doorontwikkelen van overeenkomsten. Representatives are selected for a limited term (after which a new selection is made).
+1. Het vormen van de **tweede rang**: Bij elke entiteit besluiten de leden van elk zelfde soort functioneel domein wie hen zal vertegenwoordigen in een **functie specifieke cirkel van afgevaardigden**, waar zij hun kennis en lessen delen, en bijdragen aan het maken en doorontwikkelen van overeenkomsten. Vertegenwoordigers zijn geselecteerd voor een beperkte termijn (waarna een nieuwe selectie wordt gemaakt).
 2. Het vormen van de **derde rang**: afgevaardigden van de tweede rang selecteren allemaal een afgevaardigde voor een **cross-functionele cirkel van afgevaardigden**.
 
 ### Impact op de organisatie(s)
 
-Each constituent:
+Elke kiesgerechtigde:
 
-- gains access to a wide array of experience, wisdom and skills to increase effectiveness and innovation.
-- can share resources, infrastructure and experience with other constituents according to capacity and need
+- krijgt toegang tot een breed scala aan ervaring, wijsheid en vaardigheden om de effectiviteit en innovatie te vergroten.
+- kunnen hulpbronnen, infrastructuur en ervaring delen met andere kiesgerechtigden op basis van capaciteit en behoefte
 
-The second and third tier:
+De tweede en derde rang:
 
-- can test decisions simultaneously across multiple instances of a function-specific domain, providing extensive feedback and rapid learning
-- organize, align and steer the whole system while preserving autonomy and agency of the individual constituents
+- kan besluiten tegelijkertijd testen uit te voeren binnen meerdere functie-specifiek domeinen, waardoor er uitgebreide feedback is en er snel geleerd kan worden
+- organiseer, stem af en stuur het hele systeem, met behoud van autonomie en eigenheid van de individuele kiesgerechtigden
 
 ---
 
@@ -2032,7 +2032,7 @@ The second and third tier:
 
 ## Wijzigingen
 
-### Wijzigingen 2019-05-01
+### Wijzigingen 2019-05-03
 
 - verfijnde glossary termen voor [overaankomst](glossary:agreement), [organisatie](glossary:organization) en [team](glossary:team), voegde woordenlijst term toe voor [Doelstelling](glossary:objective)
 - Prinses van Accountability: verduidelijkt de individuele accountablity voor het werk en voor samenwerking
@@ -2155,7 +2155,7 @@ The second and third tier:
 - _Voorbereiden van vergaderingen_
 - _Activiteiten timeboxen_
 
-### Wijzigingen 2018-08-17
+### Wijzigingen 2018-03-31
 
 - patroon *Beschrijf Drivers* naar *Beschrijf drivers van de organisatie* hernoemd
 - _Beschrijf drivers van de organisatie_: de vier aspecten van een driver uitgelegd: de huidige situatie, de gevolgen van de situatie voor de organisatie, de behoefte van de organisatie in verband met deze situatie en de gevolgen van het feit dat zij zich bezighouden met het vervullen van de behoefte
@@ -2271,7 +2271,7 @@ Er is meer over het onderwerp van de vrije cultuur op de website van [Creative C
 
 ### Attributie van afgeleide werken
 
-Wanneer je afgeleid werk maakt, moet je ook op correcte wijze het origineel erkennen en aangeven wat er gewijzigd is. Een goede attributie bevat titel, auteur, bron en licentie, zoals dit:
+Als je een afgeleid werk maakt, moet je deze aan het originele werk attribueren. Ook moet je aangeven wat je hebt veranderd. Een goede attributie bevat titel, auteur, bron en licentie, zoals dit:
 
 > Dit werk, “[naam van je werk]” is een afgeleide van ‘Sociocracy 3.0 - Een praktische gids’ van James Priest, Bernhard Bockelbrink en Liliana David die wordt gebruikt onder CC BY SA. “[naam van uw werk]” is gelicentieerd onder CC BY SA door [uw naam].
 
@@ -2361,7 +2361,7 @@ We verkopen consultancy, faciliteren leren, coaching en mentoring, ook gericht o
 
 <https://evolvingcollaboration.com>
 
-[bernhard.bockelbrink@evolvingcooperation.com](mailto:bernhard.bockelbrink@evolvingcollaboration.com)
+<bernhard.bockelbrink@evolvingcollaboration.com>
 
 ### Liliana David
 
@@ -2430,12 +2430,12 @@ We verkopen consultancy, faciliteren leren, coaching en mentoring, ook gericht o
 **Organisatie:** Een groep mensen die samenwerken aan een gedeelde driver (of doel). Vaak verdeelt een organisatie zich in verschillende teams.
 **Overeenkomst:** Een overeengekomen richtlijn, proces, beleid of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden.
 **Patroon:** Een sjabloon voor het succesvol navigeren van een specifieke context.
-**Primaire Driver:** The primary driver for a domain is the main driver that people who account for that domain respond to.
-**Principe:** A basic idea or rule that guides behavior, or explains or controls how something happens or works.
-**Rol:** A domain that is delegated to an individual.
+**Primaire Driver:** De primaire driver voor een domein is de hoofddriver waar mensen die verantwoordelijk zijn voor dat domein op reageren.
+**Principe:** Een basisidee of regel die richting geeft aan gedrag, of bepaalt of verklaard hoe iets gebeurt of werkt.
+**Rol:** Een domein dat is gedelegeerd aan een individu.
 **Semi-autonomie:** De autonomie van mensen om waarde te creëren binnen hun domein, verder beperkt door hun eigen governance besluiten en bezwaren (waaronder die van de delegator en van vertegenwoordigers).
-**Sociocratic Circle-Organisation Method (SCM):** An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
 **Sociocratie:** Een denkwijze waarbij mensen die door besluiten worden getroffen, deze kunnen beïnvloeden op basis van redenen om dat te doen.
+**Sociocratische Kring-organisatie Methode (SKM):** Een op sociocratisch principes gebaseerde egalitaire bestuursmethode voor organisaties, ontwikkeld door Gerard Endenburg in Nederland.
 **Spanning:** Een persoonlijke ervaring, een teken van dissonantie tussen hoe iemand zou willen dat het is en hoe iemand vindt dat het werkelijk is.
 **Strategie:** Een hoog over aanpak voor hoe mensen waarde gaan creëren om succesvol invulling te geven aan (de driver en doelstelling van) een domein.
 **Stroom van waarde:** Deliverables die door de organisatie heen stromen richting andere stakeholders en/of klanten.

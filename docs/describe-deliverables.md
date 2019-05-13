@@ -7,9 +7,9 @@ title: "Op te Leveren Resultaten Beschrijven"
 
 _Een **deliverable** is een product, service, component of materiaal dat is geleverd in reactie op een driver van de organisatie._
 
-When describing deliverables:
+Waar op te letten bij het beschrijven van op te leveren resultaten:
 
-- voeg de vereiste hoeveelheid details toe
+- voeg de juiste hoeveelheid details toe
 - refereer aan andere documenten indien handig of nodig
 
 Het is nuttig om de resultaten op een duidelijke manier te beschrijven, zodat de communicatie en de samenwerking binnen de organisatie, met de klant en met externe partners kan worden verbeterd.
