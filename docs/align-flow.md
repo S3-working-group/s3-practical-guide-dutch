@@ -3,18 +3,18 @@ title: "Uitlijnen van invloed, informatie- en waardestromen"
 ---
 
 
-**In support of continuous flow of value, move decision making close to where value is created, and align the flow of information accordingly.**
+**Om de waardestroom te organiseren is het van belang om de besluitvorming te laten plaatsvinden dichtbij waar de waarde wordt gecreëerd en om de stroom van invloed en informatie ook zo te laten lopen.**
 
 **Waardestroom:** Deliverables die door de organisatie heen stromen richting andere stakeholders en/of klanten.
 
 Bereik en onderhoud de uitlijning van de waardestroom door de <dfn data-info="Overeenkomst: Een overeengekomen richtlijn, proces, beleid of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden.">overeenkomsten</dfn> in een organisatie continue te blijven ontwikkelen:
 
-- ensure all decisions affecting the flow of value actually support the flow of value
-- enable people with relevant skills and knowledge to influence decisions
-- make available any helpful information
-- aim for shorter feedback loops to amplify learning.
+- zorg ervoor dat alle besluiten die de waardestroom beïnvloeden, de waardestroom ondersteunen
+- zorg ervoor dat de mensen met de juiste kennis en vaardigheden de besluiten kunnen beïnvloeden
+- maak handige informatie beschikbaar
+- richt op het creëren van korte feedback loops om leren te versnellen.
 
-When decision making is conducted close to where value is created, and the flow of information supports the continuous and steady flow of value, the potential for accumulation of waste is reduced.
+Wanneer de besluitvorming plaatsvindt dichtbij waar de waarde wordt gecreëerd, en de informatiestroom de voortdurende en constante waardestroom ondersteunt, wordt het potentieel voor ophoping van verspilling verminderd.
 
 ![Het uitlijnen van de stroom van informatie om de waardestroom te ondersteunen](img/workflow-and-value/align-flow.png)
 

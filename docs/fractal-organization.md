@@ -1,5 +1,5 @@
 ---
-title: "Fractal Organization"
+title: "Fractale organisatie"
 ---
 
 
@@ -9,7 +9,7 @@ Een fractale organisatie kan een groot netwerk inschakelen om snel te reageren o
 
 Indien nodig kan het patroon herhaald worden om meerdere fractale organisaties te verbinden tot één.
 
-![Fractal Organization](img/structural-patterns/fractal-organization.png)
+![Fractale organisatie](img/structural-patterns/fractal-organization.png)
 
 ### Randvoorwaarden
 
@@ -19,28 +19,28 @@ Deze <dfn data-info="Kiezer: Een team (bijv. een cirkel, team, afdeling, branch,
 
 ### Rangen
 
-A fractal organization has at least three tiers:
+Een fractie organisatie heeft ten minste drie rangen:
 
-- first tier: the **constituents** (i.e. organizations, branches, departments or projects)
+- eerste rang: de **kiesgerechtigden** (dat wil zeggen organisaties, branches, afdelingen of projecten)
 - tweede rang: **functie-specifieke [cirkels van afgevaardigden](delegate-circle.html)** om lessen te delen en om overeenkomsten te maken, namens functie specifieke domeinen
-- third tier: a **cross-functional delegate circle** to make and evolve agreements in response to drivers affecting the overall body of constituents
+- derde rang: een **cross-functionele cirkel van afgevaardigden** om overeenkomsten te maken en te evolueren in reactie op drivers die alle kiesgerechtigden beïnvloeden
 
 ### Een fractale organisatie vormen
 
-1. Het vormen van de **tweede rang**: Bij elke entiteit besluiten de leden van elk zelfde soort functioneel domein wie hen zal vertegenwoordigen in een **functie specifieke cirkel van afgevaardigden**, waar zij hun kennis en lessen delen, en bijdragen aan het maken en doorontwikkelen van overeenkomsten. Representatives are selected for a limited term (after which a new selection is made).
+1. Het vormen van de **tweede rang**: Bij elke entiteit besluiten de leden van elk zelfde soort functioneel domein wie hen zal vertegenwoordigen in een **functie specifieke cirkel van afgevaardigden**, waar zij hun kennis en lessen delen, en bijdragen aan het maken en doorontwikkelen van overeenkomsten. Vertegenwoordigers zijn geselecteerd voor een beperkte termijn (waarna een nieuwe selectie wordt gemaakt).
 2. Het vormen van de **derde rang**: afgevaardigden van de tweede rang selecteren allemaal een afgevaardigde voor een **cross-functionele cirkel van afgevaardigden**.
 
 ### Impact op de organisatie(s)
 
-Each constituent:
+Elke kiesgerechtigde:
 
-- gains access to a wide array of experience, wisdom and skills to increase effectiveness and innovation.
-- can share resources, infrastructure and experience with other constituents according to capacity and need
+- krijgt toegang tot een breed scala aan ervaring, wijsheid en vaardigheden om de effectiviteit en innovatie te vergroten.
+- kunnen hulpbronnen, infrastructuur en ervaring delen met andere kiesgerechtigden op basis van capaciteit en behoefte
 
-The second and third tier:
+De tweede en derde rang:
 
-- can test decisions simultaneously across multiple instances of a function-specific domain, providing extensive feedback and rapid learning
-- organize, align and steer the whole system while preserving autonomy and agency of the individual constituents
+- kan besluiten tegelijkertijd testen uit te voeren binnen meerdere functie-specifiek domeinen, waardoor er uitgebreide feedback is en er snel geleerd kan worden
+- organiseer, stem af en stuur het hele systeem, met behoud van autonomie en eigenheid van de individuele kiesgerechtigden
 
 [&#9654; Co-Creatie en Evolutie](co-creation-and-evolution.html)<br/>[&#9664; Service organisatie](service-organization.html)<br/>[&#9650; Organisatiestructuur](organizational-structure.html)
 

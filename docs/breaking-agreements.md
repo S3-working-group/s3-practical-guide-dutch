@@ -7,7 +7,7 @@ Het breken van <dfn data-info="Overeenkomst: Een overeengekomen richtlijn, proce
 
 Wees verantwoordelijk:
 
-- **ruim** eventuele schade <0>op</0>
+- **ruim op** eventuele schade
 - zorg zo snel mogelijk voor **opvolging** met degenen die geraakt zijn
 - **verander de overeenkomst** in plaats van deze herhaaldelijk te breken
 

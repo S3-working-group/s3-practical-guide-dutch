@@ -12,12 +12,12 @@ Verschillende soorten backlogs:
 - product backlog
 - hindernissen backlog
 
-**Implementation:**
+**Implementatie:**
 
 - **analoge backlog**: plakmemo's op een muur, of indexkaarten, magneten en whiteboard
 - **digitale backlog:** bijv. [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), [Asana](https://asana.com/)
 
-Each item on a (prioritized) backlog typically contains:
+Elk item op een (geprioriteerde) backlog bevat meestal:
 
 - een **korte beschrijving** van een [op te leveren resultaat](glossary:deliverable) of een [driver](glossary:organizational-driver)
 - een **uniek referentienummer** (of link) voor elk werkitem

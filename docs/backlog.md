@@ -15,12 +15,12 @@ Verschillende soorten backlogs:
 - product backlog
 - hindernissen backlog
 
-**Implementation:**
+**Implementatie:**
 
 - **analoge backlog**: plakmemo's op een muur, of indexkaarten, magneten en whiteboard
 - **digitale backlog:** bijv. [Google Sheets](https://www.google.com/sheets/about/), [Trello](https://trello.com/), [Kanban Flow](https://kanbanflow.com/), [Jira](https://www.atlassian.com/software/jira), [Asana](https://asana.com/)
 
-Each item on a (prioritized) backlog typically contains:
+Elk item op een (geprioriteerde) backlog bevat meestal:
 
 - een **korte beschrijving** van een <dfn data-info="Deliverable: Een product, service, component of materiaal dat is geleverd in reactie op een driver van de organisatie.">op te leveren resultaat</dfn> of een <dfn data-info="Driver van de Organisatie: Een driver is het motief van een persoon of groep om te reageren op een specifieke situatie. Een driver is een **driver van de organisatie** als een reactie op deze driver de organisatie zou helpen om waarde te genereren, verspilling te elimineren of schade te voorkomen.">driver</dfn>
 - een **uniek referentienummer** (of link) voor elk werkitem

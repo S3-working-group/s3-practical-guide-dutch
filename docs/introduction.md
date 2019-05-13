@@ -2,9 +2,9 @@
 title: Introductie
 ---
 
-## Sociocracy 3.0 - A Practical Guide For Evolving Agile and Resilient Organizations
+## Sociocratie 3.0 - Een praktische gids voor de ontwikkeling van wendbare en veerkrachtige organisaties
 
-### Effective Collaboration At Any Scale
+### Effectief samenwerken op elke schaal
 
 Sociocratie 3.0 - **oftewel S3** is een praktische gids om wendbare en veerkrachtige organisaties te ontwikkelen van elke schaalgrootte, van kleine start-ups tot aan grote internationale netwerken en landelijke samenwerkingen bestaande uit meerdere entiteiten. Het voorziet in een samenhangende manier om integriteit in een organisatie te laten groeien en **een sociocratische, agile manier van denken** te ontwikkelen.
 
@@ -160,9 +160,9 @@ Voor een uitleg over termen verwijzen we naar de woordenlijst aan het eind.
 
 _Een **patroon** is een sjabloon om een specifieke context succesvol te navigeren._
 
-- S3 patterns are discovered through observing many organizations as they solve problems and respond to opportunities
-- S3 patterns can be evolved and adapted to suit differing contexts
-- the patterns are grouped by topic into ten categories
+- S3 patronen worden ontdekt door veel organisaties te observeren als ze problemen oplossen en op kansen reageren
+- S3 patronen kunnen worden geëvolueerd en aangepast aan verschillende contexten
+- Patronen zijn per onderwerp gegroepeerd in tien categorieën
 
 ![Patronen zijn per onderwerp gegroepeerd in tien categorieën](img/pattern-group-headers/all-groups-dark.png)
 ### De zeven principes
@@ -214,11 +214,11 @@ _**Waarde** is het belang of nut van iets in relatie tot de driver._
 
 _**Verspilling** is alles dat onnodig is of in de weg staat om op een (meer) effectieve manier te reageren op de driver._
 
-By adopting the concept of value and waste, many practices and ideas from **lean production** and **lean software development** can be utilized by organizations pulling in S3 patterns:
+Door het concept van waarde en verspilling aan te nemen, kunnen veel werkwijzen en ideeën van **lean productie** en **lean software ontwikkeling** worden gebruikt door organisaties S3 patronen beginnen te gebruiken:
 
 - value stream mapping
-- various strategies for eliminating waste
-- the Kanban Method
+- verschillende strategieën voor het elimineren van verspilling
+- de Kanban methode
 #### Domeinen
 
 _Een **domein** een afgebakend gebied van invloed, activiteit en besluitvorming binnen een organisatie._
@@ -241,10 +241,10 @@ Degenen die een domein delegeren (de *delegatoren*) behouden nog steeds de algeh
 
 Het is ook mogelijk om een domein te begrijpen in relatie tot drivers van de organisatie:
 
-- the domain's **primary driver** - the main driver the people accounting for that domain (the *delegatees*) respond to
-- the set of subdrivers the organization may benefit from addressing when responding to the primary driver, which include: 
-    - **key responsibilities** (any driver following directly from the domain's primary driver)
-    - drivers for **constraints of the domain** (which typically relate to the organization's wider context)
+- de **primaire driver** van het domein is de hoofddriver waar de mensen die voor dat domein verantwoordelijk zijn (de *gedelegeerden*) op reageren
+- de reeks subdrivers waar de organisatie aandacht aan moet besteden om te reageren op de primaire driver. Denk hierbij aan: 
+    - **kernverantwoordelijkheden** (elke driver die direct voortkomt uit de primaire driver van het domein)
+    - drivers voor **kaders van het domein** (die meestal betrekking hebben op de bredere context van de organisatie)
 
 ![Drivers en domeinen](img/driver-domain/drivers-and-domains.png)
 ### Governance en Activiteiten

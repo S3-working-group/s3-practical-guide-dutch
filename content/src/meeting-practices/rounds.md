@@ -1,4 +1,4 @@
-## Rounds
+## Rondes
 
 **In een groepsvergadering ga je de cirkel rond, zodat iedereen op zijn beurt het woord kan voeren.**
 
@@ -8,4 +8,4 @@ Wees duidelijk over de doelstellingen en de beoogde resultaten van elke ronde.
 
 Vorm een cirkel en begin elke ronde met een ander persoon en verander de richting (met of tegen de klok) om variatie aan te brengen in wie als eerst en als laatst spreekt, en in de volgorde van de bijdragen van mensen.
 
-![Rounds](img/circle/rounds.png)
+![Rondes](img/circle/rounds.png)

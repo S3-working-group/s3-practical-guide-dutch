@@ -1,15 +1,15 @@
 ---
-title: "Navigeer Via Tension"
+title: "Navigeren via spanning"
 ---
 
 
-**Pay attention to tension you experience in relation to the organization, investigate the cause and pass on any organizational drivers you discover to the people accountable for the appropriate domain.**
+**Let goed op spanningen die je ervaart in relatie tot de organisatie. Onderzoek hoe de spanning ontstaat en geef drivers van de organisatie waar je achterkomt aan de mensen in het juiste domein om ze op te pakken.**
 
-**Challenges and opportunities** for an organization are revealed by people bringing awareness to the reasons why they experience tension.
+**Uitdagingen en kansen** voor een organisatie worden onthuld wanneer mensen zich bewust worden van de spanningen zij ervaren.
 
-**Note:** In this context, a *tension* is a personal experience: a symptom of dissonance between an individual's perception of a situation, and their expectations (or preferences).
+**Opmerking:** Een *spanning* is een persoonlijke ervaring: een teken van dissonantie tussen hoe een persoon vindt dat het nu is en hoe iemand zou verwachten of willen dat het is.
 
-Om **drivers te ontdekken** is het nodig om te onderzoeken waar spanning door wordt veroorzaakt en te beschrijven wat er gebeurt en wat er nodig is. Soms blijkt een spanning voort te komen uit misverstanden en dan kan dit uitzoeken ervoor zorgen dat de spanning verdwijnt.
+Onderzoek wat zorgt voor spanning om **drivers te ontdekken** en omschrijf wat er gebeurt en wat er nodig is. Soms kom je erachter dat het is gebaseerd op misvatting en verdwijnt de spanning weer.
 
 ![Navigeren via spanning, Drivers van de organisatie beschrijven, Reageren op drivers van de organisatie](img/process/navigate-describe-respond.png)
 

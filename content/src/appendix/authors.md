@@ -18,7 +18,7 @@ We verkopen consultancy, faciliteren leren, coaching en mentoring, ook gericht o
 
 <https://evolvingcollaboration.com>
 
-[bernhard.bockelbrink@evolvingcooperation.com](mailto:bernhard.bockelbrink@evolvingcollaboration.com)
+<bernhard.bockelbrink@evolvingcollaboration.com>
 
 ### Liliana David
 

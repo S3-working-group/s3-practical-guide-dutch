@@ -78,17 +78,17 @@ title: Woordenlijst
 
 **Patroon:** Een sjabloon voor het succesvol navigeren van een specifieke context.
 
-**Primaire Driver:** The primary driver for a domain is the main driver that people who account for that domain respond to.
+**Primaire Driver:** De primaire driver voor een domein is de hoofddriver waar mensen die verantwoordelijk zijn voor dat domein op reageren.
 
-**Principe:** A basic idea or rule that guides behavior, or explains or controls how something happens or works.
+**Principe:** Een basisidee of regel die richting geeft aan gedrag, of bepaalt of verklaard hoe iets gebeurt of werkt.
 
-**Rol:** A domain that is delegated to an individual.
+**Rol:** Een domein dat is gedelegeerd aan een individu.
 
 **Semi-autonomie:** De autonomie van mensen om waarde te creëren binnen hun domein, verder beperkt door hun eigen governance besluiten en bezwaren (waaronder die van de delegator en van vertegenwoordigers).
 
-**Sociocratic Circle-Organisation Method (SCM):** An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
-
 **Sociocratie:** Een denkwijze waarbij mensen die door besluiten worden getroffen, deze kunnen beïnvloeden op basis van redenen om dat te doen.
+
+**Sociocratische Kring-organisatie Methode (SKM):** Een op sociocratisch principes gebaseerde egalitaire bestuursmethode voor organisaties, ontwikkeld door Gerard Endenburg in Nederland.
 
 **Spanning:** Een persoonlijke ervaring, een teken van dissonantie tussen hoe iemand zou willen dat het is en hoe iemand vindt dat het werkelijk is.
 

@@ -14,7 +14,7 @@ Overweeg om als governance facilitator te leren over en gebruik te leren maken v
 - [Rondes](section:rounds)
 - [Voorstel Vormen](section:proposal-forming)
 - [Consent Besluitvorming](section:consent-decision-making)
-- [Rol Selectie](section:role-selection)
+- [Rolselectie](section:role-selection)
 - [Vergaderingen evalueren](section:evaluate-meetings)
 - [Bezwaren Oplossen](section:resolve-objections)
 - [Peer Review](section:peer-review)

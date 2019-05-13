@@ -3,18 +3,18 @@ title: "Coördinatie Vergadering"
 ---
 
 
-**Meet on a regular basis (usually weekly) for reporting on and coordinating work across domains.**
+**Kom regelmatig bij elkaar (meestal wekelijks) om over werk te rapporten en het te coördineren tussen domeinen.**
 
 - faciliteer de vergadering (<dfn data-info="Timebox: Een vooraf afgesproken tijdsperiode die te besteden is aan een specifieke activiteit (die niet noodzakelijkerwijs is afgerond aan het einde van de timebox).">timebox</dfn> gesprekken en gebruik rondes waar waardevol)
-- when useful, compile an agenda before the meeting and share it with attendees in advance 
-    - include details of any prerequisites that can help attendees to prepare
-    - further agenda items may come up when hearing status reports
+- wanneer nuttig, stel een agenda voor de vergadering op en deel deze van te voren met deelnemers 
+    - voeg details toe van alle voorwaarden die deelnemers kunnen helpen zich voor te bereiden
+    - overige agenda items kunnen boven tafel komen tijdens het horen van de status updates
 
-Agenda-items:
+Agenda items:
 
-- cross domain synchronization and alignment
-- prioritization and distribution of work 
-- responding to impediments
+- synchronisatie en afstemming tussen domeinen
+- prioritering en distributie van werk 
+- reageren op de belemmeringen
 
 ![Fases van een coördinatievergadering](img/meetings/coordination-meeting.png)
 

@@ -3,22 +3,22 @@ title: "Voorstellen co-creëren"
 ---
 
 
-**Bring people together to co-create proposals in response to organizational drivers: tap collective intelligence, build sense of ownership and increase engagement and accountability.**
+**Breng mensen samen om voorstellen te co-creëren in reactie op drivers van de organisatie: maak gebruik van de collectieve intelligentie, vergroot het gevoel van eigenaarschap en betrokkenheid en accountability.**
 
-There are many ways to co-create proposals. They typically follow a similar pattern:
+Er zijn veel manieren om voorstellen te co-creëren. Ze volgen meestal een soortgelijk patroon:
 
 1. Stem in met de <dfn data-info="Driver van de Organisatie: Een driver is het motief van een persoon of groep om te reageren op een specifieke situatie. Een driver is een **driver van de organisatie** als een reactie op deze driver de organisatie zou helpen om waarde te genereren, verspilling te elimineren of schade te voorkomen.">driver</dfn> (of probleem / kans / behoefte)
-2. Explore the topic and understand constraints
-3. Generate ideas
-4. Design a proposal (often done by a smaller group)
+2. Verken het onderwerp en begrijp kaders
+3. Genereer ideeën
+4. Ontwerp een voorstel (vaak gedaan door een kleinere groep)
 
-One way to co-create proposals is to use S3's [Proposal Forming](proposal-forming.html) pattern.
+Een manier om voorstellen te maken is om S3's [Voorstel vorm](proposal-forming.html) patroon te gebruiken.
 
 ![Een format voor voorstellen](img/templates/proposal-template.png)
 
-For inspiration for steps 2 and 3, look to classic group facilitation techniques or design thinking activities.
+Voor inspiratie voor stappen 2 en 3, kijk naar klassieke groepsfaciliteringstechnieken of Design Thinking activiteiten.
 
-Besides in a face-to-face workshop, you can adapt this process for online meetings. You can even use it asynchronously (and over an extended period of time) to include many people.
+Naast een face-to-face workshop kun je dit proces aanpassen voor online vergaderingen. Het kan zelfs asynchroon (en gedurende een langere periode) gebruiken om veel mensen erbij te betrekken.
 
 [&#9654; Voorstel Vormen](proposal-forming.html)<br/>[&#9664; Degenen die Geraakt Worden Besluiten](those-affected-decide.html)<br/>[&#9650; Co-Creatie en Evolutie](co-creation-and-evolution.html)
 

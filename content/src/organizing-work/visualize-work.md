@@ -11,7 +11,7 @@
 
 ### Dingen om bij te houden:
 
-- **types of work items** (e.g. customer request, project tasks, reporting tasks, rework)
+- **type werkitems** (bijv. klantverzoeken, projecttaken, rapportagetaken, opnieuw te doen werk)
 - **startdatum** (en **vervaldatum** indien nodig)
 - **prioriteiten**
 - **fases** van het werk (bijv. "te doen", "in uitvoering", "review" en "done")

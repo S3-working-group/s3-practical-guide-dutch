@@ -13,53 +13,53 @@ Achterhouden van bezwaren kan schade toebrengen aan individuen, teams of de hele
 
 Het vermogen om *mogelijke* bezwaren op elk moment in te brengen, betekent dat besluiten alleen *goed genoeg moeten zijn voor nu en veilig genoeg om te proberen*.
 
-Those accountable for the action or (proposed) agreement in question, are responsible for *considering arguments and addressing objections.*
+Degenen die verantwoordelijk zijn voor de actie of (voorgestelde) overeenkomst, zijn verantwoordelijk voor het *overwegen van argumenten en het verwerken van gekwalificeerde bezwaren.*
 
 Bij het zoeken naar potentiële bezwaren, overweeg:
 
 - waarom de <dfn data-info="Beoogde Resultaat: Het verwachte resultaat van een overeenkomst, actie, project of strategie.">beoogde uitkomst</dfn> niet (volledig) bereikt gaat worden: **effectiviteit**
-- why it would be wasteful to proceed as proposed (or previously agreed): **efficiency**
+- waarom het verspilling zou zijn om door te gaan zoals voorgesteld (of eerder overeengekomen): **efficientie**
 - de negatieve gevolgen van iets op andere plekken (in hetzelfde <dfn data-info="Domein: Een afgebakend gebied van invloed, activiteit en besluitvorming binnen een organisatie.">domein</dfn>, in de bredere organisatie of daarbuiten): **bijwerkingen**
 
-The information revealed by objections can be used to improve:
+De informatie die door bezwaren wordt onthuld, kan worden gebruikt om te verbeteren:
 
 - huidige en geplande actie
-- how people execute on decisions
+- hoe mensen besluiten uitvoeren
 - bestaande overeenkomsten
 - voorstellen
-- shared understanding of drivers
+- gedeeld begrip van drivers
 
 ### Bezwaren kwalificeren
 
 Niet alle argumenten zijn ook bezwaren. Maak onderscheid tussen bezwaren, die altijd waardevolle informatie onthullen, en andere argumenten die gebaseerd zijn op aannames of persoonlijke voorkeuren.
 
-To discover if an argument qualifies as an objection, in a group context a facilitator might ask:
+Om te ontdekken of een argument als bezwaar wordt aangemerkt, zou een facilitator in een groepscontext kunnen vragen:
 
-*“Do you think this argument qualifies as an objection?”*
+*"Denken jullie dat dit argument gekwalificeerd is als een bezwaar?"*
 
-Als niemand het met het argument oneens is, is een bezwaar doorgaans gekwalificeerd. Streef er anders naar het werkelijke bezwaar te ontdekken of eventuele misvattingen te onthullen.
+Als niemand het met het argument oneens is, is een bezwaar doorgaans in aanmerking genomen. Anders wil men het werkelijke bezwaar ontdekken of misverstanden blootleggen.
 
 ### Bezwaren begrijpen
 
 Enkele nuttige vragen:
 
-- Hoe zit het met dit specifieke voorstel of met deze overeenkomst?
-- Geeft het argument aan hoe een (voorgestelde of huidige) **actie of overeenkomst**: 
-    - bemoeilijkt de reactie op een driver van de organisatie?
-    - kan nu verbeterd worden?
-    - voorkomt of vermindert iemands bijdrage aan het reageren op een driver?
-    - is in strijd met de waarden van de organisatie?
-    - wordt gezien als niet “veilig genoeg” om te proberen?
+- Hoe is dit argument gerelateerd aan dit specifieke voorstel of deze overeenkomst?
+- Geeft het argument aan hoe een (voorgesteld of huidig) **actie of overeenkomst**: 
+    - de reactie op een driver van de organisatie bemoeilijkt?
+    - nu verbeterd kan worden?
+    - iemands bijdrage aan het reageren op een driver voorkomt of vermindert?
+    - in strijd is met de waarden van de organisatie?
+    - gezien wordt als niet “veilig genoeg” om te proberen?
 
 ### Zorgen
 
 _Een **zorg** is een aanname dat iets doen (zelfs in de afwezigheid van bezwaren) **mogelijk** in de weg kan staan van een (meer) effectieve reactie op een organisatiedrijfveer._
 
-In [Consent Decision Making](consent-decision-making.html), concerns can inform ways to further evolve agreements (including evaluation criteria and frequency of evaluation).
+In [consent besluitvorming](consent-decision-making.html) kunnen zorgen aangeven hoe overeenkomsten in de toekomst mogelijk verder ontwikkeld kunnen worden (bijvoorbeeld de evaluatiecriteria of reviewfrequentie).
 
-Bring up concerns if you consider them important and at least record them along with evaluation criteria.
+Noem zorgen wanneer ze belangrijk genoeg zijn om ze ten minste op te nemen bij de evaluatiecriteria.
 
-If you are in doubt whether you have an objection or a concern, check with others if they think it qualifies as an objection.
+Bij twijfel over of het een zorg of bezwaar is, gebruik dan de anderen om het argument te kwalificeren.
 
 ![Een manier om bezwaren te kwalificeren](img/agreements/qualify-objection-process.png)
 

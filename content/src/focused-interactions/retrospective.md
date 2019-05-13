@@ -1,6 +1,6 @@
 ## Retrospectief
 
-**Dedicate time to reflect on past experience, learn, and decide how to improve work process.**
+**Spendeer tijd aan het reflecteren op opgedane ervaringen, leer ervan en besluit hoe het werkproces verbeterd kan worden.**
 
 - uitkomst: wijzigingen in het werkproces, nieuwe taken, "tussendoor" [overeenkomsten](glossary:agreement), en [drivers](glossary:organizational-driver) waar een afspraak over gemaakt moet worden
 - gefaciliteerde vergadering (~1u)

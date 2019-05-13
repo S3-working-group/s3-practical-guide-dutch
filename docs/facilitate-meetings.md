@@ -1,17 +1,17 @@
 ---
-title: "Facilitate Meetings"
+title: "Vergaderingen faciliteren"
 ---
 
 
-**Choose someone to facilitate a meeting to help the group maintain focus, keep the meeting on track and draw out the participant's creativity and wisdom.**
+**Kies iemand om de vergadering te faciliteren en de groep te helpen focus te behouden, binnen de planning te blijven en creativiteit en wijsheid te ontlokken.**
 
-Before each meeting, prepare an agenda of topics, and select a facilitator to:
+Stel een agenda op voorafgaand aan elke vergadering en selecteer een facilitator om:
 
-- hold the space, keep the time and navigate the agenda during the meeting
-- facilitate a suitable activity for each topic
-- faciliteer een [evaluatie](evaluate-meetings.html) aan het eind van de vergadering
+- houd de ruimte, houd de tijd in de gaten en navigeert de agenda tijdens de vergadering
+- een geschikte activiteit of formaat voor elk topic te faciliteren
+- een [evaluatie](evaluate-meetings.html) aan het eind van de vergadering te faciliteren
 
-Overweeg om een facilitator te selecteren voor een specifieke termijn. Zelfs een onervaren facilitator kan een positief verschil maken.
+Overweeg om een facilitator te selecteren voor een bepaalde term. Zelfs een onervaren facilitator kan een positief verschil maken.
 
 **Zie ook:** [Bereid voor voor Vergaderingen](prepare-for-meetings.html), [Rolselectie](role-selection.html)
 

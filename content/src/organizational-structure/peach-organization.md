@@ -4,8 +4,8 @@
 
 Teams in de periferie:
 
-- deliver value in direct exchange with the outside world (customers, partners, communities, municipalities etc.) 
-- steward the monetary resources and steer the organization
+- lever waarde in directe uitwisseling met de buitenwereld (klanten, partners, gemeenschappen, gemeenten etc.) 
+- beheert de monetaire middelen en stuurt de organisatie
 
 Het centrum biedt interne diensten om de organisatie te ondersteunen.
 

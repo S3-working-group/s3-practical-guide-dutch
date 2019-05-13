@@ -3,7 +3,7 @@ title: "Open Systemen"
 ---
 
 
-**Intentionally communicate with and learn from others outside of your system.**
+**Intentioneel communiceren met en leren van anderen buiten uw systeem.**
 
 Individuen, teams en hele organisaties kunnen onderlinge afhankelijkheid erkennen en mensen van buiten hun systeem bewust uitnodigen om **kennis, ervaring en invloed te introduceren** om bij te dragen aan besluitvorming en collectief leren te ondersteunen.
 

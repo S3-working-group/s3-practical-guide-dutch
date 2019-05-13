@@ -8,7 +8,7 @@ De [delegator](glossary:delegator) van het open domein verduidelijkt:
 - wie wordt uitgenodigd om bij te dragen aan het open domein
 - kaders met betrekking tot de deelname van de delegator aan de [governance](glossary:governance) van het open domein
 
-Afhankelijk van de beperkingen die de delegator stelt, kunnen de medewerkers alleen maar [werk organiseren en uitvoeren](glossary:operations), of ook deelnemen aan governance.
+Afhankelijk van de kaders die de delegator stelt, kunnen de medewerkers alleen maar [werk organiseren en uitvoeren](glossary:operations), of ook deelnemen aan governance.
 
 Een delegator is verantwoordelijk voor het uitvoeren van regelmatige beoordelingen om effectiviteit van werk en besluitvorming op een open domein te ondersteunen.
 

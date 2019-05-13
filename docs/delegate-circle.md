@@ -1,5 +1,5 @@
 ---
-title: "Delegate Circle"
+title: "Cirkel van Afgevaardigden"
 ---
 
 
@@ -7,7 +7,7 @@ title: "Delegate Circle"
 
 Om <dfn data-info="Governance: Het vaststellen van doelstellingen en het nemen en ontwikkelen van besluiten die ervoor moeten zorgen dat deze doelstellingen ook worden bereikt.">governance belsuiten</dfn> te nemen namens hen, sturen stakeholders [afgevaardigden](representative.html) om een cirkel van afgevaardigden te vormen.
 
-![Delegate Circle](img/structural-patterns/delegate-circle.png)
+![Cirkel van Afgevaardigden](img/structural-patterns/delegate-circle.png)
 
 Acties volgende uit besluiten van een gedelegeerde cirkel worden uitgevoerd binnen de verschillende <dfn data-info="Domein: Een afgebakend gebied van invloed, activiteit en besluitvorming binnen een organisatie.">domeinen</dfn> die in desbetreffende cirkel worden vertegenwoordigd.
 

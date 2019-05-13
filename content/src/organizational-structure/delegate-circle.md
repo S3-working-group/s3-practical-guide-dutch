@@ -1,10 +1,10 @@
-## Delegate Circle
+## Cirkel van Afgevaardigden
 
 **Delegeer het nemen van governance besluiten die invloed hebben op meerdere domeinen aan afgevaardigden die door deze domeinen zijn geselecteerd.**
 
 Om [governance belsuiten](glossary:governance) te nemen namens hen, sturen stakeholders [afgevaardigden](section:representative) om een cirkel van afgevaardigden te vormen.
 
-![Delegate Circle](img/structural-patterns/delegate-circle.png)
+![Cirkel van Afgevaardigden](img/structural-patterns/delegate-circle.png)
 
 Acties volgende uit besluiten van een gedelegeerde cirkel worden uitgevoerd binnen de verschillende [domeinen](glossary:domain) die in desbetreffende cirkel worden vertegenwoordigd.
 

@@ -1,4 +1,4 @@
-## Clarify Intended Outcome
+## Verduidelijk de Beoogde Resultaten
 
 **Wees duidelijk over de verwachte resultaten van overeenkomsten, acties, projecten en strategieën.**
 

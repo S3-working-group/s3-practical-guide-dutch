@@ -11,10 +11,10 @@ De rolhouder heeft de leiding bij het opstellen van een <dfn data-info="Strategi
 
 Een rol is een eenvoudige manier voor een organisatie (of <dfn data-info="Team: Een groep mensen die samenwerken naar een gedeelde bestuurder (of objectief). Meestal maakt een team deel uit van een organisatie, of wordt het gevormd als een samenwerking van verschillende organisaties.">team</dfn>) om terugkerende taken of een specifiek werkterrein te delegeren aan een van haar leden.
 
-- people can take responsibility for more than one role
+- mensen kunnen de verantwoordelijkheid voor meer dan één rol op zich nemen
 - in plaats van formeel een nieuw team op te richten, is het soms eenvoudiger om slechts één rol te delen tussen verschillende mensen
-- rol houders zijn geselecteerd met consent en voor een beperkte duur
-- peers support one another to develop in the roles they keep
+- rolhouders zijn geselecteerd met consent en voor een beperkte duur
+- gelijken (collega's) ondersteunen elkaar om te ontwikkelen in de rollen die ze vervullen
 
 Een rolhouder kan een governance <dfn data-info="Backlog: Een (geprioriteerde) lijst van werk gerelateerde items (deliverables), of (drivers) die nog moeten worden opgepakt.">backlog</dfn> en een <dfn data-info="Logboek: Een (digitaal) systeem om alle informatie op te slaan die relevant is voor het sturen van een organisatie.">logboek</dfn> bijhouden om te helpen vastleggen hoe zij van plan zijn <dfn data-info="Waarde: Het belang of nut van iets in relatie tot de driver. Het kan ook een principe zijn dat dient als richtlijn voor gedrag, dan meestal in het meervoud (waardes).">waarde</dfn> te leveren en om deze aanpak door te ontwikkelen.
 

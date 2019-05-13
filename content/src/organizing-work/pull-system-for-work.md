@@ -1,7 +1,7 @@
 ## Pull-systeem voor werk
 
-**People pull in new work items when they have capacity (instead of having work pushed or assigned to them.**
+**Mensen pakken nieuwe items op wanneer ze capaciteit hebben (in plaats van dat er werk naar hen toe wordt geduwd).**
 
-Prioritize pending work items to ensure that important items are worked on first.
+Prioriteer openstaande werkitems om ervoor te zorgen dat de belangrijke items eerst worden opgepakt.
 
 Het naar binnentrekken van werk voorkomt overbelasting van het systeem, vooral wanneer het [ werk in uitvoering wordt gelimiteerd](section:limit-work-in-progress).

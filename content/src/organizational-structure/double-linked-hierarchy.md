@@ -1,4 +1,4 @@
-## Double-Linked Hierarchy
+## Dubbel-gelinkte Hiërarchie
 
 **Alle autoriteit om governance besluiten te nemen wordt gedelegeerd naar zelfsturende cirkels, dubbel gekoppeld binnen alle niveau's van de hiërarchie om van een traditionele hiërarchie over te gaan naar een structuur die beter geschikt is om de collectieve intelligentie te gebruiken en betrokkenheid te vergroten.**
 
@@ -7,8 +7,8 @@
 
 Een dubbel-gelinkte hiërarchie:
 
-- brings equivalence to governance
-- maintains the potential for a functional hierarchy (if it enables the flow of value).
+- brengt gelijkwaardigheid in governance
+- behoud de mogelijkheid om een functionele hiërarchie in stand te houden (als het de stroom van waarde mogelijk maakt).
 
 ![Een dubbele-gelinkte hiërarchie: niet de typische hiërarchie](img/structural-patterns/double-linked-hierarchy.png)
 

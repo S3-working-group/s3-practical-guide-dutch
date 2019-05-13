@@ -5,23 +5,23 @@ title: "Organisatiestructuur"
 
 De organisatiestructuur is de feitelijke indeling van <dfn data-info="Domein: Een afgebakend gebied van invloed, activiteit en besluitvorming binnen een organisatie.">domeinen</dfn> en hun verbindingen. Het geeft aan waar de invloed ligt en via welke kanalen de informatie en invloed stroomt.
 
-Continuously evolve your organization's structure to:
+Evolueer de structuur van uw organisatie continu naar:
 
 - steun de continue <dfn data-info="Stroom van waarde: Deliverables die door de organisatie heen stromen richting andere stakeholders en/of klanten.">stroom waarde</dfn>
-- enable effective collaboration around dependencies
-- ensure information is available to those who need it
-- distribute power to influence as required
+- maak effectief samenwerken rond afhankelijkheden mogelijk
+- zorg ervoor dat informatie beschikbaar is voor degene die deze nodig heeft
+- verdeel macht om daar waar nodig voldoende invloed te hebben
 
-The basic building blocks for organizational structure are interdependent, connected domains.
+De basisbouwstenen voor de organisatiestructuur zijn onderling afhankelijk, verbonden domeinen.
 
-Domains can be linked to form a hierarchy or a **heterarchy** (a.k.a. complex adaptive system, or network, where multiple functional structures can co-exist).
+Domeinen kunnen worden gekoppeld om een hiërarchie of een **heterarchy** (a.k.a. complex adaptief systeem, of netwerk, waar meerdere functionele structuren naast elkaar kunnen bestaan) te vormen.
 
 Sociocratie 3.0 beschrijft een verscheidenheid aan **structurele patronen** om een organisatiestructuur op te bouwen.
 
 - S3's structurele patronen zijn van toepassing op verschillende lagen van abstractie
 - verschillende structurele patronen dienen verschillende <dfn data-info="Driver: Het motief van een persoon of een groep om te reageren op een specifieke situatie.">drivers</dfn>
-- structural patterns can be adapted and combined as needed
-- more patterns are out there and will be discovered
+- structurele patronen kunnen worden aangepast en gecombineerd indien nodig
+- meer patronen zijn er en zullen worden ontdekt
 - [Service cirkel](service-circle.html)
 - [Cirkel van Afgevaardigden](delegate-circle.html)
 - [Perzik Organisatie](peach-organization.html)

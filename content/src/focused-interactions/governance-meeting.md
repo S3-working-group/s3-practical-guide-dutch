@@ -7,18 +7,18 @@ Een governance vergadering is meestal:
 - gefaciliteerd 
 - vooraf voorbereid 
 - [getimeboxed](section:timebox-activities) voor de duur van 90-120 minuten
-- scheduled every 2-4 weeks
+- elke 2-4 weken gepland
 
 Een typische governance vergadering omvat:
 
 - opening: [check in](section:check-in) met elkaar en stem af over de doelstelling van de bijeenkomst
 - administratieve zaken 
-    - check for consent to the last meeting's minutes
-    - agree on a date for the next meeting
-    - check for any last-minute agenda items and for consent to the agenda
+    - controleer of de notulen van de laatste vergadering zijn goedgekeurd
+    - ga akkoord op een datum voor de volgende vergadering
+    - controleer of er nog last minute agendapunten zijn en haal consent over de agenda
 - agenda items 
 - [evaluatie van de vergadering:](section:evaluate-meetings) reflecteer op de interactie, vier successen en deel suggesties voor verbetering
-- closing: check in with each other before you leave the meeting
+- afsluiten: check in met elkaar voordat je de vergadering verlaat
 
 ![Fases van een governance vergadering](img/meetings/governance-meeting.png)
 

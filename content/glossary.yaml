@@ -159,18 +159,18 @@ terms:
   primary-driver:
     name: Primaire Driver
     definition:
-    glossary: The primary driver for a domain is the main driver that people who account for that domain respond to.
+    glossary: De primaire driver voor een domein is de hoofddriver waar mensen die verantwoordelijk zijn voor dat domein op reageren.
   principle:
     name: Principe
-    definition: A **principle** is a basic idea or rule that guides behavior, or explains or controls how something happens or works.
-    glossary: A basic idea or rule that guides behavior, or explains or controls how something happens or works.
+    definition: Een **principe** is een basisidee of regel die richting geeft aan of bepaalt hoe iets gebeurt of werkt.
+    glossary: Een basisidee of regel die richting geeft aan gedrag, of bepaalt of verklaard hoe iets gebeurt of werkt.
   role:
     name: Rol
     definition:
-    glossary: A domain that is delegated to an individual.
+    glossary: Een domein dat is gedelegeerd aan een individu.
   scm:
-    name: Sociocratic Circle-Organisation Method (SCM)
-    glossary: An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.
+    name: Sociocratische Kring-organisatie Methode (SKM)
+    glossary: Een op sociocratisch principes gebaseerde egalitaire bestuursmethode voor organisaties, ontwikkeld door Gerard Endenburg in Nederland.
   self-governance:
     name: Zelfsturing
     definition:

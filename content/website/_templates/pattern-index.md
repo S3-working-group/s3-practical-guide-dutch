@@ -1,5 +1,5 @@
 ---
-title: Alfabetische lijst van alle Patroon
+title: Alfabetische lijst van alle Patronen
 ---
 
 <!-- PATTERN-INDEX -->

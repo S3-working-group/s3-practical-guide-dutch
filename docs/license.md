@@ -20,7 +20,7 @@ Er is meer over het onderwerp van de vrije cultuur op de website van [Creative C
 
 ### Attributie van afgeleide werken
 
-Wanneer je afgeleid werk maakt, moet je ook op correcte wijze het origineel erkennen en aangeven wat er gewijzigd is. Een goede attributie bevat titel, auteur, bron en licentie, zoals dit:
+Als je een afgeleid werk maakt, moet je deze aan het originele werk attribueren. Ook moet je aangeven wat je hebt veranderd. Een goede attributie bevat titel, auteur, bron en licentie, zoals dit:
 
 > Dit werk, “[naam van je werk]” is een afgeleide van ‘Sociocracy 3.0 - Een praktische gids’ van James Priest, Bernhard Bockelbrink en Liliana David die wordt gebruikt onder CC BY SA. “[naam van uw werk]” is gelicentieerd onder CC BY SA door [uw naam].
 

@@ -13,8 +13,8 @@ Drivers:
 
 {{define:waste}}
 
-By adopting the concept of value and waste, many practices and ideas from **lean production** and **lean software development** can be utilized by organizations pulling in S3 patterns:
+Door het concept van waarde en verspilling aan te nemen, kunnen veel werkwijzen en ideeën van **lean productie** en **lean software ontwikkeling** worden gebruikt door organisaties S3 patronen beginnen te gebruiken:
 
 - value stream mapping
-- various strategies for eliminating waste
-- the Kanban Method
+- verschillende strategieën voor het elimineren van verspilling
+- de Kanban methode
