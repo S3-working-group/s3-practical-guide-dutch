@@ -3,7 +3,7 @@ title: "Dubbel-gelinkte Hiërarchie"
 ---
 
 
-**Alle autoriteit om governance besluiten te nemen wordt gedelegeerd naar zelfsturende cirkels, dubbel gekoppeld binnen alle niveau's van de hiërarchie om van een traditionele hiërarchie over te gaan naar een structuur die beter geschikt is om de collectieve intelligentie te gebruiken en betrokkenheid te vergroten.**
+<strong>Alle autoriteit om governance besluiten te nemen wordt gedelegeerd naar zelfsturende cirkels, dubbel gekoppeld binnen alle niveau's van de hiërarchie, om van een traditionele hiërarchie over te gaan naar een structuur die gelijkwaardiger is en beter geschikt om de collectieve intelligentie te gebruiken en betrokkenheid te vergroten.</strong>
 
 1. Verplaats het nemen van governance besluiten van individuen naar teams door <dfn data-info="Zelfsturing: Mensen die zichzelf besturen binnen
 de kaders van een domein."> zelforganiserende</dfn><dfn data-info="Cirkel: Een zelfsturend en semi-autonoom team van gelijkwaardige mensen die samen verantwoording geven aan een domein.">cirkels</dfn> te vormen op alle lagen van de organisatie.

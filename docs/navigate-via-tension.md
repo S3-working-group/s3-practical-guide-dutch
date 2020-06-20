@@ -3,7 +3,7 @@ title: "Navigeren via spanning"
 ---
 
 
-**Let goed op spanningen die je ervaart in relatie tot de organisatie. Onderzoek hoe de spanning ontstaat en geef drivers van de organisatie waar je achterkomt aan de mensen in het juiste domein om ze op te pakken.**
+<strong>Let goed op spanningen die je ervaart in relatie tot de organisatie. Onderzoek hoe de spanning ontstaat en geef ontdekte drivers van de organisatie aan mensen uit het bijbehorende domein.</strong>
 
 **Uitdagingen en kansen** voor een organisatie worden onthuld wanneer mensen zich bewust worden van de spanningen zij ervaren.
 

@@ -3,16 +3,16 @@ title: "Drivers van de organisatie beschrijven"
 ---
 
 
-**Beschrijf drivers van de organisatie om ze te begrijpen, te communiceren en te onthouden.**
+<strong>Beschrijf drivers van de organisatie om ze te begrijpen, over te brengen en te onthouden.</strong>
 
-Het omschrijven van <dfn data-info="Driver van de Organisatie: Een driver is het motief van een persoon of groep om te reageren op een specifieke situatie. Een driver is een **driver van de organisatie** als een reactie op deze driver de organisatie zou helpen om waarde te genereren, verspilling te elimineren of schade te voorkomen.">drivers</dfn> kan worden gedaan door een groep of een individu. Afhankelijk van hun perspectief, kunnen ze besluiten om een driver uit te leggen als een **probleem** om op te lossen of een **kans** om te grijpen.
+Het omschrijven van <dfn data-info="Driver van de Organisatie: Een driver is het motief van een persoon of groep om over te gaan tot actie in een specifieke situatie. Een driver is een **driver van de organisatie** wanneer het reageren hierop waarde oplevert voor de organisatie, of verspilling en schade voorkomt.">drivers</dfn> kan worden gedaan door een groep of een individu. Afhankelijk van hun perspectief, kunnen ze besluiten om een driver uit te leggen als een **probleem** om op te lossen of een **kans** om te grijpen.
 
 Een eenvoudige manier om een driver te beschrijven is door uit te leggen:
 
-- **Wat gebeurt er...:** 
+- **Wat er gebeurt...:** 
     - de **huidige situatie**
     - het **effect** van deze situatie op de organisatie
-- ...en **wat is er nodig:** 
+- ...en **wat er nodig is:** 
     - de **behoefte**van de organisatie in relatie tot deze situatie
     - de **impact** van het vervullen van deze behoefte
 
@@ -22,7 +22,7 @@ Maak een korte maar toereikende samenvatting met voldoende informatie om duideli
 
 ### Voorbeeld:
 
-> *“De keuken is een puinhoop: er zijn geen schone kopjes, de wasbak zit vol borden en het is niet mogelijk om snel een koffie te pakken en weer te gaan werken. We hebben de keuken in een bruikbare staat nodig, zodat we ons op ons werk kunnen blijven concentreren.”*
+> *“De keuken is een puinhoop: er zijn geen schone kopjes, de wasbak zit vol borden en het is niet mogelijk om snel koffie te pakken en weer te gaan werken. We hebben de keuken in een bruikbare staat nodig, zodat we ons op ons werk kunnen blijven concentreren.”*
 
 ### 1. Huidige situatie
 

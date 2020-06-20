@@ -3,7 +3,7 @@ title: "Service organisatie"
 ---
 
 
-**Samenwerking en afstemming tussen verschillende belanghebbenden met een gezamenlijke driver.**
+<strong>Samenwerking en afstemming tussen verschillende belanghebbenden met een gezamenlijke driver.</strong> 
 
 - verbetert het potentieel voor gelijkwaardigheid tussen verschillende entiteiten
 - verhoog de onderlinge afstemming tussen verschillende afdelingen/organisaties

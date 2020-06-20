@@ -3,7 +3,7 @@ title: "Voorstel Vormen"
 ---
 
 
-**Een (gefaciliteerd) groepsproces waarmee in co-creatie bedacht wordt hoe er het best op een driver gereageerd kan worden.**
+<strong>Een (gefaciliteerd) groepsproces waarmee in co-creatie bedacht wordt hoe er het best op een driver gereageerd kan worden.</strong>
 
 - maakt gebruik van de collectieve intelligentie en diversiteit aan perspectief binnen een groep
 - mensen betrekken bij het co-creeëren van afspraken
@@ -13,7 +13,7 @@ title: "Voorstel Vormen"
 
 ### Voorstel vorm stappen
 
-**Consent over de driver:** Presenteer de <dfn data-info="Driver van de Organisatie: Een driver is het motief van een persoon of groep om te reageren op een specifieke situatie. Een driver is een **driver van de organisatie** als een reactie op deze driver de organisatie zou helpen om waarde te genereren, verspilling te elimineren of schade te voorkomen.">driver</dfn> kort. *Is deze driver relevant voor ons om op te reageren? Zijn er essentiële aanpassingen op wat er is voorgesteld?*
+**Consent over de driver:** Presenteer de <dfn data-info="Driver van de Organisatie: Een driver is het motief van een persoon of groep om over te gaan tot actie in een specifieke situatie. Een driver is een **driver van de organisatie** wanneer het reageren hierop waarde oplevert voor de organisatie, of verspilling en schade voorkomt.">driver</dfn> kort. *Is deze driver relevant voor ons om op te reageren? Zijn er essentiële aanpassingen op wat er is voorgesteld?*
 
 **Verdiep gedeeld begrip van de driver:** nodig uit om essentiële vragen te stellen en meer details te verzamelen over de driver.
 

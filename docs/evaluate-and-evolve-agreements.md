@@ -3,7 +3,7 @@ title: "Overeenkomsten evalueren en doorontwikkelen"
 ---
 
 
-**Blijf overeenkomsten voortdurend ontwikkel en elimineer verspilling.**
+<strong>Blijf overeenkomsten voortdurend ontwikkelen en elimineer verspilling.</strong>
 
 Een regelmatige herziening van overeenkomsten is essentieel voor een lerende organisatie:
 

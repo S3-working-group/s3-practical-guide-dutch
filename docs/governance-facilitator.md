@@ -3,9 +3,9 @@ title: "Governance facilitator"
 ---
 
 
-**Selecteer iemand om governance vergaderingen te faciliteren.**
+<strong>Selecteer iemand om governance vergaderingen te faciliteren.</strong>
 
-Een [governance](governance.html) facilitator:
+Een <dfn data-info="Governance: Het vaststellen van doelstellingen en het nemen en ontwikkelen van besluiten die ervoor moeten zorgen dat deze doelstellingen ook worden bereikt.">governance</dfn> facilitator:
 
 - zorgt ervoor dat [governance vergaderingen](governance-meeting.html) goed verlopen en geëvalueerd worden
 - is (meestal) 1 van de leden geselecteerd door het <dfn data-info="Team: Een groep mensen die samenwerken naar een gedeelde bestuurder (of objectief). Meestal maakt een team deel uit van een organisatie, of wordt het gevormd als een samenwerking van verschillende organisaties.">team</dfn> (en voor een specifieke termijn)

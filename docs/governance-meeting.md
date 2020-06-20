@@ -3,7 +3,7 @@ title: "Governance vergadering"
 ---
 
 
-**Teams komen regelmatig bijeen om te bepalen wat er moet worden gedaan om doelstellingen te bereiken en kaders vast te stellen over hoe en wanneer er iets zal gebeuren.**
+<strong>Teams komen regelmatig bijeen om te bepalen wat er moet worden gedaan om doelstellingen te bereiken en kaders vast te stellen over hoe en wanneer iets wordt gedaan.</strong>
 
 Een governance vergadering is meestal:
 
@@ -35,5 +35,5 @@ Typische agenda items omvatten:
     - [overeenkomsten maken](consent-decision-making.html)
     - Het [ontwerpen van domeinen](clarify-domains.html) en het bepalen van de manier waarop ze verantwoord moeten worden (bijv. nieuwe [rollen](role.html), [cirkels](circle.html), teams of [open domeinen](open-domain.html))
 
-[&#9654; Retrospectief](retrospective.html)<br/>[&#9650; Gerichte Interacties](focused-interactions.html)
+[&#9654; Retrospective](retrospective.html)<br/>[&#9650; Gerichte Interacties](focused-interactions.html)
 

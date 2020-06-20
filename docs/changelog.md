@@ -3,10 +3,42 @@ title: "Wijzigingen"
 ---
 
 
+### Wijzigingen 2020-05-08
+
+- Alle illustraties herzien voor een meer consistente stijl en grotere leesbaarheid
+- herziene introductie: meer uitleg over patronen en kernbegrippen
+- woordenlijst bijgewerkt: herziene uitleg van <dfn data-info="Delegator: Een individu of groep die de verantwoordelijkheid voor een domein aan anderen delegeert.">Delegator</dfn>, <dfn data-info="Gedelegeerde: Een individu of groep die de verantwoordelijkheid voor een aan hen gedelegeerd domein aanneemt en daarmee rolhouder of team wordt.">Delegatee</dfn>, <dfn data-info="Rol: Iemand die verantwoordelijkheid neemt voor een domein en daarmee rolhouder wordt.">Rol</dfn> en <dfn data-info="Patroon: Een sjabloon voor een proces, werkwijze of richtlijn die ingezet kan worden om succesvol te reageren op een specifiek soort uitdaging of kans.">Patroon</dfn>, toegevoegd <dfn data-info="Rolhouder: Een individu die de verantwoordelijkheid neemt voor een rol.">Rol Keeper</dfn>
+
+### Wijzigingen 2020-04-29
+
+- Inleiding: bezwaren *toegevoegd* en *Overeenkomst toegevoegd* aan concepten
+- patroon *bezwaren* hernoemd tot [Kwalificeer Bezwaren](arguments-qualify-as-objections.html) 
+- patroon *Overeenkomst* hernoemd tot [Overeenkomsten vastleggen](record-agreements.html)
+- [Bezwaren Kwalificeren](arguments-qualify-as-objections.html): herziene tekst en bijgewerkte illustratie
+- [Overeenkomsten vastleggen](record-agreements.html): herziene tekst, meer details toegevoegd van overeenkomsten die kunnen worden opgenomen, bijgewerkte illustratie
+
+### Wijzigingen 2019-12-22
+
+- nieuwe introductietekst toegevoegd
+- voegde "sociale technologie" toe aan de woordenlijst
+- website heeft nu aparte pagina's voor "Inleiding" en "Concepten en Principles"
+- ePub ziet er nu veel beter uit
+
+### Wijzigingen 2019-11-29
+
+- Principe van Transparantie: herziene beschrijving om duidelijk te maken dat waardevolle informatie moet worden opgenomen en vervolgens met iedereen in de organisatie moet worden gedeeld
+- Principe van Empirisme: verduidelijkt dat alleen die veronderstellingen waarvan je afhankelijk bent dat ze getest moeten worden
+
+### Wijzigingen 2019-06-27
+
+- *bezwaren*: verder verfijnde definitie van bezwaar, en aldus de woordenlijst term voor <dfn data-info="Bezwaar: Een argument dat verduidelijkt hoe een (voorgestelde) overeenkomst of actie onbedoelde consequenties heeft die je liever wil vermijden of dat er nog aanzienlijke verbeteringen mogelijk zijn en er schade zit in het missen van waarde die voortkomt uit de verbetering.">bezwaar</dfn> bijgewerkt
+- verving "actie" door activiteit op enkele plaatsen waar het zinvoller was
+- een paar typos gerepareerd
+
 ### Wijzigingen 2019-05-03
 
-- verfijnde glossary termen voor <dfn data-info="Overeenkomst: Een overeengekomen richtlijn, proces, beleid of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden.">overaankomst</dfn>, <dfn data-info="Organisatie: Een groep mensen die samenwerken aan een gedeelde driver (of doel). Vaak verdeelt een organisatie zich in verschillende teams.">organisatie</dfn> en <dfn data-info="Team: Een groep mensen die samenwerken naar een gedeelde bestuurder (of objectief). Meestal maakt een team deel uit van een organisatie, of wordt het gevormd als een samenwerking van verschillende organisaties.">team</dfn>, voegde woordenlijst term toe voor <dfn data-info="Doel: Een (specifiek) resultaat dat een persoon of team of organisatie wil bereiken; een streven of een doel.">Doelstelling</dfn>
-- Prinses van Accountability: verduidelijkt de individuele accountablity voor het werk en voor samenwerking
+- verfijnde woordenlijst termen voor <dfn data-info="Overeenkomst: Een overeengekomen richtlijn, proces, beleid of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden.">overeenkomst</dfn>, <dfn data-info="Organisatie: Een groep mensen die samenwerken aan een gedeelde driver (of doel). Vaak verdeelt een organisatie zich in verschillende teams.">organisatie</dfn> en <dfn data-info="Team: Een groep mensen die samenwerken naar een gedeelde bestuurder (of objectief). Meestal maakt een team deel uit van een organisatie, of wordt het gevormd als een samenwerking van verschillende organisaties.">team</dfn>, voegde woordenlijst toe voor <dfn data-info="Doel: Een (specifiek) resultaat dat een persoon of team of organisatie wil bereiken; een streven of een doel.">doelstelling</dfn>
+- Principe van Accountability: verduidelijkt de individuele accountability voor werk en voor samenwerking
 - [contract voor succesvolle samenwerking](contract-for-successful-collaboration.html): paste tekst aan
 - [op te leveren resultaten beschrijven](describe-deliverables.html): user stories toegevoegd als voorbeeld
 - [Dubbele-gelinkte Hiërarchie](double-linked-hierarchy.html): herziene samenvatting
@@ -29,7 +61,7 @@ title: "Wijzigingen"
 
 **Woordenlijst:**
 
-- <dfn data-info="Team: Een groep mensen die samenwerken naar een gedeelde bestuurder (of objectief). Meestal maakt een team deel uit van een organisatie, of wordt het gevormd als een samenwerking van verschillende organisaties.">team toegevoegd</dfn> aan woordenlijst (en vervang groep met team gedurende de praktische gids waar van toepassing)
+- <dfn data-info="Team: Een groep mensen die samenwerken naar een gedeelde bestuurder (of objectief). Meestal maakt een team deel uit van een organisatie, of wordt het gevormd als een samenwerking van verschillende organisaties.">team toegevoegd</dfn> aan woordenlijst (en vervang groep met team in de praktische gids waar van toepassing)
 - de definitie van <dfn data-info="Deliverable: Een product, service, component of materiaal dat is geleverd in reactie op een driver van de organisatie.">Op te leveren resultaten</dfn> verbeterd
 - **driver statement** uit tekst en woordenlijst verwijder
 - de definities voor <dfn data-info="Governance: Het vaststellen van doelstellingen en het nemen en ontwikkelen van besluiten die ervoor moeten zorgen dat deze doelstellingen ook worden bereikt.">governance</dfn>, <dfn data-info="Activiteiten: Het doen en organiseren van werk en dagelijks activiteiten binnen de kaders die zijn gedefinieerd door governance.">activiteiten</dfn>, en <dfn data-info="Zelforganisatie: Elke activiteit of proces waarmee mensen hun dagelijkse werk organiseren zonder invloed van een externe tussenpersonen, en binnen kaders die zijn gedefinieerd door governance. In elke organisatie of team bestaan zelforganisatie en externe invloed naast elkaar.">zelforganisatie</dfn> geupdate
@@ -37,12 +69,12 @@ title: "Wijzigingen"
 **Illustraties:**
 
 - aangepaste formats voor domein beschrijving en rolbeschrijving
-- illustraties voor [Koppelen](linking.html) en [Dubbele Koppeling](double-linking.html) bijgewerkt
+- illustraties voor [Linken](linking.html) en [Dubbele Link](double-linking.html) bijgewerkt
 
 **Wijzigingen aan patronen:**
 
 - [Overeenkomst](agreement.html): beschrijving vermeldt nu dat alle verwachtingen moeten worden geregistreerd
-- [Op te leveren resultaten beschrijven](describe-deliverables.html): verbeterde beschrijving
+- [Op te leveren producten beschrijven](describe-deliverables.html): verbeterde beschrijving
 - [Beschrijf Drivers van de organisatie](oescribe-organizational-drivers.html): meer informatie over het samenvattenvan drivers
 - [Bezwaren oplossen](resolve-objections.html): beide illustraties bijgewerkt
 
@@ -73,7 +105,7 @@ title: "Wijzigingen"
 **Wijzigingen aan patronen:**
 
 - [overeenstemmen over waarden](agree-on-values.html): verbeterde beschrijving
-- [Flow uitlijnen](align-flow.html): verbeterde beschrijving en illustratie
+- [Stroom uitlijnen](align-flow.html): verbeterde beschrijving en illustratie
 - [Patronen aanpassen aan de context](adapt-patterns-to-context.html): verbeterde beschrijving
 - [Overeenkomst](agreement.html): verbeterde beschrijving, bijgewerkt template
 - [Artful Participation](artful-participation.html): verbeterde samenvatting
@@ -114,7 +146,7 @@ title: "Wijzigingen"
 
 **Patronen hernoemd:**
 
-- *Overeenkomsten evalueren* naar *Overeenkomsten evalueren en evolueren*
+- *Overeenkomsten evalueren* naar *Overeenkomsten evalueren en doorontwikkelen*
 - *Beoogd resultaat* naar *Beoogde resultaten verduidelijken* 
 - *Open S3 Adoptie* naar *Open ruimte voor verandering*
 - *Contracting en accountability* naar *Contract voor succesvolle samenwerking*
@@ -126,17 +158,17 @@ title: "Wijzigingen"
 - [Voorbereiden van vergaderingen](prepare-for-meetings.html)
 - [Activiteiten timeboxen](timebox-activities.html)
 
-### Wijzigingen 2018-03-31
+### Changes 2018-03-21
 
 - patroon *Beschrijf Drivers* naar *Beschrijf drivers van de organisatie* hernoemd
-- [Beschrijf drivers van de organisatie](describe-organizational-drivers.html): de vier aspecten van een driver uitgelegd: de huidige situatie, de gevolgen van de situatie voor de organisatie, de behoefte van de organisatie in verband met deze situatie en de gevolgen van het feit dat zij zich bezighouden met het vervullen van de behoefte
+- [Beschrijf drivers van de organisatie](describe-organizational-drivers.html): de vier aspecten van een driver uitgelegd: de huidige situatie, de gevolgen van de situatie voor de organisatie, de behoefte van de organisatie in verband met deze situatie en de gevolgen van het vervullen van de behoefte
 - *behoefte* aan woordenlijst toegevoegd
 
 ### Wijzigingen 2017-11-16
 
 - kleine correcties
 - woordenlijst omschrijving van *Cirkel* en *Rol* afgestemd op de tekst bij het patroon
-- *Ontwikkelingsplan*: verduidelijking van verantwoordelijkheden
+- *Ontwikkelplan*: verduidelijking van verantwoordelijkheden
 - *Rol*: doorontwikkeling van de strategie verduidelijkt
 
 ### Wijzigingen 2017-11-10
@@ -197,7 +229,7 @@ title: "Wijzigingen"
 
 **Toegevoegde patronen:**
 
-- *Delegeren van invloed*
+- *Invloed Delegeren*
 - *Drivers Beschrijven*
 - *Open Domein*
 

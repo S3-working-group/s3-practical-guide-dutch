@@ -3,7 +3,7 @@ title: "Activiteiten timeboxen"
 ---
 
 
-**Stel een tijdsbeperking in om focus te behouden, wees bewust van de tijd die je hebt en hoe je het gebruikt.**
+<strong>Bepaal hoeveel tijd je ergens voor neemt, zodat je focus kunt behouden en bewust omgaat met de tijd die je hebt.</strong>
 
 _Een **timebox** is een vooraf afgesproken tijdsperiode die te besteden is aan een specifieke activiteit (die niet noodzakelijkerwijs is afgerond aan het einde van de timebox)._
 

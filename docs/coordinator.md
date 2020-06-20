@@ -3,9 +3,9 @@ title: "Coördinator"
 ---
 
 
-Een persoon in de rol van een coördinator is verantwoordelijk voor het **coördineren van het werk binnen een domein** en is **geselecteerd voor een beperkte termijn.**
+Een persoon in de rol van coördinator is verantwoordelijk voor het <strong>coördineren van het werk binnen een domein</strong> en is <strong>geselecteerd voor een beperkte termijn.</strong>
 
-De coördinator kan worden geselecteerd door het team zelf, of door de <dfn data-info="Delegator: Een individu of groep die de verantwoording voor een domein overdragen aan (een) ander(en).">delegator</dfn>.
+De coördinator kan worden geselecteerd door het team zelf, of door de <dfn data-info="Delegator: Een individu of groep die de verantwoordelijkheid voor een domein aan anderen delegeert.">delegator</dfn>.
 
 Meerdere coördinatoren kunnen samenwerken om werk te synchroniseren over meerdere <dfn data-info="Domein: Een afgebakend gebied van invloed, activiteit en besluitvorming binnen een organisatie.">domeinen</dfn>.
 

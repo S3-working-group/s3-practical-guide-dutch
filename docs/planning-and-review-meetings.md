@@ -3,7 +3,7 @@ title: "Planning en Review Vergaderingen"
 ---
 
 
-**Mensen komen regelmatig bij elkaar (1-4 weken) in getimeboxte vergaderingen om werk te plannen en te evalueren.**
+<strong>Mensen komen regelmatig bij elkaar (1-4 weken) in vergaderingen met een vooraf vastgestelde duur om werk te plannen en evalueren.</strong>
 
 **Planning vergadering**: selecteer en schat in welke werkitems gepland worden voor de volgende iteratie.
 

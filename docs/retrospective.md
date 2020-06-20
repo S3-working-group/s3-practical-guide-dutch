@@ -1,18 +1,18 @@
 ---
-title: "Retrospectief"
+title: "Retrospective"
 ---
 
 
-**Spendeer tijd aan het reflecteren op opgedane ervaringen, leer ervan en besluit hoe het werkproces verbeterd kan worden.**
+<strong>Spendeer tijd aan het reflecteren op ervaringen uit het verleden, leer ervan en besluit hoe het werkproces verbeterd kan worden.</strong>
 
-- uitkomst: wijzigingen in het werkproces, nieuwe taken, "tussendoor" <dfn data-info="Overeenkomst: Een overeengekomen richtlijn, proces, beleid of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden.">overeenkomsten</dfn>, en <dfn data-info="Driver van de Organisatie: Een driver is het motief van een persoon of groep om te reageren op een specifieke situatie. Een driver is een **driver van de organisatie** als een reactie op deze driver de organisatie zou helpen om waarde te genereren, verspilling te elimineren of schade te voorkomen.">drivers</dfn> waar een afspraak over gemaakt moet worden
+- uitkomst: wijzigingen in het werkproces, nieuwe taken, "tussendoor" <dfn data-info="Overeenkomst: Een overeengekomen richtlijn, proces, beleid of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden.">overeenkomsten</dfn>, en <dfn data-info="Driver van de Organisatie: Een driver is het motief van een persoon of groep om over te gaan tot actie in een specifieke situatie. Een driver is een **driver van de organisatie** wanneer het reageren hierop waarde oplevert voor de organisatie, of verspilling en schade voorkomt.">drivers</dfn> waar een afspraak over gemaakt moet worden
 - gefaciliteerde vergadering (~1u)
 - regelmatige intervallen (1-4 weken)
 - aanpassen aan situatie en context
 
-![Uitkomsten van een Retrospectief](img/meetings/retrospective.png)
+![Uitkomsten van een Retrospective](img/meetings/retrospective.png)
 
-### Vijf fases van een Retrospectief
+### Vijf fases van een Retrospective
 
 1. Zorg voor de juiste sfeer 
 2. Verzamel data

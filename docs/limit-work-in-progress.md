@@ -3,11 +3,11 @@ title: "Beperk Lopende Werkzaamheden"
 ---
 
 
-**Beperk het aantal lopende werkzaamheden in elke fase van het werkproces.**
+<strong>Beperk het aantal lopende werkzaamheden in elke fase van het werkproces.</strong>
 
 Werk in uitvoering omvat:
 
-- het aantal items in een <dfn data-info="Backlog: Een (geprioriteerde) lijst van werk gerelateerde items (deliverables), of (drivers) die nog moeten worden opgepakt.">backlog</dfn>
+- het aantal items in een <dfn data-info="Backlog: Een (vaak geprioriteerde) lijst met taken (deliverables), of drivers die nog moeten worden opgepakt.">backlog</dfn>
 - gelijktijdige projecten of taken voor teams of individuen
 - producten in een portfolio
 

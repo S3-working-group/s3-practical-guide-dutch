@@ -3,7 +3,7 @@ title: "Degenen die Geraakt Worden Besluiten"
 ---
 
 
-**Iedereen die door een besluit wordt getroffen, moet betrokken worden bij het nemen van het besluit. Zo behoud je gelijkwaardigheid en accountability en vergroot je de informatie die beschikbaar is over het onderwerp.**
+<strong>Betrek mensen die geraakt worden door een besluit bij het nemen van het besluit. Zo behoud je gelijkwaardigheid en eigenaarschap en zorg je ervoor dat er zoveel mogelijk informatie beschikbaar is over het onderwerp.</strong>
 
 Voor grotere groepen:
 

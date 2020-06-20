@@ -3,7 +3,7 @@ title: "Ontwikkel een Pull-systeem voor organisatorische verandering"
 ---
 
 
-**Ontwikkel een omgeving die het voor leden van de organisatie uitnodigend en mogelijk maakt om verandering te bewerkstelligen.**
+<strong>Ontwikkel een omgeving die het bewerkstelligen van verandering voor iedereen in de organisatie mogelijk en uitnodigend maakt. </strong>
 
 Verander dingen wanneer het waarde heeft om dat te doen:
 

@@ -3,7 +3,7 @@ title: "Patronen Aanpassen aan de Context"
 ---
 
 
-**Pas S3 patronen aan en ontwikkel deze om beter aan te sluiten bij jouw specifieke context.**
+<strong>Pas S3 patronen aan en ontwikkel deze om beter aan te sluiten bij jouw specifieke context.</strong>
 
 Zorg ervoor dat iedereen die wordt geraakt:
 

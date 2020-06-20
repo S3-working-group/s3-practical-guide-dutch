@@ -3,7 +3,7 @@ title: "Koppelen"
 ---
 
 
-**Maak de informatiestroom en beïnvloeding tussen twee teams mogelijk.**
+<strong>Maak het stromen van informatie en invloed tussen twee teams mogelijk.</strong>
 
 Een team selecteert één van zijn leden om hun belangen te behartigen bij de <dfn data-info="Governance: Het vaststellen van doelstellingen en het nemen en ontwikkelen van besluiten die ervoor moeten zorgen dat deze doelstellingen ook worden bereikt.">governance</dfn> besluiten van een ander team.
 

@@ -3,7 +3,7 @@ title: "Uitnodigen van verandering"
 ---
 
 
-**Maak de reden voor verandering duidelijk en nodig mensen uit om deel te nemen.**
+<strong>Verduidelijk de reden voor het veranderen en nodig mensen uit om mee te doen.</strong>
 
 Uitnodigen tot in plaats van het opleggen van verandering vermindert weerstand en stelt mensen in staat om zelf te kiezen.
 

@@ -3,9 +3,9 @@ title: "Open Domein"
 ---
 
 
-**Bewust accountable zijn voor een domein op uitnodiging in plaats van in opdracht en nodig degenen die kunnen bijdragen uit om dit te doen wanneer zij kunnen.**
+<strong>Kies bewust voor de verantwoording voor een domein op uitnodiging, in plaats van opdracht en de genodigden om een bijdrage te leveren wanneer zij kunnen.</strong>
 
-De <dfn data-info="Delegator: Een individu of groep die de verantwoording voor een domein overdragen aan (een) ander(en).">delegator</dfn> van het open domein verduidelijkt:
+De <dfn data-info="Delegator: Een individu of groep die de verantwoordelijkheid voor een domein aan anderen delegeert.">delegator</dfn> van het open domein verduidelijkt:
 
 - de <dfn data-info="Primaire Driver: De primaire driver voor een domein is de hoofddriver waar mensen die verantwoordelijk zijn voor dat domein op reageren.">primaire driver</dfn>, kernverantwoordelijkheden en kaders van het open domein
 - wie wordt uitgenodigd om bij te dragen aan het open domein

@@ -3,16 +3,16 @@ title: "Waarden vaststellen"
 ---
 
 
-**Bewust de cultuur van jouw organisatie vormgeven.**
+<strong>Zorg voor een bewuste ontwikkeling van jouw organisatiecultuur</strong>
 
 _** Waarden ** zijn waardevolle principes die dienen als richtlijnen voor gewenst gedrag. Waarden definiëren de ruimte voor actie en ethische beperkingen._
 
 - elk lid brengt zijn eigen waarden naar een organisatie, welke zijn gebaseerd op persoonlijke ervaringen en overtuigingen
-- een team of organisatie kan ervoor **kiezen om collectieve waarden aan te nemen** om hun samenwerking te begeleiden
+- een team of organisatie kan ervoor **kiezen om als collectief waarden aan te nemen ** die zij nastreven in hun samenwerking
 
-Waarden bieden richtlijnen om passende acties te bepalen, zelfs wanneer er geen expliciete <dfn data-info="Overeenkomst: Een overeengekomen richtlijn, proces, beleid of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden.">overeenkomsten</dfn> zijn.
+Waarden bieden richtlijnen over hoe te handelen, ook wanneer er geen expliciete <dfn data-info="Overeenkomst: Een overeengekomen richtlijn, proces, beleid of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden.">overeenkomsten</dfn> zijn.
 
-Een reeks waarden die collectief worden aangenomen, ondersteunt de effectiviteit van een organisatie:
+Het hebben van gezamenlijke waarden bevordert de effectiviteit van een organisatie:
 
 - vermindert de kans op **misverstanden**
 - zorgt voor een **gezamenlijke basis** van waaruit besluiten worden genomen en acties ondernomen

@@ -22,7 +22,7 @@ Verschillende soorten backlogs:
 
 Elk item op een (geprioriteerde) backlog bevat meestal:
 
-- een **korte beschrijving** van een <dfn data-info="Deliverable: Een product, service, component of materiaal dat is geleverd in reactie op een driver van de organisatie.">op te leveren resultaat</dfn> of een <dfn data-info="Driver van de Organisatie: Een driver is het motief van een persoon of groep om te reageren op een specifieke situatie. Een driver is een **driver van de organisatie** als een reactie op deze driver de organisatie zou helpen om waarde te genereren, verspilling te elimineren of schade te voorkomen.">driver</dfn>
+- een **korte beschrijving** van een <dfn data-info="Deliverable: Een product, service, component of materiaal dat is geleverd in reactie op een driver van de organisatie.">op te leveren resultaat</dfn> of een <dfn data-info="Driver van de Organisatie: Een driver is het motief van een persoon of groep om over te gaan tot actie in een specifieke situatie. Een driver is een **driver van de organisatie** wanneer het reageren hierop waarde oplevert voor de organisatie, of verspilling en schade voorkomt.">driver</dfn>
 - een **uniek referentienummer** (of link) voor elk werkitem
 - (de **volgorde van werk items**)
 - **afhankelijkheden** met andere werkproducten of projecten

@@ -1,62 +1,51 @@
 ---
-title: Sociocratie 3.0 - Een praktische gids
+title: Een Praktische gids om geleidelijk te bouwen aan de ontwikkeling van Agile en veerkrachtige organisaties met Sociocratie 3.0
 ---
 
 # Introductie
 
-## Sociocratie 3.0 - Een praktische gids voor de ontwikkeling van wendbare en veerkrachtige organisaties
+## Wat is Sociocratie 3.0?
 
-### Effectief samenwerken op elke schaal
+Sociocratie 3.0 - oftewel "S3" - is sociale technologie , waarmee geleidelijk aan agile en veerkrachtige organisaties kunnen worden ontwikkeld. Het is toe te passen in kleine start-ups tot aan grote internationale netwerken en samenwerkingen tussen meerdere entiteiten.
 
-Sociocratie 3.0 - **oftewel S3** is een praktische gids om wendbare en veerkrachtige organisaties te ontwikkelen van elke schaalgrootte, van kleine start-ups tot aan grote internationale netwerken en landelijke samenwerkingen bestaande uit meerdere entiteiten. Het voorziet in een samenhangende manier om integriteit in een organisatie te laten groeien en **een sociocratische, agile manier van denken** te ontwikkelen.
+In deze praktische handleiding ontdek je een uitgebreide verzameling van beproefde **-concepten, principes en werkwijzen om prestaties, betrokkenheid en welzijn te verbeteren** in organisaties.
 
-S3 bestaat uit een zeer volledige verzameling van richtlijnen en werkwijzen (patronen), die effectief zijn gebleken voor organisatie om **prestaties te verbeteren, op elkaar af te stemmen, zingeving te vergroten en welzijn te verbeteren**.
+Sinds de lancering in 2015 hebben de patronen van S3 mensen in verschillende contexts in organisaties geholpen om het beste uit samenwerking te krijgen. Van start-ups tot kleine en middelgrote ondernemingen, grote internationale organisaties, door investeerders gefinancierde en non-profitorganisaties, families en gemeenschappen.
 
-Deze patronen helpen ontdekken hoe doelen het best bereikt kunnen worden en hoe om te gaan met complexe situaties., Stap voor stap, **zonder de noodzaak aan radicale verandertrajecten, reorganisaties of lange termijn verander initiatieven:**
+S3 gebruiken kan je **helpen jouw doelen te bereiken ** en met succes te navigeren in complexiteit. Je kunt stap voor stap wijzigingen aanbrengen, **zonder dat er een radicale reorganisatie nodig is** of een langetermijn veranderplan:
 
-Begin gewoon daar waar de grootste behoefte aan verandering ligt, selecteer een of meer patronen om te proberen, **beweeg in je eigen tempo** en ontwikkel vaardigheden terwijl je bezig bent.
+- Begin simpelweg met het identificeren van de gebieden waar de nood het hoogst is en selecteer een of meer werkwijzen of richtlijnen die helpen.
+- Ga verder in je eigen tempo, en ontwikkel gaandeweg je zowel je vaardigheden als een meer sociocratische en agile mentaliteit.
 
-Er zitten voor iedereen handige en relevante patronen bij **ongeacht positie in de organisatie**.
+Er zitten voor iedereen handige en beproefde opties bij, **ongeacht positie in de organisatie**.
 
-Sociocratie 3.0 is:
+**Sociocratie 3.0 is gratis** en gelicentieerd onder een Creative Commons Free Culture License.
 
-- **flexibel**: aanpasbare patronen, onafhankelijk inzetbaar en wederzijds versterkend, in te zetten op alle aspecten van samenwerking
-- **op principes gebaseerd:** 7 kernprincipes uit agile en sociocratische manieren van samenwerken worden weerspiegeld in elk patroon
-- **gratis**: gelicentieerd onder een Creative Commons Free Culture Licentie
+## Hoe helpt Sociocratie 3.0?
 
-### Wat zit er in voor mij?
+S3 is een transformerende technologie voor zowel individuen als de gehele organisatie. S3 helpt je ontdekken hoe je de grootste uitdagingen van je organisatie het hoofd kunt bieden, zelfs de meest hardnekkige problemen, en de kansen die voorbij komen kan grijpen.
 
-**Sociocratie 3.0:**
+Sociocratie 3.0 is ontworpen om flexibel te zijn en moedigt aan om te experimenteren en leren. Je kunt gebruiken wat je nodig hebt, je kunt het aanpassen aan je context en je bestaande aanpak ermee verrijken.
 
-- biedt een samenhangende verzameling van op principes gebaseerde patronen om samen te werken, om te gaan met complexiteit, aan te blijven passen aan de context en te blijven ontwikkelen.
-- ondersteunt mensen om in kleine stapjes beschikbare informatie te verwerken om werkprocessen, producten, diensten en vaardigheden continue te blijven verbeteren.
-- helpt organisaties om zo goed mogelijk gebruik te maken van aanwezig talent en flexibele organisatiestructuren te ontwikkelen om de stroom van informatie en invloed goed af te stemmen op de waardestroom.
-- biedt een organische, iteratieve aanpak voor verandering die daar begint waar de organisatie is en helpt te bewegen op een tempo dat passend is bij hen, de behoeften en de context waar zij zich in bevinden.
-- maakt gebruik van de collectieve intelligentie van een groep.
-- faciliteert de ontwikkeling van strategieën die "goed genoeg voor nu zijn" en "veilig genoeg om te proberen".
-- bevordert accountability en een gevoel van betrokkenheid.
-- helpt zowel individuen als organisaties om te veranderen.
+S3 integreert kernbegrippen en werkwijzen uit agile methodologieën, lean management, Kanban (en KMM), Design Thinking, Teal Organisaties en de familie van op sociocratie gebaseerde governance-methoden (SCM/Dynamic Governance, Holacracy® etc.). Het is complementair aan en compatibel met elk agile of lean framework, inclusief Scrum en de verschillende frameworks om deze methode op te schalen.
 
-**Sociocratie 3.0 kan worden toegepast binnen:**
+**In deze praktische handleiding zal je het volgende vinden:**
 
-- start-ups
-- MKB's
-- grote, internationale, netwerkorganisaties
-- families
-- door beleggers gefinancierde organisaties
-- gemeenschappen
-- en meer…
+- Nuttige concepten die je helpen **jouw organisatie beter te begrijpen** en effectief te communiceren over waar verandering nodig is.
+- Een **organische, iteratieve benadering van verandering** die mensen ontmoet waar ze zijn en hen helpt stappen te maken in hun eigen tempo en afgestemd op hun unieke context en behoeften.
+- **Zeven kern principes** van agile en sociocratische samenwerking
+- Een samenhangende verzameling van **Meer dan 70 werkwijzen en richtlijnen** om je te helpen om te gaan met complexiteit en samenwerking te verbeteren: 
+    - **Eenvoudige, gefaciliteerde formats** die ervoor zorgen dat teams gebruik maken van de collectieve intelligentie van de groep en beschikbare informatie verwerken om stapsgewijs hun werk, processen, producten en diensten te blijven verbeteren.
+    - **Groepswerkwijzen** die organisaties helpen optimaal reeds aanwezig talent te benutten, door **mensen die elkaar steunen** bij het ontwikkelen van vaardigheden, eigenaarschap en betrokkenheid.
+    - Eenvoudige **tools om te verduidelijken wie wat doet **, mensen vrij te maken omzelf te besluiten en handelen, binnen duidelijk gedefinieerde kaders die ruimte geven om te experimenteren en ontwikkelen.
+    - Patronen voor het ontwikkelen van een flexibel, gedecentraliseerde netwerk, een **organisatiestructuur die verder gaat dan hiërarchie**, waar informatie en invloed daar ligt waar het direct steunend is aan de creatie van waarde.
+- Een **woordenlijst** met uitleg over alle termen waarmee je mogelijk niet bekend bent.
 
-### Inhoud van deze handleiding
+Deze praktische handleiding voor Sociocratie 3.0 is geschreven en gepubliceerd door de drie medeontwikkelaars van Sociocratie 3.0.
 
-- een klein beetje geschiedenis en een kort overzicht van enkele basisconcepten achter S3
-- een beschrijving van alle patronen in S3
-- een bijlage 
-    - changelog
-    - info over auteurs en dank aan
-    - de licentie
-    - de Intentionele Commitment voor Beoefenaars en Leraren van Sociocratie 3.0 (ICPT, uit het Engels)
-    - woordenlijst en index
+Trouw blijvend aan het gedachtegoed van S3, zal dit boek altijd in ontwikkeling blijven, dat groeit en verandert aan de hand van wat we leren van mensen die aan het experimenteren zijn met S3 in organisaties over de hele wereld. Sinds we vijf jaar geleden zijn begonnen, hebben we meerdere updates per jaar gepubliceerd en dat zullen we de komende jaren blijven doen.
+
+Hoewel verschillende secties in dit boek kort zijn en nog steeds wat ruw om de randen, de inhoud en uitleg waren voor veel mensen voldoende om met S3 te beginnen en positieve veranderingen in hun organisaties te bewerkstelligen. We hopen dat je er wat hebt.
 
 ## Invloeden en geschiedenis van Sociocratie 3.0
 
@@ -68,7 +57,7 @@ Het woord sociocratie kan worden herleid tot 1851, toen **Auguste Comte** voorst
 
 Een paar decennia later, gebruikte **Lester Frank Ward** het woord 'sociocratie' om de heerschappij van mensen met relaties met elkaar te beschrijven. In plaats van sociologen in het middelpunt, wilde hij meer macht en verantwoordelijkheid geven aan het individu, en stelde hij zich sociologen voor in een rol van onderzoeker en adviseur.
 
-In 1926 heeft de Nederlandse onderwijshervormer en Quaker **Kees Boeke** een residentiële school opgezet op basis van consent. Medewerkers en studenten werden behandeld als gelijkwaardige deelnemers aan het bestuur van de school, alle beslissingen moesten voor iedereen aanvaardbaar zijn. Hij heeft deze versie van sociocratie gebouwd op de Quaker-beginselen en -praktijken en schreef in 1945 een plan, welke later werd gepubliceerd door zijn vrouw Beatrice Cadbury Boeke, “Sociocracy: Democracy as it might be”, waarin hij sociocratie omschrijft als een werkelijke democratische samenleving.
+In 1926 heeft de Nederlandse onderwijshervormer en Quaker **Kees Boeke** een residentiële school opgezet op basis van consent. Medewerkers en studenten werden behandeld als gelijkwaardige deelnemers aan het bestuur van de school, alle beslissingen moesten voor iedereen aanvaardbaar zijn. Hij heeft deze versie van sociocratie gebouwd op de Quaker-beginselen en -werkwijzen en schreef in 1945 een plan, welke later werd gepubliceerd door zijn vrouw Beatrice Cadbury Boeke, “Sociocracy: Democracy as it might be”, waarin hij sociocratie omschrijft als een werkelijke democratische samenleving.
 
 **Gerard Endenburg**, ook een Quaker en een student op de school van Boeke, wilde sociocratie toepassen in zijn gezinsbedrijf, Endenburg Elektrotechniek. Hij heeft de *Sociocratische Kring Organisatie Methode (SKM)* (later de "Sociocratische Methode") gecreëerd en geëvolueerd, waarbij de vorm van sociocratie van Boeke wordt geïntegreerd met techniek en cybernetica. In 1978 heeft Endenburg het Sociocratisch Centrum in Utrecht (nu het Sociocratische Centrum in Rotterdam) opgericht als een manier om sociocratie in en buiten Nederland te promoten. Sinds 1994 zijn organisaties in Nederland die SKM gebruiken vrijgesteld van de wettelijke verplichting om een ondernemingsraad te hebben.
 
@@ -78,9 +67,7 @@ Sociocratie is effectief gebleken voor veel organisaties en gemeenschappen rond 
 
 In 2014 zijn ** James Priest en Bernhard Bockelbrink** samengekomen om een set aan lesmaterialen te ontwikkelen, onder de Creative Commons license, waarin ideeën uit Sociocratie, Agile en Lean worden samengevoegd. Zij ontdekten dat organisaties van alle groottes een flexibel menu van werkwijzen en structuren nodig hebben – passend binnen hun specifieke context – die de ontwikkeling van een sociocratische en agile mindset mogelijk maakt om meer effectiviteit, afstemming, zingeving en welzijn te bereiken. De eerste versie van **Sociocratie 3.0.** is gelanceerd in maart 2015.
 
-**Liliana David** is kort hierna onderdeel van het team geworden en zij werken regelmatig samen om zowel het raamwerk als de website verder te ontwikkelen.
-
-Gezamenlijk proberen zij S3 beschikbaar en toepasbaar te maken voor zoveel mogelijk organisaties en verstrekken zij te gebruiken materialen en informatie onder een **Creative Commons Free Culture License**. Dit is te gebruiken door mensen die over Sociocratie 3.0 willen leren, het willen toepassen en er anderen over willen vertellen.
+**Liliana David** is kort daarna lid geworden van het team. Zij werken op regelmatige basis samen om S3 beschikbaar en toepasbaar te maken voor zoveel mogelijk organisaties. Zij verstrekken te gebruiken materialen en informatie onder een **Creative Commons Free Culture License**, zodat het te gebruiken is door iedereen die meer over Sociocratie 3.0 wil leren, het wil toepassen en er anderen over wil vertellen.
 
 ### De Sociocratie 3.0 beweging
 
@@ -112,10 +99,10 @@ Het helpt ook om te voorkomen dat er wordt gedacht dat we een verkeerde voorstel
 
 *Sociocratie 3.0* gebruikt een niet-gecentraliseerd distributiemodel. Dit is een paradigmawisseling in de manier waarop sociocratie naar mensen en organisaties wordt gebracht, en waar veel mensen zich aan kunnen relateren.
 
-We ondersteunen "virale" distributie door twee hoofdstrategieën:
+Wij ondersteunen "virale" distributie via twee belangrijke strategieën:
 
 * **Sociocratie 3.0 is open:** Wij willen de groei van een levendig ecosysteem van manieren om het toe te passen en verschillende samen van Sociocratie bevorderen, waar mensen hun inzichten en de aanpassingen die ze maken voor hun specifieke context delen en bespreken. Om deze reden benadrukt Sociocratie 3.0 het belang van de onderliggende principes en nodigt expliciet uit tot creativiteit bij het vervoegen, aanpassen en veranderen ervan om beter aan te sluiten bij hun behoeften.
-* **Sociocratie 3.0 is gratis:** Om de grens voor mensen en organisaties zo laag mogelijk te houden, bieden we gratis middelen aan onder een *Creative Commons Free Culture License* om *Sociocratie 3.0*te leren, gebruiken en overbrengen. Iedereen kan onze middelen gebruiken zonder onze uitdrukkelijke toestemming, zelfs in een commerciële context, of als basis voor het bouwen van zijn eigen bronnen [^zolang hij zijn nieuwe bronnen onder dezelfde licentie deelt]. Wij moedigen andere organisaties, adviseurs, coaches, leer facilitatoren en trainers aan ons voorbeeld te volgen en hun middelen ook vrij te maken.
+* **Sociocratie 3.0 is gratis:** Om de grens voor mensen en organisaties zo laag mogelijk te houden, bieden we gratis middelen aan onder een *Creative Commons Free Culture License* om *Sociocratie 3.0*te leren, gebruiken en overbrengen. Iedereen kan onze materialen gebruiken zonder onze uitdrukkelijke toestemming, zelfs in een commerciële context, of als basis om eigen materialen te ontwikkelen, zolang deze nieuwe bronnen onder dezelfde licentie worden gedeeld. Wij verwachten van en moedigen andere organisaties, adviseurs, coaches, leer facilitatoren en trainers aan ons voorbeeld te volgen en hun materialen ook vrij beschikbaar te maken.
 
 ### De Evolutie van de Sociocratische Kring Organisatie Methode
 
@@ -137,7 +124,7 @@ In *Sociocratie 3.0*, is het doel impliciet in alle gevallen – om waarde te st
 
 Als je naar de normen kijkt, kan de *Sociocratische Kring Organisatie Methode* er groot en angstig uitzien. Door alleen op de essentiële punten te focussen, biedt *Sociocratie 3.0* een lichtgewicht kader om aan te passen en zo nodig op voort te bouwen.
 
-Dit betekent niet dat het allemaal makkelijk is: kiezen om *Sociocratie 3.0* patronen te naar binnen te trekken vereist een investering in aanleren en afleren. Daarom is het belangrijk om alleen te pakken wat je nodig hebt, want het heeft geen zin om dingen te veranderen die al goed gaan.
+Dit betekent niet dat het allemaal makkelijk is: kiezen om patronen uit *Sociocratie 3.0* toe te passen vereist een investering in aanleren en afleren. Daarom is het belangrijk om alleen te pakken wat je nodig hebt. Het heeft heeft geen zin om dingen te veranderen, wanneer wat je nu doet al goed gaat.
 
 #### Integratie met Agile en Lean denken
 
@@ -147,36 +134,27 @@ De *Sociocratische Kring Organisatie Methode* is een "lege" methode als het gaat
 
 De organisatiestructuur volgens de *Sociocratische Kring Organisatie Methode* is gemodelleerd naar een hiërarchie van domeinen. We zien een toenemende opkomst van gemeenschappelijke multi-stakeholder omgevingen en de noodzaak van een bredere verscheidenheid aan patronen voor een organisatiestructuur. De evolutie van de organisatiestructuur gebeurt natuurlijk wanneer de stroom van informatie en invloed in een organisatie geleidelijk aan op de waardestroom wordt afgestemd. *Sociocratie 3.0* biedt een verscheidenheid aan structurele patronen die kunnen worden gecombineerd om op flexibele wijze de nodige structuur te ontwikkelen.
 
-*James Priest, Bernhard Bockelbrink, Liliana David*
+<!-- split here -->
 
-## Basisbegrippen
-
-Voordat je in de inhoud duikt, overweeg om tijd te nemen om te leren over enkele basisconcepten achter S3:
-
-- Wat is een patroon?
-- De zeven principes
-- Organisaties begrijpen: 
-    - Drivers, waarde en verspilling
-    - Domeinen, delegeren en accountability
-    - Governance en Activiteiten
-
-Voor een uitleg over termen verwijzen we naar de woordenlijst aan het eind.
+## Patronen en de zeven principes
 
 ### Patronen
 
-_Een **patroon** is een sjabloon om een specifieke context succesvol te navigeren._
+S3 biedt een op patronen gebaseerde benadering voor verandering in organisaties.
 
-- S3 patronen worden ontdekt door veel organisaties te observeren als ze problemen oplossen en op kansen reageren
-- S3 patronen kunnen worden geëvolueerd en aangepast aan verschillende contexten
-- Patronen zijn per onderwerp gegroepeerd in tien categorieën
+Een **patroon** is een proces, praktijk of richtlijn dat als sjabloon dient om succesvol te reageren op een specifiek soort uitdaging of kans. S3 patronen worden ontdekt door te observeren hoe mensen samenwerken in organisaties wanneer ze werken aan het oplossen van problemen reageren op kansen die zij tegenkomen. Wanneer je ontdekt dat de manier waarop je gewoonlijk aan de slag gaat niet leidt tot de resultaten waar je naar op zoek bent, kan het helpen om te kijken welke patronen uit S3 mogelijk zouden kunnen helpen.
 
-![Patronen zijn per onderwerp gegroepeerd in tien categorieën](img/pattern-group-headers/all-groups-dark.png)
+De patronen zijn onderverdeeld in tien categorieën, zodat het makkelijker is om te identificeren welke handig kunnen zijn voor jou. Ze zijn modulair en aan te passen, kunnen los van elkaar gebruikt worden en versterken elkaar en vullen elkaar aan wanneer ze gezamenlijk worden gebruikt. S3 patronen kunnen doorontwikkeld en aangepast worden om beter aan te sluiten bij jou specifieke behoeften.
+
+Door een menu aan patronen aan te bieden waar uit gekozen kan worden al naargelang waar behoefte aan, moedigt S3 aan tot een organische, **iteratieve aanpak voor verandering, zonder grote investering op voorhand **. Het ontmoet mensen waar ze zijn en helpt om verder te ontwikkelen door patronen in te zetten op een eigen tempo en passend bij de eigen unieke context.
+
+![Patronen zijn ingedeeld in tien categorieën; de zeven principes zijn weerspiegeld in ieder patroon. ](img/framework/s3-pattern-groups.png)
 
 ### De zeven principes
 
-Sociocratie is gebouwd op zeven principes die de organisatiecultuur vormgeven. Aangezien de zeven principes in alle patronen aanwezig zijn, is het van belang om deze te begrijpen om Sociocratie 3.0 patronen toe te passen en aan te passen.
+Sociocratie is gebouwd op zeven principes die de organisatiecultuur vormgeven. Omdat de zeven principes terug te vinden zijn in ieder patroon, helpt het om deze te begrijpen wanneer je de patronen gaat toepassen. Het is noodzakelijk deze te begrijpen wanneer je de patronen gaat aanpassen.
 
-Het beoefenen van S3 helpt mensen om deze essentiële waardes te waarderen, voor zowel individuen als organisaties.
+Het beoefenen van Sociocratie 3.0 helpt mensen om de toegevoegde waarde van deze kernprincipes, voor individuen en organisaties te erkennen en waarderen. Dit bevordert ook het integreren van deze principes in de cultuur van de organisatie.
 
 ![De zeven principes](img/framework/s3-principles-plain.png)
 
@@ -184,13 +162,13 @@ Het beoefenen van S3 helpt mensen om deze essentiële waardes te waarderen, voor
 
 **Consent:** *Zoek bewust naar en benoem bezwaren op beslissingen en acties en zoek naar oplossingen voor deze bezwaren.*
 
-**Empirie:** *Test alle veronderstellingen door te experimenteren en te reviseren.*
+**Empirie:** *Test alle aannames waar jij op steunt, door te experimenteren en te reviseren.*
 
 **Continue verbeteren:** *Incrementeel veranderen zodat gestaag empirisch leren kan plaatsvinden.*
 
 **Gelijkwaardigheid:** *Betrek mensen bij het nemen van de beslissingen die hen raken.*
 
-**Transparantie:** *Alle informatie toegankelijk maken voor iedereen in een organisatie, tenzij er een goede reden is om dit niet te doen.*
+**Transparantie:** *Bewaar alle informatie die van waarde is voor de organisatie en maak deze voor iedereen toegankelijk, tenzij er een goede reden is voor vertrouwelijkheid.*
 
 **Accountability:** *Reageer wanneer er iets nodig is, houd je aan afspraken, en neem verantwoordelijkheid over het beloop van de organisatie.*
 
@@ -198,17 +176,32 @@ Het beoefenen van S3 helpt mensen om deze essentiële waardes te waarderen, voor
 
 *Reageer wanneer er iets nodig is, houd je aan afspraken, en neem verantwoordelijkheid over het beloop van de organisatie.*
 
-Handel binnen de kaders van elke overeenkomst van toepassing op het domein waar jij de verantwoording voor draagt, inclusief die organisatie als geheel, teams waar jij bij hoort en rollen die jij invult.
+Handel binnen de kaders van de overeenkomsten binnen het domein waar jij verantwoordelijk voor bent, inclusief de organisatie zelf, teams waar je deel van uitmaakt en rollen die je vervult.
 
-Elk lid van de organisatie is verantwoordelijk voor een effectieve reactie op drivers van de organisatie, zowel in het uitvoeren van werk als in het mogelijk maken van een effectieve samenwerking.
+Elk lid van de organisatie is er verantwoordelijk voor om effectief te reageren op drivers van de organisatie, zowel in het uitvoeren van werk als in de samenwerking.
 
-Individuen zijn ook verantwoordelijk voor hun werk, voor permanent blijven leren en ontwikkelen en voor het ondersteunen van elkaar.
+Individuen zijn ook verantwoordelijk voor hun werk, hun ontwikkelen en leren en voor het ondersteunen van elkaar.
 
-Iedereen in een organisatie is verantwoordelijk voor de overeenstemming van acties op de waarden van de organisatie.
+Iedereen in een organisatie is er verantwoordelijk voor om te handelen in overeenstemming met de waarden van de organisatie.
 
-### Organisaties begrijpen
 
-#### Drivers
+## Sleutelconcepten om inzicht te krijgen in organisaties
+
+In dit onderdeel leer je over de volgende sleutelconcepten:
+
+- Driver
+- Domein
+- Overeenkomst
+- Bezwaar
+- Governance en Operationele activiteiten
+
+Het zal ook duidelijk worden hoe deze concepten gerelateerd zijn aan waarde (en verspilling), delegeren (en accountability), zelforganisatie, zelfsturing en semi-autonomie.
+
+Wanneer mensen deze concepten begrijpen hebben zij een gemeenschappelijke taal om duidelijk te omschrijven wat er aan de hand is in een organisatie. Dit helpt om meer onderling begrip te creëren en op constructieve wijze met elkaar in gesprek te gaan over wat er nodig is.
+
+Wanneer er termen bij zitten die je niet begrijpt, kun je deze opzoeken in de woordenlijst aan het eind.
+
+### Drivers
 
 _Een **driver** is het motief van een persoon of een groep om te reageren op een specifieke situatie._
 
@@ -217,11 +210,11 @@ Drivers:
 - kunnen worden gebruikt om doelen, doelstellingen, missies, visies, streven en de bedoeling af te leiden
 - kan veranderen met de tijd
 
-##### Drivers, waarde en verspilling
+#### Drivers, waarde en verspilling
 
 _**Waarde** is het belang of nut van iets in relatie tot de driver._
 
-_**Verspilling** is alles dat onnodig is of in de weg staat om op een (meer) effectieve manier te reageren op de driver._
+_**Verspilling** is alles dat overbodig is of belemmerend voor een (meer) effectieve reactie op de driver._
 
 Door het concept van waarde en verspilling aan te nemen, kunnen veel werkwijzen en ideeën van **lean productie** en **lean software ontwikkeling** worden gebruikt door organisaties S3 patronen beginnen te gebruiken:
 
@@ -229,27 +222,31 @@ Door het concept van waarde en verspilling aan te nemen, kunnen veel werkwijzen 
 - verschillende strategieën voor het elimineren van verspilling
 - de Kanban methode
 
-#### Domeinen
+### Domeinen
 
 _Een **domein** een afgebakend gebied van invloed, activiteit en besluitvorming binnen een organisatie._
 
 Alle domeinen vallen binnen het algemene domein van een organisatie en kunnen overlappen en/of volledig binnen andere domeinen vallen.
 
-Domeinen worden gedelegeerd aan mensen (bijvoorbeeld aan een eenheid, afdeling, team of aan individuen), die aansprakelijk en verantwoordelijk zijn voor het domein, binnen de vastgestelde kaders van hun invloed en autonomie.
-
 ![Domeinen kunnen overlappen en/of volledig binnen een ander domein vallen](img/driver-domain/domains-in-organizations.png)
 
-##### Domeinen delegeren
+#### Verantwoordelijkheid voor domeinen delegeren
 
-Degenen die een domein delegeren (de *delegatoren*) behouden nog steeds de algehele verantwoordelijkheid voor dat domein, wijzen **middelen** toe en definiëren vaak:
+_Delegeren is het verlenen van de autoriteit over een domein van de ene partij aan de andere._
+
+Verantwoordelijkheid voor domeinen wordt gedelegeerd aan mensen (bijvoorbeeld aan een eenheid, afdeling, team of aan individuen), die vervolgens vrij zijn om te handelen binnen de vastgestelde kaders van invloed en autonomie.
+
+Als een domein aan een groep mensen wordt gedelegeerd, worden ze een team, als ze aan een individu worden gedelegeerd, worden ze houder van de rol.
+
+Degenen die de verantwoordelijkheid voor een domein delegeren (de delegatoren) aan anderen behouden nog steeds de algehele verantwoordelijkheid voor dat domein, wijzen **middelen** toe en definiëren vaak:
 
 - de **behoefte van de organisatie** waarvoor het domein is ontwikkeld om op te reageren
 - **kernverantwoordelijkheden** (belangrijkste op te leveren resultaten, eventuele kritieke risico's om te beheren, andere essentiële taken en te nemen besluiten die worden gedelegeerd)
 - **kaders van de autonomie en invloed** voor degenen waaraan het domein wordt gedelegeerd (de *gedelegeerden*), meestal gerelateerd aan de organisatie zelf (bijv. afhankelijkheden, betrokkenheid van de delegator, rapporteren, etc.)
 
-##### Drivers en domeinen
+#### Drivers en domeinen
 
-Het is ook mogelijk om een domein te begrijpen in relatie tot drivers van de organisatie:
+Het is ook mogelijk om een domein te begrijpen door te kijken naar de verhouding met drivers van de organisatie:
 
 - de **primaire driver** van het domein is de hoofddriver waar de mensen die voor dat domein verantwoordelijk zijn (de *gedelegeerden*) op reageren
 - de reeks subdrivers waar de organisatie aandacht aan moet besteden om te reageren op de primaire driver. Denk hierbij aan: 
@@ -257,6 +254,61 @@ Het is ook mogelijk om een domein te begrijpen in relatie tot drivers van de org
     - drivers voor **kaders van het domein** (die meestal betrekking hebben op de bredere context van de organisatie)
 
 ![Drivers en domeinen](img/driver-domain/drivers-and-domains.png)
+
+### Bezwaren
+
+_Een **bezwaar** is een argument dat verduidelijkt hoe een (voorgestelde) overeenkomst of actie onbedoelde consequenties heeft die je liever wil vermijden of dat er nog aanzienlijke verbeteringen mogelijk zijn en er schade zit in het missen van waarde die voortkomt uit de verbetering._
+
+Bezwaren onthullen informatie over mogelijke **onbedoelde gevolgen**, of over **aanzienlijke verbeteringen**.
+
+Wees ervan bewust dat het achterhouden van bezwaren het vermogen van individuen, teams of de hele organisatie om hun doelen te bereiken kan schaden.
+
+Het is de verantwoordelijkheid van individuen om potentiële bezwaren tegen voorstellen, besluiten, bestaande overeenkomsten of activiteiten te uiten.
+
+Degenen die verantwoordelijk zijn voor een activiteit of (voorgestelde) overeenkomst, zijn ook verantwoordelijk voor het overwegen van argumenten en het aanpakken van bezwaren die naar voren zijn gebracht</em>.
+
+Bij het zoeken naar potentiële bezwaren, overweeg:
+
+- waarom de beoogde uitkomst niet (volledig) bereikt gaat worden: **effectiviteit**
+- waarom het zonde zou zijn om door te gaan zoals voorgesteld (of eerder overeengekomen): **efficientie**
+- de negatieve gevolgen van iets op andere plekken (in hetzelfde domein, in de bredere organisatie of daarbuiten): **neveneffecten**
+
+De informatie die door bezwaren wordt onthuld, kan worden gebruikt om de volgende zaken te verbeteren:
+
+-   huidige en geplande activiteit
+-   hoe mensen besluiten uitvoeren
+-   bestaande overeenkomsten
+-   voorstellen
+-   gedeeld begrip van drivers
+
+Bouw een cultuur waarin mensen zich comfortabel voelen om op elk moment *mogelijke* bezwaren te agenderen, zodat ze de rust voelen om besluiten te nemen die *goed genoeg zijn en veilig genoeg om te proberen*. Hierdoor wordt men aangemoedigd om een voorkeur te ontwikkelen om dingen uit te proberen, in plaats van te proberen van te voren te overzien en te anticiperen op welke mogelijkheden er allemaal zijn.
+
+Gebruik een verscheidenheid aan perspectieven en sta er voor open om de jouwe uit te dagen, zodat je kunt ontdekken wanneer verandering nodig is en wat er veranderd moet worden. Ga voor snel leren en aanpassen door te experimenteren en gaandeweg te leren van de uitkomsten.
+
+
+#### Zorgen
+
+**Niet alle argumenten zijn ook bezwaren. Maak onderscheid tussen bezwaren, die altijd waardevolle informatie onthullen, en andere argumenten die enkel gebaseerd zijn op vermoedens of persoonlijke voorkeuren en meningen.**
+
+_Een **zorg** is een vermoeden - of mening - dat iets doen (zelfs in de afwezigheid van bezwaren) **mogelijk** in de weg zou kunnen staan van een (meer) effectieve reactie op een driver van de organisatie._
+
+Bij _consent besluitvorming_ kunnen zorgen aangeven hoe overeenkomsten in de toekomst mogelijk verder ontwikkeld kunnen worden (bijvoorbeeld de evaluatiecriteria of reviewfrequentie). Noem zorgen wanneer je denkt dat het waardevol is om deze in overweging te nemen en leg ze vast bij de overeenkomst. Blijf de uitkomsten monitoren.
+
+Als je twijfelt over de vraag of je bezwaar of bezorgdheid hebt, wees dan proactief en check bij anderen wat zij ervan denken. (zie _Argumenten Kwalificeren_). 
+
+
+### Overeenkomsten
+
+_Een **overeenkomst** is een afspraak over een richtlijn, proces, beleid of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden._
+
+Overeengekomen richtlijnen over waarom, hoe en wanneer te handelen en wat specifiek vereist is, maken effectief samenwerken mogelijk.
+
+Overeenkomsten worden gemaakt in reactie op drivers van de organisatie, worden **regelmatig gereviewed**, en door ontwikkeld waar nodig.
+
+**Algehele accountability** voor een overeenkomst ligt bij de mensen die ze maken.
+
+Een overeenkomst kan gaan over het **delegeren van specifieke verantwoordelijkheden** aan individuen of groepen.
+
 
 ### Governance en Activiteiten
 
@@ -278,7 +330,7 @@ Voor elk domein in een organisatie is er een *bestuursorgaan*: mensen met een ma
 
 Er zijn veel manieren om werk en governance te verdelen. Soms is het bestuursorgaan één persoon, bijvoorbeeld in het geval van een team lead, en soms is het een groep mensen, bijvoorbeeld in een cirkel waarin alle leden van de cirkel de verantwoordelijkheid voor governance delen binnen de kaders van het domein.
 
-**Governance besluiten** kaderen acties en sturen toekomstige beslissingen.
+**Governance besluiten** kaderen activiteiten en sturen toekomstige beslissingen.
 
 Dit omvat:
 
@@ -309,7 +361,7 @@ Afhankelijk van de kaders die de delegator stelt, hebben teams min of meer de be
 
 ###  Patroon 1.1: Reageren op Drivers van de organisatie
 
-**Verduidelijk drivers van de organisatie (d.w.z. wat er gebeurt en wat er nodig is in relatie tot de organisatie), en reageer op passende wijze.**
+<strong>Verduidelijk drivers van de organisatie (d.w.z. wat er gebeurt en waar behoefte aan is in relatie tot de organisatie), en reageer op passende wijze.</strong>
 
 Reacties op drivers van de organisatie omvatten:
 
@@ -321,17 +373,17 @@ De reactie op een driver van de organisatie wordt doorgaans behandeld als een ex
 
 ![Mogelijke reacties op drivers van de organisatie](img/driver-domain/driver-response-full.png)
 
-#### Drivers van de Organisatie Kwalificeren
+#### Drivers kwalificeren die van belang zijn voor de organisatie.
 
-Een driver is het motief van een persoon of groep om te reageren op een specifieke situatie. Een driver is een **driver van de organisatie** als een reactie op deze driver de organisatie zou helpen om waarde te genereren, verspilling te elimineren of schade te voorkomen.
+Een driver is het motief van een persoon of groep om over te gaan tot actie in een specifieke situatie. Een driver is een **driver van de organisatie** wanneer het reageren hierop waarde oplevert voor de organisatie, of verspilling en schade voorkomt.
 
 Een eenvoudige manier om te kwalificeren of een driver binnen het domein van een organisatie valt is door te controleren:
 
-*Zou het de organisatie helpen om op deze driver te reageren? Of is het schadelijk om dit niet te doen?*
+*Zou het de organisatie helpen wanneer we op deze driver reageren? Of leidt het tot onbedoelde schade wanneer we dit niet doen?*
 
 ###  Patroon 1.2: Navigeren via spanning
 
-**Let goed op spanningen die je ervaart in relatie tot de organisatie. Onderzoek hoe de spanning ontstaat en geef drivers van de organisatie waar je achterkomt aan de mensen in het juiste domein om ze op te pakken.**
+<strong>Let goed op spanningen die je ervaart in relatie tot de organisatie. Onderzoek hoe de spanning ontstaat en geef ontdekte drivers van de organisatie aan mensen uit het bijbehorende domein.</strong>
 
 **Uitdagingen en kansen** voor een organisatie worden onthuld wanneer mensen zich bewust worden van de spanningen zij ervaren.
 
@@ -343,16 +395,16 @@ Onderzoek wat zorgt voor spanning om **drivers te ontdekken** en omschrijf wat e
 
 ###  Patroon 1.3: Drivers van de organisatie beschrijven
 
-**Beschrijf drivers van de organisatie om ze te begrijpen, te communiceren en te onthouden.**
+<strong>Beschrijf drivers van de organisatie om ze te begrijpen, over te brengen en te onthouden.</strong>
 
 Het omschrijven van drivers kan worden gedaan door een groep of een individu. Afhankelijk van hun perspectief, kunnen ze besluiten om een driver uit te leggen als een **probleem** om op te lossen of een **kans** om te grijpen.
 
 Een eenvoudige manier om een driver te beschrijven is door uit te leggen:
 
-- **Wat gebeurt er...:** 
+- **Wat er gebeurt...:** 
     - de **huidige situatie**
     - het **effect** van deze situatie op de organisatie
-- ...en **wat is er nodig:** 
+- ...en **wat er nodig is:** 
     - de **behoefte**van de organisatie in relatie tot deze situatie
     - de **impact** van het vervullen van deze behoefte
 
@@ -362,7 +414,7 @@ Maak een korte maar toereikende samenvatting met voldoende informatie om duideli
 
 #### Voorbeeld:
 
-> *“De keuken is een puinhoop: er zijn geen schone kopjes, de wasbak zit vol borden en het is niet mogelijk om snel een koffie te pakken en weer te gaan werken. We hebben de keuken in een bruikbare staat nodig, zodat we ons op ons werk kunnen blijven concentreren.”*
+> *“De keuken is een puinhoop: er zijn geen schone kopjes, de wasbak zit vol borden en het is niet mogelijk om snel koffie te pakken en weer te gaan werken. We hebben de keuken in een bruikbare staat nodig, zodat we ons op ons werk kunnen blijven concentreren.”*
 
 #### 1. Huidige situatie
 
@@ -421,7 +473,7 @@ Handige vragen voor een review zijn:
 
 ###  Patroon 1.4: Consent Besluitvorming
 
-**Een (gefaciliteerd) groepsproces voor besluitvorming: het uitnodigen van bezwaren en het overwegen van informatie en kennis die aan het licht zijn gekomen om voorstellen of bestaande overeenkomsten verder te ontwikkelen.**
+<strong>Een (gefaciliteerd) groepsproces voor besluitvorming: nodig uit tot bezwaar en verwerk de hiermee onthulde informatie en kennis om bestaande overeenkomsten verder te ontwikkelen.</strong>
 
 Voorstellen worden overeenkomsten wanneer zij *goed genoeg voor nu zijn en veilig genoeg om te proberen* tot de volgende review.
 
@@ -436,73 +488,42 @@ Het achterhouden van bezwaren kan het bereiken van de doelstellingen van een tea
 
 ![Consent Besluitvorming](img/agreements/consent-decision-making.png)
 
-###  Patroon 1.5: Bezwaar
+###  Patroon 1.5: Argumenten kwalificeren als bezwaren
 
-_Een **bezwaar** is een reden waarom iets doen in de weg staat van een (meer) effectieve reactie op een driver van de organisatie (dat wil zeggen een vereiste van de organisatie)._
+**Maak goed gebruik van de beperkte tijd en middelen, door te testen of bezwaren gekwalificeerd worden als bezwaren en alleen te handelen indien dit het geval is.** 
 
-Bezwaren onthullen informatie over **onbedoelde gevolgen**, of over **potentiële manieren om te verbeteren**.
+Als iemand een argument heeft om iets aan te passen, check dan of het argument duidelijk maakt waarom niets doen kan leiden tot consequenties die je wilt vermijden of waarom de aanpassing direct kan leiden tot meer waarde die anders gemist wordt.
 
-Het is de verantwoordelijkheid van individuen om potentiële bezwaren tegen voorstellen, besluiten, bestaande overeenkomsten of acties te uiten.
+Verken en verfijn elk argument zover als nodig is om misvattingen en misverstanden te voorkomen. Let er ook op of sommige aspecten van het argument enkel gebaseerd zijn op vermoedens, persoonlijke voorkeuren of meningen. Wanneer het overgebleven argument is gekwalificeerd als bezwaar, kan het bezwaar worden opgelost.
 
-Achterhouden van bezwaren kan schade toebrengen aan individuen, teams of de hele organisatie, omdat dit het effectief reageren op drivers van de organisatie bemoeilijkt.
+Een facilitator kan een groep helpen om een argument te kwalificeren, door uit te nodigen om te reflecteren op de volgende vraag:
 
-Het vermogen om *mogelijke* bezwaren op elk moment in te brengen, betekent dat besluiten alleen *goed genoeg moeten zijn voor nu en veilig genoeg om te proberen*.
+_"Kwalificeren jullie dit argument als een bezwaar?"_
 
-Degenen die verantwoordelijk zijn voor de actie of (voorgestelde) overeenkomst, zijn verantwoordelijk voor het *overwegen van argumenten en het verwerken van gekwalificeerde bezwaren.*
+Als er geen redenen zijn om het argument niet te kwalificeren, dan kan het worden aangenomen als een bezwaar. Wanneer iemand een reden heeft om het argument te diskwalificeren, nodig  deze persoon en de inbrenger van het argument dan uit tot dialoog om te ontdekken of er een bezwaar schuilt in het argument.
 
-Bij het zoeken naar potentiële bezwaren, overweeg:
-
-- waarom de beoogde uitkomst niet (volledig) bereikt gaat worden: **effectiviteit**
-- waarom het verspilling zou zijn om door te gaan zoals voorgesteld (of eerder overeengekomen): **efficientie**
-- de negatieve gevolgen van iets op andere plekken (in hetzelfde domein, in de bredere organisatie of daarbuiten): **bijwerkingen**
-
-De informatie die door bezwaren wordt onthuld, kan worden gebruikt om te verbeteren:
-
-- huidige en geplande actie
-- hoe mensen besluiten uitvoeren
-- bestaande overeenkomsten
-- voorstellen
-- gedeeld begrip van drivers
-
-#### Bezwaren kwalificeren
-
-Niet alle argumenten zijn ook bezwaren. Maak onderscheid tussen bezwaren, die altijd waardevolle informatie onthullen, en andere argumenten die gebaseerd zijn op aannames of persoonlijke voorkeuren.
-
-Om te ontdekken of een argument als bezwaar wordt aangemerkt, zou een facilitator in een groepscontext kunnen vragen:
-
-*"Denken jullie dat dit argument gekwalificeerd is als een bezwaar?"*
-
-Als niemand het met het argument oneens is, is een bezwaar doorgaans in aanmerking genomen. Anders wil men het werkelijke bezwaar ontdekken of misverstanden blootleggen.
 
 #### Bezwaren begrijpen
 
 Enkele nuttige vragen:
 
-- Hoe is dit argument gerelateerd aan dit specifieke voorstel of deze overeenkomst?
-- Geeft het argument aan hoe een (voorgesteld of huidig) **actie of overeenkomst**: 
-    - de reactie op een driver van de organisatie bemoeilijkt?
-    - nu verbeterd kan worden?
-    - iemands bijdrage aan het reageren op een driver voorkomt of vermindert?
-    - in strijd is met de waarden van de organisatie?
-    - gezien wordt als niet “veilig genoeg” om te proberen?
+-   Wat verhoudt dit argument zich tot dit specifieke voorstel of deze overeenkomst?
+-   Verduidelijkt het argument hoe de voorgestelde handelingen of afspraken:
+    -   het reageren op een (andere) driver van de organisatie moeilijker maakt?
+    -   direct verbeterd kan worden?
+    -   ertoe kan leiden dat iemand anders minder goed of niet meer kan reageren op een driver?
+    -   conflicteert met de waarden van een organisatie?
+    -   niet veilig genoeg zijn om te proberen?
 
-#### Zorgen
 
-_Een **zorg** is een aanname dat iets doen (zelfs in de afwezigheid van bezwaren) **mogelijk** in de weg kan staan van een (meer) effectieve reactie op een organisatiedrijfveer._
+![Een proces om te testen of een argument wordt gekwalificeerd als een bezwaar](img/agreements/qualify-objection-process.png)
 
-In _consent besluitvorming_ kunnen zorgen aangeven hoe overeenkomsten in de toekomst mogelijk verder ontwikkeld kunnen worden (bijvoorbeeld de evaluatiecriteria of reviewfrequentie).
-
-Noem zorgen wanneer ze belangrijk genoeg zijn om ze ten minste op te nemen bij de evaluatiecriteria.
-
-Bij twijfel over of het een zorg of bezwaar is, gebruik dan de anderen om het argument te kwalificeren.
-
-![Een manier om bezwaren te kwalificeren](img/agreements/qualify-objection-process.png)
 
 ###  Patroon 1.6: Bezwaren Oplossen
 
-**Los bezwaren één voor één op door de informatie die zij bevatten te gebruiken om voorstellen aan te passen.**
+<strong>Los bezwaren één voor één op door de informatie die zij bevatten te gebruiken om voorstellen aan te passen en door te ontwikkelen.</strong>
 
-Kies de meest veelbelovende optie om bezwaren op te lossen en kies, als dat niet lukt, een andere. Elke poging zal helpen om meer informatie te krijgen over de inhoud van het bezwaar en een fractie dichter bij de aanpassing van het voorstel brengen die het bezwaar oplost.
+Kies de meest veelbelovende optie om bezwaren op te lossen en kies als dat niet lukt simpelweg een andere. Elke poging zal helpen om meer informatie te krijgen over de inhoud van het bezwaar en een fractie dichter bij de aanpassing van het voorstel brengen die het bezwaar oplost.
 
 Vaak is het handig om te beginnen bij de persoon die het bezwaar uitte wanneer er wordt gezocht naar een aanpassing van het voorstel.
 
@@ -514,7 +535,7 @@ Meestal is het het meest effectief om**één bezwaar per keer** op te lossen, al
 
 ###  Patroon 1.7: Overeenkomsten evalueren en doorontwikkelen
 
-**Blijf overeenkomsten voortdurend ontwikkel en elimineer verspilling.**
+<strong>Blijf overeenkomsten voortdurend ontwikkelen en elimineer verspilling.</strong>
 
 Een regelmatige herziening van overeenkomsten is essentieel voor een lerende organisatie:
 
@@ -557,7 +578,7 @@ Opvolging:
 
 ###  Patroon 1.8: Degenen die Geraakt Worden Besluiten
 
-**Iedereen die door een besluit wordt getroffen, moet betrokken worden bij het nemen van het besluit. Zo behoud je gelijkwaardigheid en accountability en vergroot je de informatie die beschikbaar is over het onderwerp.**
+<strong>Betrek mensen die geraakt worden door een besluit bij het nemen van het besluit. Zo behoud je gelijkwaardigheid en eigenaarschap en zorg je ervoor dat er zoveel mogelijk informatie beschikbaar is over het onderwerp.</strong>
 
 Voor grotere groepen:
 
@@ -568,7 +589,7 @@ Overweeg om degenen die door een besluit geraakt worden ook te betrekken bij de 
 
 ###  Patroon 1.9: Voorstellen co-creëren
 
-**Breng mensen samen om voorstellen te co-creëren in reactie op drivers van de organisatie: maak gebruik van de collectieve intelligentie, vergroot het gevoel van eigenaarschap en betrokkenheid en accountability.**
+<strong>Breng mensen samen om voorstellen te co-creëren over hoe te reageren op drivers van de organisatie: maak gebruik van de collectieve intelligentie, vergroot het gevoel van eigenaarschap, verantwoordelijkheid en betrokkenheid.</strong>
 
 Er zijn veel manieren om voorstellen te co-creëren. Ze volgen meestal een soortgelijk patroon:
 
@@ -587,7 +608,7 @@ Naast een face-to-face workshop kun je dit proces aanpassen voor online vergader
 
 ###  Patroon 1.10: Voorstel Vormen
 
-**Een (gefaciliteerd) groepsproces waarmee in co-creatie bedacht wordt hoe er het best op een driver gereageerd kan worden.**
+<strong>Een (gefaciliteerd) groepsproces waarmee in co-creatie bedacht wordt hoe er het best op een driver gereageerd kan worden.</strong>
 
 - maakt gebruik van de collectieve intelligentie en diversiteit aan perspectief binnen een groep
 - mensen betrekken bij het co-creeëren van afspraken
@@ -626,7 +647,7 @@ Tussen twee en drie tuners is meestal geschikt. Controleer of er bezwaren zijn t
 
 ###  Patroon 1.11: Rolselectie
 
-**Een groepsproces om een persoon te selecteren voor een rol op grond van de reden.**
+<strong>Een groepsproces om iemand voor een rol te selecteren op basis van de kracht van het argument.</strong>
 
 In plaats van simpelweg het toewijzen van mensen aan _rollen_, of het maken van een keuze alleen gebaseerd op meerderheid, kan men gebruik maken van het rol selectieproces om:
 
@@ -640,9 +661,9 @@ Een voorwaarde voor het selectieproces is een _duidelijke beschrijving_ van het 
 
 ![Rol selectie proces](img/agreements/selection.png)
 
-1. **Presenteer Rolomschrijving:** indien mogelijk, stuur de domeinnaam van de rol vooraf.
+1. **Presenteer Rolomschrijving:** Indien mogelijk, stuur de omschrijving van de rol alvast rond.
 2. **Leg nominaties vast:** Deelnemers schrijven hun voordracht op een papiertje. Mensen kunnen zichzelf nomineren, iemand anders, of passen.
-3. ** Redenen voor nominaties: ** Elke persoon deelt wie ze hebben genomineerd en waarom.
+3. ** Redenen voor nominaties: ** Elke persoon deelt wie ze nomineren en waarom.
 4. **Informatie Verzamelen:** Deelnemers delen of vragen informatie die de groep kan ondersteunen bij het maken van een passende selectie.
 5. **Nominatie Wijzigingen:** Controleer of iemand zijn nominatie wil wijzigen in het licht van redenen en informatie die tot nu toe gedeeld zijn, en luister naar de redenen voor elke verandering.
 6. **Stel een genomineerde voor** voor de rol: De facilitator leidt het proces om een geschikte genomineerde te identificeren op basis van de redenen die zijn gehoord, bijvoorbeeld door: 
@@ -665,7 +686,7 @@ Een workshop format om een effectieve manier te vinden om om te gaan met een com
 
 Een (kleine of grote) groep identificeert en clustert drivers, om ze vervolgens snel van concept om te zetten naar actie in kleinere, zelforganiserende teams.
 
-![Driver Mapping: Proces](img/facilitation-guides/driver-mapping-fg-print.png)
+![Driver Mapping: Proces](img/process/driver-mapping.png)
 
 ![Driver Mapping: Template voor domeinen](img/templates/domain-template.png)
 
@@ -674,7 +695,7 @@ Een (kleine of grote) groep identificeert en clustert drivers, om ze vervolgens 
 
 ###  Patroon 2.1: Vraag om hulp
 
-**Een eenvoudig protocol voor het leren, het delen van vaardigheden en het opbouwen van verbindingen, met respect voor de autonomie van mensen.**
+<strong>Een simpel protocol om te leren, vaardigheden te delen en connecties te maken, met respect voor de autonomie van mensen.</strong>
 
 Vraag iemand, "*zou je bereid zijn om me te helpen ...*?" De ander kan antwoorden met een eenvoudig "*ja*" of "*nee*".
 
@@ -699,7 +720,7 @@ Overwegingen:
 
 ###  Patroon 2.3: Peer Review
 
-**Ondersteun elkaar om te leren en te groeien binnen jouw rollen en teams.**
+<strong>Ondersteun elkaar om te leren en te groeien binnen jouw rollen en teams.</strong>
 
 De rolhouder - of het team - leidt de peer review door het proces op te zetten en in elke stap als eerst te spreken.
 
@@ -713,13 +734,13 @@ Verbetersuggesties kunnen betrekking hebben op persoonlijke ontwikkeling, samenw
 
 ###  Patroon 2.4: Ontwikkelplan
 
-**Een plan voor de ontwikkeling van effectievere manieren om te reageren op een domein, overeengekomen tussen delegator en gedelegeerde.**
+<strong>Een plan om effectievere manieren om te reageren op een domein te ontwikkelen, overeengekomen tussen delegator en gedelegeerde.</strong>
 
 Het ontwikkelingsplan kan worden gemaakt voor een persoon in een rol, of voor een team (bijv. een afdeling, _cirkel_ of _open domein_).
 
 Ontwikkeling kan gebeuren door de beschrijving van _driver_ en het domein te verfijnen, het wijzigen van de strategie, of door nieuwe of bijgewerkte overeenkomsten en specifieke acties die moeten worden ondernomen, hetzij binnen het domein van de delegator, hetzij binnen het domein van de gedelegeerde.
 
-Een ontwikkelplan (en alle bijbehorende aanbevelingen voor wijzigingen in de beschrijvingen van het domein en de driver) vereist consent van zowel de gedelegeerde als de delegator.
+Een ontwikkelplan en alle bijbehorende suggesties voor wijzigingen van de omschrijvingen van het domein en de driver vereist consent van zowel de gedelegeerde als de delegator.
 
 ![Een format voor ontwikkelplannen](img/templates/development-plan-template.png)
 
@@ -728,7 +749,7 @@ Een ontwikkelplan (en alle bijbehorende aanbevelingen voor wijzigingen in de bes
 
 ###  Patroon 3.1: Artful participation
 
-**Committeer je aan het leveren van jouw beste bijdrage aan de effectiviteit van de samenwerking.**
+<strong>Zet je in om je best te doen om je te gedragen en te communiceren op een manier die bevorderend is voor een effectieve samenwerking.</strong>
 
 *"Is mijn gedrag op dit moment de beste bijdrage die ik kan leveren aan de effectiviteit van deze samenwerking?"*
 
@@ -768,11 +789,11 @@ Artful participation:
 
 ###  Patroon 3.2: De zeven principes aannemen
 
-**De samenwerking in lijn brengen met de zeven principes.**
+<strong>Stem de samenwerking af op de zeven principes.</strong>
 
-Het aannemen van de Seven Principles vermindert het aantal expliciete overeenkomsten dat vereist is, en geeft richting aan het aanpassen van S3 patronen aan de context van de organisatie.
+Het aannemen van de zeven principes vermindert het aantal expliciete overeenkomsten dat vereist is, en geeft richting aan het aanpassen van S3 patronen aan de context van de organisatie.
 
-De waarden van een organisatie moeten in lijn zijn met de 7 principes.
+De waarden van een organisatie moeten in lijn zijn met de zeven principes.
 
 ![De zeven principes](img/framework/s3-principles-plain.png)
 
@@ -780,16 +801,16 @@ De waarden van een organisatie moeten in lijn zijn met de 7 principes.
 
 ###  Patroon 3.3: Waarden vaststellen
 
-**Bewust de cultuur van jouw organisatie vormgeven.**
+<strong>Zorg voor een bewuste ontwikkeling van jouw organisatiecultuur</strong>
 
 _** Waarden ** zijn waardevolle principes die dienen als richtlijnen voor gewenst gedrag. Waarden definiëren de ruimte voor actie en ethische beperkingen._
 
 - elk lid brengt zijn eigen waarden naar een organisatie, welke zijn gebaseerd op persoonlijke ervaringen en overtuigingen
-- een team of organisatie kan ervoor **kiezen om collectieve waarden aan te nemen** om hun samenwerking te begeleiden
+- een team of organisatie kan ervoor **kiezen om als collectief waarden aan te nemen ** die zij nastreven in hun samenwerking
 
-Waarden bieden richtlijnen om passende acties te bepalen, zelfs wanneer er geen expliciete overeenkomsten zijn.
+Waarden bieden richtlijnen over hoe te handelen, ook wanneer er geen expliciete overeenkomsten zijn.
 
-Een reeks waarden die collectief worden aangenomen, ondersteunt de effectiviteit van een organisatie:
+Het hebben van gezamenlijke waarden bevordert de effectiviteit van een organisatie:
 
 - vermindert de kans op **misverstanden**
 - zorgt voor een **gezamenlijke basis** van waaruit besluiten worden genomen en acties ondernomen
@@ -801,9 +822,9 @@ Waarden zijn een overeenkomst en moeten dus ook **regelmatig geëvalueerd** word
 
 ###  Patroon 3.4: Governance facilitator
 
-**Selecteer iemand om governance vergaderingen te faciliteren.**
+<strong>Selecteer iemand om governance vergaderingen te faciliteren.</strong>
 
-Een _governance_ facilitator:
+Een governance facilitator:
 
 - zorgt ervoor dat _governance vergaderingen_ goed verlopen en geëvalueerd worden
 - is (meestal) 1 van de leden geselecteerd door het team (en voor een specifieke termijn)
@@ -834,7 +855,7 @@ Wees verantwoordelijk:
 
 ###  Patroon 3.6: Contract voor succesvolle samenwerking
 
-**Steun vanaf het begin een succesvolle samenwerking en bouw vertrouwen tussen partijen door wederzijds voordelige en juridisch solide contracten te creëren.**
+<strong>Draag van af het begin zorg voor een succesvolle samenwerking en bouw vertrouwen op door gezamenlijk contracten te ontwikkelen die juridisch solide zijn en voordelig voor alle partijen.</strong>
 
 Een **contract** is een reeks beloften tussen twee of meer partijen die zij juridisch bindend maken, dat wil zeggen als deze beloften worden geschonden, heeft de benadeelde partij toegang tot rechtsmiddelen of alternatieve oplossingen.
 
@@ -891,7 +912,7 @@ Elk contract kan op elk moment worden gewijzigd, mits alle ondertekenaars het er
 - stel een proefperiode vast– waar alle partijen de samenwerking kunnen uitproberen – en een duidelijk protocol voor de manier waarop iedere partij het contract in de proefperiode kan worden beëindigd
 - definieer en plan regelmatige evaluatiemomenten waar ondertekenaars samenkomen om te delen of het contract gewijzigd moet worden om beter te passen bij de veranderende context
 - stel ook een duidelijke procedures vast voor het breken van het contract
-- overweeg om alternatieve middelen voor geschillenbeslechting beschikbaar te stellen, bijvoorbeeld bemiddeling of arbitrage
+- overweeg om alternatieve middelen beschikbaar te stellen, bijvoorbeeld bemiddeling of arbitrage, om conflicten op te lossen
 - overweeg het contract te beperken tot een vaste termijn waarna het contract afloopt en kan worden verlengd indien nodig
 
 #### Cultuur
@@ -902,13 +923,13 @@ Elk contract beïnvloedt de cultuur van de samenwerking die het bestuurt, zelfs 
 - stem het contract af op de organisatiestructuur (van alle partijen) en op wettelijke vereisten
 - ontwikkel contracten die accountability mogelijk maken en aanmoedigen
 
-als je vindt dat standaardcontracten in jouw industrie verkeerd zijn afgestemd op de cultuur die je wilt ontwikkelen, bouw een eigen verzameling van formats voor contracten en clausules op en overweeg deze te delen met anderen, zodat de ervaring uit het verleden gebruikt kan worden bij het maken van nieuwe contracten.
+Wanneer standaardcontracten in jouw industrie volgens jou niet in overeenstemming zijn met de cultuur die je wilt ontwikkelen kun je een eigen verzameling opbouwen met templates voor contracten en clausules. Overweeg om deze beschikbaar te stellen voor anderen, zodat ervaring uit het verleden gebruikt kan worden bij het maken van nieuwe contracten.
 
 ###  Patroon 3.7: Transparant Salaris
 
-**Maak een eerlijke salarisformule en maak deze transparant.**
+<strong>Creëer een eerlijke salarisformule en maak deze transparant.</strong>
 
-Transparant salaris (ookwel "open salaris") is het vaststellen van de vergoeding van elke werknemer volgens een reeks regels - de *salarisformule* - in plaats van dit vaststellen tijdens individuele onderhandelingen tussen werkgever en werknemer. De salarisformule – en vaak ook individuele vergoeding – is transparant voor alle leden van een organisatie, en soms voor het publiek.
+Transparant salaris (ookwel "open salaris") is het vaststellen van de vergoeding van elke werknemer volgens een reeks regels - de *salarisformule* - in plaats van door dit vast te stellen tijdens individuele onderhandelingen tussen werkgever en werknemer. De salarisformule – en vaak ook individuele vergoeding – is transparant voor alle leden van een organisatie, en soms voor het publiek.
 
 Een transparante salarisformule moet in overeenstemming zijn met de context van een organisatie en door alle belanghebbenden als eerlijk genoeg worden beschouwd.
 
@@ -926,9 +947,9 @@ Besluit hoe om te gaan met de beloning voor het veranderen van rollen en _ontwik
 
 ###  Patroon 3.8: Ondersteunende rol
 
-**Dit rolpatroon is van toepassing op externe contractanten.**
+<strong>Dit rolpatroon is van toepassing op externe contractanten.</strong>
 
-- verhelderen en beschrijf de driver voor de _rol_
+- verhelder en beschrijf de driver voor de _rol_
 - maak een _domeinbeschrijving_
 - indien waardevol, voer een selectieproces uit
 - beperk de looptijd van het contract
@@ -940,7 +961,7 @@ Externe contractanten stemmen in met hun rol.
 
 ###  Patroon 3.9: Statuten
 
-Leg de S3 principes en patronen vast in de statuten, indien dit nodig is om de **juridische integriteit ** en **organisatiecultuur** te beschermen
+Leg de S3 principes en patronen vast in de statuten, indien dit nodig is om de <strong>juridische integriteit </strong> en <strong>organisatiecultuur</strong> te beschermen
 
 Denk aan:
 
@@ -955,11 +976,11 @@ Denk aan:
 
 ###  Patroon 4.1: Delegeren van invloed
 
-**Distribueer macht en invloed om het mogelijk te maken voor andere mensen om te besluiten en handelen binnen vooraf vastgestelde kaders.**
+<strong>Distribueer de macht om te beïnvloeden zodat iedereen zelf besluiten kan nemen en kan handelen binnen vooraf vastgestelde kaders.</strong>
 
 Een delegator kan gedelegeerden ondersteunen om waarde te leveren door:
 
-- Duidelijk domeinen van autonomie en accountability te definiëren
+- Verduidelijk domeinen van autonomie en verantwoordelijkheid
 - Leer- en ontwikkelmogelijkheden te garanderen
 - Ondersteuning aan te bieden waar nodig
 
@@ -990,9 +1011,9 @@ Een cirkel:
 
 ###  Patroon 4.3: Rol
 
-**Delegeren van accountability voor een domein aan individuen.**
+<strong>De verantwoordelijkheid voor een domein aan individuen delegeren.</strong>
 
-Een rol is een verantwoordelijkheidsgebied (een domein) dat gedelegeerd is aan een individu (**de rolbewaarder**) welke de autonomie heeft om beslissingen en actie te nemen binnen de kaders van het roldomein.
+Een rol is een gebied van verantwoordelijkheid (een domein) dat gedelegeerd is aan een individu (**de rolhouder**) welke de autonomie heeft om beslissingen te nemen en acties uit te voeren binnen de kaders van het domein behorende bij de rol.
 
 De rolhouder heeft de leiding bij het opstellen van een strategie over de manier waarop zij hun domein zullen invullen. Ze evolueren hun strategie in samenwerking met de delegator.
 
@@ -1011,7 +1032,7 @@ Een rolhouder kan een governance backlog en een logboek bijhouden om te helpen v
 
 ###  Patroon 4.4: Koppelen
 
-**Maak de informatiestroom en beïnvloeding tussen twee teams mogelijk.**
+<strong>Maak het stromen van informatie en invloed tussen twee teams mogelijk.</strong>
 
 Een team selecteert één van zijn leden om hun belangen te behartigen bij de governance besluiten van een ander team.
 
@@ -1019,7 +1040,7 @@ Een team selecteert één van zijn leden om hun belangen te behartigen bij de go
 
 ###  Patroon 4.5: Dubbele Koppeling
 
-**Maak een *bidirectionele* informatiestroom en beïnvloeding tussen twee teams mogelijk.**
+<strong>Maak een <em>twee-wegs</em> stroom van informatie en invloed mogelijk tussen twee teams.</strong>
 
 Twee onderling afhankelijke teams kiezen elk een van hun leden om hun belangen te behartigen in de governance besluiten van het andere team.
 
@@ -1029,7 +1050,7 @@ Een dubbele koppeling maakt gelijkwaardigheid tussen twee teams mogelijk en kan 
 
 ###  Patroon 4.6: Vertegenwoordiger
 
-**Selecteer een teamlid om deel te nemen aan de governance van een ander team om de stroom van informatie en invloed mogelijk te maken.**
+<strong>Selecteer een teamlid om deel te nemen aan de governance van een ander team om ervoor te zorgen dat informatie en invloed tussen beiden blijft stromen.</strong>
 
 Vertegenwoordigers (a.k.a. links):
 
@@ -1042,7 +1063,7 @@ Vertegenwoordigers (a.k.a. links):
 
 ###  Patroon 4.7: Hulpteam
 
-**Vorm gelijkwaardige teams van mensen met het mandaat om een specifieke reeks van eisen uit te voeren welke bepaald zijn door een delegator.**
+<strong>Vorm gelijkwaardige teams van mensen met het mandaat om te handelen binnen een specifieke set aan vooraf door de delegator bepaalde vereisten.</strong>
 
 Hulpteam:
 
@@ -1053,15 +1074,15 @@ Hulpteam:
 
 Leden van het hulpteam:
 
-- kan bezwaar maken tegen de besluiten van de delegator die hen raken
-- kan items toevoegen aan de governance backlog van de delegator
+- kunnen bezwaar maken tegen de besluiten van de delegator die hen raken
+- kunnen items toevoegen aan de governance backlog van de delegator
 - kunnen worden uitgenodigd om een _afgevaardigde_ te selecteren die deelneemt aan de governance besluiten van de delegator
 
 ![Hulpteam](img/structural-patterns/helping-team.png)
 
 ###  Patroon 4.8: Open Domein
 
-**Bewust accountable zijn voor een domein op uitnodiging in plaats van in opdracht en nodig degenen die kunnen bijdragen uit om dit te doen wanneer zij kunnen.**
+<strong>Kies bewust voor de verantwoording voor een domein op uitnodiging, in plaats van opdracht en de genodigden om een bijdrage te leveren wanneer zij kunnen.</strong>
 
 De delegator van het open domein verduidelijkt:
 
@@ -1077,7 +1098,7 @@ Een delegator is verantwoordelijk voor het uitvoeren van regelmatige beoordeling
 
 ###  Patroon 4.9: Open Systemen
 
-**Intentioneel communiceren met en leren van anderen buiten uw systeem.**
+<strong>Communiceer met en leer bewust van anderen buiten het eigen systeem.</strong>
 
 Individuen, teams en hele organisaties kunnen onderlinge afhankelijkheid erkennen en mensen van buiten hun systeem bewust uitnodigen om **kennis, ervaring en invloed te introduceren** om bij te dragen aan besluitvorming en collectief leren te ondersteunen.
 
@@ -1089,7 +1110,7 @@ Individuen, teams en hele organisaties kunnen onderlinge afhankelijkheid erkenne
 
 ###  Patroon 5.1: Patronen Aanpassen aan de Context
 
-**Pas S3 patronen aan en ontwikkel deze om beter aan te sluiten bij jouw specifieke context.**
+<strong>Pas S3 patronen aan en ontwikkel deze om beter aan te sluiten bij jouw specifieke context.</strong>
 
 Zorg ervoor dat iedereen die wordt geraakt:
 
@@ -1105,7 +1126,7 @@ Deel waardevolle aanpassingen met de S3 community.
 
 ###  Patroon 5.2: Ontwikkel een Pull-systeem voor organisatorische verandering
 
-**Ontwikkel een omgeving die het voor leden van de organisatie uitnodigend en mogelijk maakt om verandering te bewerkstelligen.**
+<strong>Ontwikkel een omgeving die het bewerkstelligen van verandering voor iedereen in de organisatie mogelijk en uitnodigend maakt. </strong>
 
 Verander dingen wanneer het waarde heeft om dat te doen:
 
@@ -1116,13 +1137,13 @@ Verander dingen wanneer het waarde heeft om dat te doen:
 
 ###  Patroon 5.3: Wees De Verandering
 
-**Geef het goede voorbeeld.**
+<strong>Geef het goede voorbeeld.</strong>
 
-Gedraag je en handel op een manier die je ook van andere zou willen zien.
+Gedraag je en handel op een manier die je ook van anderen zou willen zien.
 
 ###  Patroon 5.4: Uitnodigen van verandering
 
-**Maak de reden voor verandering duidelijk en nodig mensen uit om deel te nemen.**
+<strong>Verduidelijk de reden voor het veranderen en nodig mensen uit om mee te doen.</strong>
 
 Uitnodigen tot in plaats van het opleggen van verandering vermindert weerstand en stelt mensen in staat om zelf te kiezen.
 
@@ -1137,7 +1158,7 @@ Nodig de betrokken en geraakte mensen uit om deel te nemen aan de reguliere eval
 
 ###  Patroon 5.5: Open ruimte voor Verandering
 
-**Nodig iedereen uit om experimenten te bedenken en uit te voeren voor de doorontwikkeling van de organisatie.**
+<strong>Nodig iedereen uit om experimenten te bedenken en uit te voeren voor de doorontwikkeling van de organisatie.</strong>
 
 - verhelder de driver voor verandering
 - plan regelmatig open space evenementen: 
@@ -1147,18 +1168,18 @@ Nodig de betrokken en geraakte mensen uit om deel te nemen aan de reguliere eval
 
 ###  Patroon 5.6: Continue verbetering van het werkproces
 
-**Onthul de drijfveren binnen een organisatie door het werkproces doorlopend te evalueren, verbeteren en verfijnen en ontwikkel aan de hand hiervan een op meetbare gegevens gebaseerd pull-systeem voor organisatorische verandering.**
+<strong>Onthul drivers en creëer een op statistieken gebaseerd pull-systeem voor organisatorische veranderingen, door voortdurend het werkproces te verbeteren en verfijnen.</strong>
 
 - introduceer het principe van consent en _Navigeren via Spanning_ om werkprocessen in een team door te ontwikkelen
 - overweeg om een facilitator te selecteren die de groepsprocessen kan begeleiden en om waardes te kiezen die dienen als richtlijnen voor gewenst gedrag
-- initieer een proces van continue verbetering, bij. middels Kanban of regelmatige _Retrospectives_
+- initieer een proces van continue verbetering, bv. middels Kanban of regelmatige _Retrospectives_
 - leden van het team kunnen daar waar nodig gebruik maken van S3 patronen
 - indien waardevol, verbreed de scope van het experiment op iteratieve wijze naar andere teams
-- let bewust op mogelijke belemmeringen 
+- let bewust op mogelijke belemmeringen
 
 #### Verspilling en Continue Verbetering
 
-_**Verspilling** is alles dat onnodig is of in de weg staat om op een (meer) effectieve manier te reageren op de driver._
+_**Verspilling** is alles dat overbodig is of belemmerend voor een (meer) effectieve reactie op de driver._
 
 Verspilling bestaat in verschillende vormen en op verschillende niveaus van abstractie (taken, processen, organisatorische structuur, mentale modellen...)
 
@@ -1174,41 +1195,68 @@ Het opzetten van een proces voor de voortdurende eliminatie van verspilling maak
 
 ![De levenscyclus van een overeenkomst](img/evolution/agreement-lifecycle-long.png)
 
-###  Patroon 6.1: Overeenkomst
+###  Patroon 6.1: Overeenkomsten vastleggen
+
+**Leg de details van ene overeenkomst vast, zodat je er later op kan terugkomen om de uitkomst te evalueren en de overeenkomst door te ontwikkelen.** 
 
 _Een **overeenkomst** is een afspraak over een richtlijn, proces, beleid of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden._
 
-Overeenkomsten worden gemaakt in reactie op drivers van de organisatie, worden **regelmatig gereviewed**, en zo nodig door ontwikkeld.
+**Opmerking:** In S3 zijn richtlijnen, processen of protocollen gemaakt door personen in een rol ook overeenkomsten.
 
-**Algehele accountability** voor een overeenkomst ligt bij de mensen die ze maken.
+Houdt gegevens rondom overeenkomsten up-to-date, bijvoorbeeld in een Logboek.
 
-Een overeenkomst kan **delegatie van specifieke verantwoordelijkheden** aan individuen of groepen bevatten.
 
-Neem **verwachtingen op** gerelateerd aan op te leveren resultaten, gedrag of middelen in de context van de overeenkomst.
+#### Wat leg je vast?
 
-**Opmerking:** In S3 worden richtlijnen, processen of protocollen die gemaakt zijn door personen in een rol ook als overeenkomst behandeld.
+Overeenkomsten moeten voldoende details bevatten om belangrijke informatie later nog te kunnen terughalen.
+
+Zorg in ieder geval voor een omschrijving van de driver, wat er overeengekomen is, wie waarvoor verantwoordelijk is, welke evaluatiecriteria er zijn en wanneer de review plaatsvindt.
+
+Afhankelijk van de scope en het belang van de overeenkomst kunnen de volgende punten worden vastgelegd:
+
+-   Een titel voor de overeenkomst
+-   _Beschrijving van de driver_
+-   Aanmaakdatum (en/of versie)
+-   Vervaldatum of leverdatum
+-   Review datum (of frequentie)
+-   Wie is verantwoordelijk voor wat?
+-   Een beschrijving van de overeenkomst, waaronder:
+    - Relevante vereisten en verwachtingen
+    - Actiepunten
+    - Middelen
+    - Beperkingen
+    - _Beoogde resultaten_
+    - _Op te leveren producten_
+    - Achtergrond
+-   _Evaluatiecriteria_ (en mogelijke zorgen)
+-   Appendix:
+    - Achtergrondinformatie
+    - Vorige versies van de overeenkomsten
+    - Referenties
 
 ![Format voor overeenkomsten](img/templates/agreement-template.png)
+
+
 
 ###  Patroon 6.2: Strategie Ontwikkelen
 
 _Een **strategie** is een hoog over aanpak voor hoe mensen waarde gaan creëren om succesvol invulling te geven aan (de driver en doelstelling van) een domein._
 
-Het is meestal effectiever als een team of een rolhouder het voortouw neemt bij het ontwikkelen van hun eigen strategie.
+Een strategie kan meestal het best ontwikkeld worden door het betreffende team of de rolhouder zelf.
 
 Een strategie bevat vaak een beschrijving van de beoogde resultaten van het uitvoeren van deze strategie.
 
-Als de delegator de verantwoordelijkheid deelt voor domeinen die zij delegeren, is het waardevol dat zij de strategie van de gedelegeerden bekijken om te controleren of er potentiële belemmeringen zijn en om manieren voor te stellen waarop de strategie verbeterd kan worden.
+Het is waardevol om de strategie van domeinen waar de delegator en gedelegeerde samen verantwoordelijk voor zijn ook voor te leggen aan de delegator, zodat deze ook eventuele verbetering of hindernissen kan identificeren en voorstellen kan doen om de strategie te verbeteren. 
 
-Een strategie is een gedeelde overeenkomst tussen delegator(s) en gedelegeerden(s) die, indien nodig, regelmatig wordt herzien en bijgewerkt (*aanpassen of volharden*)
+Een strategie is een overeenkomst tussen delegator(s) en gedelegeerden(s) die, indien nodig, regelmatig wordt herzien en bijgewerkt (*aanpassen of doorgaan*)
 
 ![Strategieën worden geïmplementeerd en verfijnd door te experimenteren en te leren.](img/evolution/domain-driver-strategy-exeriments.png)
 
-Strategieën worden geïmplementeerd en verfijnd door te experimenteren en te leren.
+Strategieën worden gevalideerd en verfijnd door te experimenteren en te leren.
 
 ###  Patroon 6.3: Domeinen verduidelijken
 
-**Helder begrip van tot waar iemands accountability en autonomie reikt, leidt tot verbeterde efficiëntie, effectieve samenwerking en meer wendbaarheid binnen de hele organisatie.**
+<strong>Helder begrip van tot waar iemands verantwoordelijkheid en autonomie reikt, leidt tot meer efficiëntie, effectieve samenwerking en wendbaarheid binnen de hele organisatie.</strong>
 
 Een eenvoudige manier om domeinen te verduidelijken is door gebruik te maken van een **domeinnaam beschrijving**:
 
@@ -1227,32 +1275,32 @@ Een andere manier om een domein te verduidelijken is door een [S3 Delegatie Canv
 
 ###  Patroon 6.4: Verduidelijk de Beoogde Resultaten
 
-**Wees duidelijk over de verwachte resultaten van overeenkomsten, acties, projecten en strategieën.**
+<strong>Maak expliciet welke resultaten je met overeenkomsten, activiteiten, projecten en strategieën poogt te bereiken.</strong>
 
 Spreek af wat de beoogde resultaten zijn en geef hier een korte beschrijving van.
 
-De beoogde resultaten kunnen worden gebruikt om _Evaluatie Criteria_ te definiëren en een meetplan te maken voor het beoordelen van de werkelijke uitkomst.
+De beoogde resultaten kunnen worden gebruikt om _Evaluatie Criteria_ te definiëren en een meetplan te maken om te beoordelen of de daadwerkelijke uitkomst hiermee overeenkomt.
 
 ![Beoogde resultaten, en Evaluatie Criteria](img/templates/outcome-and-criteria.png)
 
-###  Patroon 6.5: Op te Leveren Resultaten Beschrijven
+###  Patroon 6.5: Op te Leveren Producten Beschrijven
 
-**Omschrijf op heldere wijze alle op te leveren resultaten in relatie tot de overeenkomst zodat er een gedeeld begrip is over de verwachtingen.**
+<strong>Zorg voor een gedeeld beeld over de verwachtingen door op heldere wijze te omschrijven welke op te leveren producten voortkomen uit een overeenkomst.</strong>
 
 _Een **deliverable** is een product, service, component of materiaal dat is geleverd in reactie op een driver van de organisatie._
 
-Waar op te letten bij het beschrijven van op te leveren resultaten:
+Let bij het beschrijven van de op te leveren producten op:
 
-- voeg de juiste hoeveelheid details toe
-- refereer aan andere documenten indien handig of nodig
+- een juiste hoeveelheid aan details
+- een referentie naar andere handige of nodig documenten
 
-Het is nuttig om de resultaten op een duidelijke manier te beschrijven, zodat de communicatie en de samenwerking binnen de organisatie, met de klant en met externe partners kan worden verbeterd.
+Het is nuttig om de producten op een duidelijke manier te beschrijven, zodat de communicatie en de samenwerking binnen de organisatie, met de klant en met externe partners kan worden verbeterd.
 
 **Voorbeeld:** Een populaire manier om op te leveren resultaten in software-engineering te beschrijven zijn zogenaamde **gebruikersverhalen**, die zich richten op de behoefte van gebruikers in verband met een software-systeem. Gebruikersverhalen worden ontwikkeld in dialoog tussen een klant (of hun vertegenwoordiger, de productmanager of "product owner"), en de software ontwikkelaar(s). Wat wordt opgeschreven is meestal één zin om het team te herinneren aan de behoefte en acceptatiecriteria en een lijst van benodigdheden voor de nieuwe functionaliteit. De klant kan dit gebruiken in een review vergadering om te beslissen of zij de nieuwe functionaliteit accepteren.
 
 ###  Patroon 6.6: Evaluatiecriteria
 
-**Ontwikkel goed gedefinieerde evaluatiecriteria om te bepalen of het gewenste effect had op een overeenkomst.**
+<strong>Ontwikkel goed gedefinieerde evaluatiecriteria om te bepalen of het uitvoeren van een overeenkomst de gewenste effecten heeft.</strong>
 
 - ga voor **eenvoudige en ondubbelzinnige** criteria en documenteer ze (om discussie te vermijden bij het reviewen van de overeenkomsten)
 - definieer **bruikbare statistieken** om de effecten en afwijkingen van de beoogde resultaten op te merken en te volgen
@@ -1261,7 +1309,7 @@ Het is nuttig om de resultaten op een duidelijke manier te beschrijven, zodat de
 
 ###  Patroon 6.7: Logboek
 
-**Onderhoud een coherent en toegankelijk systeem, waar alle benodigde informatie in terug te vinden is.**
+<strong>Zorg voor een samenhangend en toegankelijk systeem waarin alle informatie wordt opgeslagen die nodig is om goed samen te kunnen werken. </strong>
 
 Een logboek is een (digitaal) systeem om alle informatie op te slaan die relevant is voor het functioneren van een organisatie en zijn teams. Het logboek is toegankelijk voor alle leden van een organisatie en informatie wordt alleen vertrouwelijk gehouden als er goede redenen zijn om dat te doen.
 
@@ -1283,7 +1331,7 @@ Inhoud met betrekking tot een specifiek team of rol:
 
 ###  Patroon 6.8: Logboekhouder
 
-**Selecteer een lid van het team die specifiek verantwoordelijk is voor het bijhouden van alle informatie die het team nodig heeft.**
+<strong>Selecteer iemand uit het team om specifiek verantwoordelijk te zijn is voor het bijhouden van alle informatie die het team nodig heeft.</strong>
 
 De logboekhouder is verantwoordelijk voor het onderhouden van het logboek van een team door:
 
@@ -1298,7 +1346,7 @@ De logboekhouder is verantwoordelijk voor het onderhouden van het logboek van ee
 
 ###  Patroon 7.1: Governance vergadering
 
-**Teams komen regelmatig bijeen om te bepalen wat er moet worden gedaan om doelstellingen te bereiken en kaders vast te stellen over hoe en wanneer er iets zal gebeuren.**
+<strong>Teams komen regelmatig bijeen om te bepalen wat er moet worden gedaan om doelstellingen te bereiken en kaders vast te stellen over hoe en wanneer iets wordt gedaan.</strong>
 
 Een governance vergadering is meestal:
 
@@ -1330,18 +1378,18 @@ Typische agenda items omvatten:
     - _overeenkomsten maken_
     - Het _ontwerpen van domeinen_ en het bepalen van de manier waarop ze verantwoord moeten worden (bijv. nieuwe _rollen_, _cirkels_, teams of _open domeinen_)
 
-###  Patroon 7.2: Retrospectief
+###  Patroon 7.2: Retrospective
 
-**Spendeer tijd aan het reflecteren op opgedane ervaringen, leer ervan en besluit hoe het werkproces verbeterd kan worden.**
+<strong>Spendeer tijd aan het reflecteren op ervaringen uit het verleden, leer ervan en besluit hoe het werkproces verbeterd kan worden.</strong>
 
 - uitkomst: wijzigingen in het werkproces, nieuwe taken, "tussendoor" overeenkomsten, en drivers waar een afspraak over gemaakt moet worden
 - gefaciliteerde vergadering (~1u)
 - regelmatige intervallen (1-4 weken)
 - aanpassen aan situatie en context
 
-![Uitkomsten van een Retrospectief](img/meetings/retrospective.png)
+![Uitkomsten van een Retrospective](img/meetings/retrospective.png)
 
-#### Vijf fases van een Retrospectief
+#### Vijf fases van een Retrospective
 
 1. Zorg voor de juiste sfeer 
 2. Verzamel data
@@ -1353,7 +1401,7 @@ Veel verschillende activiteiten voor elke fase kunnen worden gevonden op [plans-
 
 ###  Patroon 7.3: Dagelijkse Standup
 
-**Ontmoet dagelijks om werk te organiseren, leren te vergemakkelijken en productiviteit en doeltreffendheid te verbeteren.**
+<strong>Ontmoet dagelijks om werk te organiseren, van elkaar te leren en de productiviteit en effectiviteit te verbeteren.</strong>
 
 - Getimeboxed (meestal 15 minuten)
 - dagelijks op hetzelfde moment
@@ -1366,7 +1414,7 @@ Veel verschillende activiteiten voor elke fase kunnen worden gevonden op [plans-
 
 ###  Patroon 7.4: Planning en Review Vergaderingen
 
-**Mensen komen regelmatig bij elkaar (1-4 weken) in getimeboxte vergaderingen om werk te plannen en te evalueren.**
+<strong>Mensen komen regelmatig bij elkaar (1-4 weken) in vergaderingen met een vooraf vastgestelde duur om werk te plannen en evalueren.</strong>
 
 **Planning vergadering**: selecteer en schat in welke werkitems gepland worden voor de volgende iteratie.
 
@@ -1376,7 +1424,7 @@ Veel verschillende activiteiten voor elke fase kunnen worden gevonden op [plans-
 
 ###  Patroon 7.5: Coördinatie Vergadering
 
-**Kom regelmatig bij elkaar (meestal wekelijks) om over werk te rapporten en het te coördineren tussen domeinen.**
+<strong>Kom regelmatig bij elkaar (meestal wekelijks) om werk tussen domeinen te bespreken en te coördineren.</strong>
 
 - faciliteer de vergadering (timebox gesprekken en gebruik rondes waar waardevol)
 - wanneer nuttig, stel een agenda voor de vergadering op en deel deze van te voren met deelnemers 
@@ -1386,17 +1434,17 @@ Veel verschillende activiteiten voor elke fase kunnen worden gevonden op [plans-
 Agenda items:
 
 - synchronisatie en afstemming tussen domeinen
-- prioritering en distributie van werk 
+- prioritering en distributie van werk
 - reageren op de belemmeringen
 
 ![Fases van een coördinatievergadering](img/meetings/coordination-meeting.png)
 
 
-## Vergaderpraktijken 
+## Vergaderwerkwijzen 
 
 ###  Patroon 8.1: Rondes
 
-**In een groepsvergadering ga je de cirkel rond, zodat iedereen op zijn beurt het woord kan voeren.**
+<strong>In een groepsbijeenkomst ga je de cirkel rond, zodat iedereen op zijn beurt aan het woord komt.</strong>
 
 Rondes is een techniek waarmee je gelijkwaardigheid kunt faciliteren en een effectieve dialoog kunt ondersteunen.
 
@@ -1408,7 +1456,7 @@ Vorm een cirkel en begin elke ronde met een ander persoon en verander de richtin
 
 ###  Patroon 8.2: Vergaderingen faciliteren
 
-**Kies iemand om de vergadering te faciliteren en de groep te helpen focus te behouden, binnen de planning te blijven en creativiteit en wijsheid te ontlokken.**
+<strong>Kies iemand om de vergadering te faciliteren en de groep te helpen focus te behouden, binnen de planning te blijven en creativiteit en wijsheid te ontlokken.</strong>
 
 Stel een agenda op voorafgaand aan elke vergadering en selecteer een facilitator om:
 
@@ -1422,7 +1470,7 @@ Overweeg om een facilitator te selecteren voor een bepaalde term. Zelfs een oner
 
 ###  Patroon 8.3: Voorbereiden voor Vergaderingen
 
-**Vooraf voorbereiden om de vergaderingen effectiever te maken.**
+<strong>Bereid vergaderingen voor om ze effectiever te maken.</strong>
 
 Enkele overwegingen voor het succesvol voorbereiden van een vergadering:
 
@@ -1460,9 +1508,9 @@ Stem voor elk agendapunt in over:
 
 ###  Patroon 8.4: Check In
 
-**Help mensen zich bewust te worden van zichzelf en anderen en zich te concentreren, aanwezig te zijn en zich te engageren.**
+<strong>Helpt mensen om zich bewust te worden van zichzelf en anderen, te focussen, aanwezig te zijn en mee te doen.</strong>
 
-Deel tijdens de check in iets over wat jouw aandacht heeft, hoe het gaat, welke gedachten, gevoelens, afleidingen of behoeften je hebt.
+Deel tijdens de check in iets over wat jouw aandacht heeft, hoe het gaat, deel gedachten, gevoelens, afleidingen of behoeften je hebt.
 
 De check in kan in de vorm van een openingsronde of afsluitronde tijdens een groepsbijeenkomst, of gewoon tijdens een 1 op 1.
 
@@ -1474,7 +1522,7 @@ In een nieuwe setting kunnen mensen ook hun naam noemen tijdens de check in, als
 
 ###  Patroon 8.5: Vergaderingen evalueren
 
-**Neem tijd om te leren aan het einde van elke vergadering of workshop.**
+<strong>Neem tijd om te leren aan het einde van elke vergadering of workshop.</strong>
 
 Reflecteer op interacties, vier successen en deel suggesties voor verbetering voor het sluiten van de vergadering.
 
@@ -1501,7 +1549,7 @@ Vraag iedereen in een _ronde_ kort iets te delen over een of meer van de volgend
 
 ###  Patroon 8.6: Host van de vergadering
 
-**Selecteer iemand om verantwoordelijk te zijn voor het voorbereiden en opvolgen van workshops of andere bijeenkomsten.**
+<strong>Selecteer iemand om verantwoordelijk te zijn voor het voorbereiden en opvolgen van meetings,  workshops of andere bijeenkomsten.</strong>
 
 Een persoon kan de rol van host van de vergadering op zich nemen voor een specifieke gebeurtenis of voor verschillende bijeenkomsten gedurende een bepaalde periode.
 
@@ -1567,7 +1615,7 @@ Elk item op een (geprioriteerde) backlog bevat meestal:
 
 ###  Patroon 9.2: Prioriteer Backlogs
 
-**Orden al nog te voltooien werkitems en zet de belangrijkste bovenaan. Pak dan item voor item werk op, wanneer er capaciteit beschikbaar is.**
+<strong>Orden alle nog te voltooien werkitems en zet de belangrijkste bovenaan. Pak dan item voor item werk op, wanneer er capaciteit beschikbaar is.</strong>
 
 Geen twee punten kunnen even belangrijk zijn, wat betekent dat het noodzakelijk is om het eens te worden over prioriteiten en moeilijke keuzes te maken.
 
@@ -1575,7 +1623,7 @@ Een geprioriteerde backlog helpt om **focus** op de belangrijkste items te houde
 
 ###  Patroon 9.3: Visualiseer Werk
 
-**Onderhoud een systeem dat alle belanghebbenden in staat stelt om de stand van zaken van alle lopende, lopende of voltooide werkitems in te zien.**
+<strong>Gebruik een systeem dat alle stakeholders in staat stelt om de stand van zaken van alle wachtende, lopende en voltooide werkitems in te zien.</strong>
 
 - waardevol voor zelforganisatie en systemen van binnentrekken van werk
 - systeem moet toegankelijk zijn voor iedereen die geraakt wordt
@@ -1599,7 +1647,7 @@ Een geprioriteerde backlog helpt om **focus** op de belangrijkste items te houde
 
 ###  Patroon 9.4: Pull-systeem voor werk
 
-**Mensen pakken nieuwe items op wanneer ze capaciteit hebben (in plaats van dat er werk naar hen toe wordt geduwd).**
+<strong>Mensen pakken nieuwe items op wanneer ze capaciteit hebben (in plaats van dat er werk naar hen toe wordt geduwd).</strong>
 
 Prioriteer openstaande werkitems om ervoor te zorgen dat de belangrijke items eerst worden opgepakt.
 
@@ -1607,7 +1655,7 @@ Het naar binnentrekken van werk voorkomt overbelasting van het systeem, vooral w
 
 ###  Patroon 9.5: Beperk Lopende Werkzaamheden
 
-**Beperk het aantal lopende werkzaamheden in elke fase van het werkproces.**
+<strong>Beperk het aantal lopende werkzaamheden in elke fase van het werkproces.</strong>
 
 Werk in uitvoering omvat:
 
@@ -1619,7 +1667,7 @@ Wanneer een actie een overeengekomen limiet van lopende werkzaamheden overschrij
 
 ###  Patroon 9.6: Activiteiten timeboxen
 
-**Stel een tijdsbeperking in om focus te behouden, wees bewust van de tijd die je hebt en hoe je het gebruikt.**
+<strong>Bepaal hoeveel tijd je ergens voor neemt, zodat je focus kunt behouden en bewust omgaat met de tijd die je hebt.</strong>
 
 _Een **timebox** is een vooraf afgesproken tijdsperiode die te besteden is aan een specifieke activiteit (die niet noodzakelijkerwijs is afgerond aan het einde van de timebox)._
 
@@ -1642,7 +1690,7 @@ Wat je kunt timeboxen:
 
 ###  Patroon 9.7: Uitlijnen van invloed, informatie- en waardestromen
 
-**Om de waardestroom te organiseren is het van belang om de besluitvorming te laten plaatsvinden dichtbij waar de waarde wordt gecreëerd en om de stroom van invloed en informatie ook zo te laten lopen.**
+<strong>Om ervoor te zorgen dat er continu waarde door de organisatie stroomt, is het belangrijk dat besluiten worden genomen dicht bij waar de waarde wordt gecreëerd, en om de stroom van informatie hierop te laten aansluiten.</strong>
 
 **Waardestroom:** Deliverables die door de organisatie heen stromen richting andere stakeholders en/of klanten.
 
@@ -1659,7 +1707,7 @@ Wanneer de besluitvorming plaatsvindt dichtbij waar de waarde wordt gecreëerd, 
 
 ###  Patroon 9.8: Coördinator
 
-Een persoon in de rol van een coördinator is verantwoordelijk voor het **coördineren van het werk binnen een domein** en is **geselecteerd voor een beperkte termijn.**
+Een persoon in de rol van coördinator is verantwoordelijk voor het <strong>coördineren van het werk binnen een domein</strong> en is <strong>geselecteerd voor een beperkte termijn.</strong>
 
 De coördinator kan worden geselecteerd door het team zelf, of door de delegator.
 
@@ -1682,7 +1730,7 @@ Evolueer de structuur van uw organisatie continu naar:
 
 De basisbouwstenen voor de organisatiestructuur zijn onderling afhankelijk, verbonden domeinen.
 
-Domeinen kunnen worden gekoppeld om een hiërarchie of een **heterarchy** (a.k.a. complex adaptief systeem, of netwerk, waar meerdere functionele structuren naast elkaar kunnen bestaan) te vormen.
+Domeinen kunnen worden gekoppeld om een hiërarchie of een **heterarchy** te vormen. Een heterarchie is een complex, adaptief systeem, of netwerk, waar meerdere functionele structuren naast elkaar kunnen bestaan.
 
 Sociocratie 3.0 beschrijft een verscheidenheid aan **structurele patronen** om een organisatiestructuur op te bouwen.
 
@@ -1693,7 +1741,7 @@ Sociocratie 3.0 beschrijft een verscheidenheid aan **structurele patronen** om e
 
 ###  Patroon 10.1: Service cirkel
 
-**Uitbesteden van diensten vereist door twee of meer domeinen.**
+<strong>Besteed diensten uit die nodig zijn voor twee of meer domeinen.</strong>
 
 Een service cirkel kan worden bemenst door leden van de domeinen die het dient, en/of door andere mensen.
 
@@ -1701,7 +1749,7 @@ Een service cirkel kan worden bemenst door leden van de domeinen die het dient, 
 
 ###  Patroon 10.2: Cirkel van Afgevaardigden
 
-**Delegeer het nemen van governance besluiten die invloed hebben op meerdere domeinen aan afgevaardigden die door deze domeinen zijn geselecteerd.**
+<strong>Delegeer het nemen van governance besluiten die invloed hebben op meerdere domeinen aan afgevaardigden die door deze domeinen zijn geselecteerd.</strong>
 
 Om governance belsuiten te nemen namens hen, sturen stakeholders _afgevaardigden_ om een cirkel van afgevaardigden te vormen.
 
@@ -1715,7 +1763,7 @@ Een cirkel van afgevaardigden kan andere mensen (bijvoorbeeld externe deskundige
 
 ###  Patroon 10.3: Perzik Organisatie
 
-**Lever waarde in complexe en concurrerende omgevingen via **decentralisatie** (van resources en invloed) en **directe interactie** tussen de makers van waarde en de klanten die ze dienen.**
+<strong>Lever waarde in complexe en concurrerende omgevingen door <em>decentralisatie</em> (van middelen en invloed) en <em>directe interactie</em> tussen degenen die waarde creëren en de klanten die ze dienen.</strong>
 
 Teams in de periferie:
 
@@ -1730,7 +1778,7 @@ Domeinen zijn verbonden rondom de afhankelijkheden, zodat de stroom van informat
 
 ###  Patroon 10.4: Dubbel-gelinkte Hiërarchie
 
-**Alle autoriteit om governance besluiten te nemen wordt gedelegeerd naar zelfsturende cirkels, dubbel gekoppeld binnen alle niveau's van de hiërarchie om van een traditionele hiërarchie over te gaan naar een structuur die beter geschikt is om de collectieve intelligentie te gebruiken en betrokkenheid te vergroten.**
+<strong>Alle autoriteit om governance besluiten te nemen wordt gedelegeerd naar zelfsturende cirkels, dubbel gekoppeld binnen alle niveau's van de hiërarchie, om van een traditionele hiërarchie over te gaan naar een structuur die gelijkwaardiger is en beter geschikt om de collectieve intelligentie te gebruiken en betrokkenheid te vergroten.</strong>
 
 1. Verplaats het nemen van governance besluiten van individuen naar teams door  zelforganiserendecirkels te vormen op alle lagen van de organisatie.
 2. De leden van elke cirkel kiezen iemand van hun groep om hun belangen te vertegenwoordigen en deel te nemen aan de governance vergaderingen van de volgende hogere cirkel, en omgekeerd.
@@ -1746,7 +1794,7 @@ Een dubbel-gelinkte hiërarchie:
 
 ###  Patroon 10.5: Service organisatie
 
-**Samenwerking en afstemming tussen verschillende belanghebbenden met een gezamenlijke driver.**
+<strong>Samenwerking en afstemming tussen verschillende belanghebbenden met een gezamenlijke driver.</strong> 
 
 - verbetert het potentieel voor gelijkwaardigheid tussen verschillende entiteiten
 - verhoog de onderlinge afstemming tussen verschillende afdelingen/organisaties
@@ -1759,7 +1807,7 @@ Een dubbel-gelinkte hiërarchie:
 
 ###  Patroon 10.6: Fractale organisatie
 
-**Meerdere entiteiten (organisaties of projecten) met een gemeenschappelijke (of vergelijkbare) primaire driver en structuur die lessen kunnen delen over functionele domeinen, actie op één lijn te brengen en besluiten op hoog niveau te nemen (bijv. algemene strategie)**.
+<strong><strong>Meerdere entiteiten (organisaties of projecten) met een gemeenschappelijke (of vergelijkbare) primaire driver en structuur kunnen als functionele domeinen van elkaar leren, acties afstemmen en hoog over besluiten nemen (bijv. algemene strategie)</strong>.</strong>
 
 Een fractale organisatie kan een groot netwerk inschakelen om snel te reageren op veranderende contexten.
 
@@ -1804,10 +1852,42 @@ De tweede en derde rang:
 
 ## Wijzigingen
 
+### Wijzigingen 2020-05-08
+
+- Alle illustraties herzien voor een meer consistente stijl en grotere leesbaarheid
+- herziene introductie: meer uitleg over patronen en kernbegrippen
+- woordenlijst bijgewerkt: herziene uitleg van Delegator, Delegatee, Rol en Patroon, toegevoegd Rol Keeper
+
+### Wijzigingen 2020-04-29
+
+- Inleiding: bezwaren *toegevoegd* en *Overeenkomst toegevoegd* aan concepten
+- patroon *bezwaren* hernoemd tot _Kwalificeer Bezwaren_ 
+- patroon *Overeenkomst* hernoemd tot _Overeenkomsten vastleggen_
+- _Bezwaren Kwalificeren_: herziene tekst en bijgewerkte illustratie
+- _Overeenkomsten vastleggen_: herziene tekst, meer details toegevoegd van overeenkomsten die kunnen worden opgenomen, bijgewerkte illustratie
+
+### Wijzigingen 2019-12-22
+
+- nieuwe introductietekst toegevoegd
+- voegde "sociale technologie" toe aan de woordenlijst
+- website heeft nu aparte pagina's voor "Inleiding" en "Concepten en Principles"
+- ePub ziet er nu veel beter uit
+
+### Wijzigingen 2019-11-29
+
+- Principe van Transparantie: herziene beschrijving om duidelijk te maken dat waardevolle informatie moet worden opgenomen en vervolgens met iedereen in de organisatie moet worden gedeeld
+- Principe van Empirisme: verduidelijkt dat alleen die veronderstellingen waarvan je afhankelijk bent dat ze getest moeten worden
+
+### Wijzigingen 2019-06-27
+
+- *bezwaren*: verder verfijnde definitie van bezwaar, en aldus de woordenlijst term voor bezwaar bijgewerkt
+- verving "actie" door activiteit op enkele plaatsen waar het zinvoller was
+- een paar typos gerepareerd
+
 ### Wijzigingen 2019-05-03
 
-- verfijnde glossary termen voor overaankomst, organisatie en team, voegde woordenlijst term toe voor Doelstelling
-- Prinses van Accountability: verduidelijkt de individuele accountablity voor het werk en voor samenwerking
+- verfijnde woordenlijst termen voor overeenkomst, organisatie en team, voegde woordenlijst toe voor doelstelling
+- Principe van Accountability: verduidelijkt de individuele accountability voor werk en voor samenwerking
 - _contract voor succesvolle samenwerking_: paste tekst aan
 - _op te leveren resultaten beschrijven_: user stories toegevoegd als voorbeeld
 - _Dubbele-gelinkte Hiërarchie_: herziene samenvatting
@@ -1830,7 +1910,7 @@ De tweede en derde rang:
 
 **Woordenlijst:**
 
-- team toegevoegd aan woordenlijst (en vervang groep met team gedurende de praktische gids waar van toepassing)
+- team toegevoegd aan woordenlijst (en vervang groep met team in de praktische gids waar van toepassing)
 - de definitie van Op te leveren resultaten verbeterd
 - **driver statement** uit tekst en woordenlijst verwijder
 - de definities voor governance, activiteiten, en zelforganisatie geupdate
@@ -1838,12 +1918,12 @@ De tweede en derde rang:
 **Illustraties:**
 
 - aangepaste formats voor domein beschrijving en rolbeschrijving
-- illustraties voor _Koppelen_ en _Dubbele Koppeling_ bijgewerkt
+- illustraties voor _Linken_ en _Dubbele Link_ bijgewerkt
 
 **Wijzigingen aan patronen:**
 
 - _Overeenkomst_: beschrijving vermeldt nu dat alle verwachtingen moeten worden geregistreerd
-- _Op te leveren resultaten beschrijven_: verbeterde beschrijving
+- _Op te leveren producten beschrijven_: verbeterde beschrijving
 - _Beschrijf Drivers van de organisatie_: meer informatie over het samenvattenvan drivers
 - _Bezwaren oplossen_: beide illustraties bijgewerkt
 
@@ -1874,7 +1954,7 @@ De tweede en derde rang:
 **Wijzigingen aan patronen:**
 
 - _overeenstemmen over waarden_: verbeterde beschrijving
-- _Flow uitlijnen_: verbeterde beschrijving en illustratie
+- _Stroom uitlijnen_: verbeterde beschrijving en illustratie
 - _Patronen aanpassen aan de context_: verbeterde beschrijving
 - _Overeenkomst_: verbeterde beschrijving, bijgewerkt template
 - _Artful Participation_: verbeterde samenvatting
@@ -1915,7 +1995,7 @@ De tweede en derde rang:
 
 **Patronen hernoemd:**
 
-- *Overeenkomsten evalueren* naar *Overeenkomsten evalueren en evolueren*
+- *Overeenkomsten evalueren* naar *Overeenkomsten evalueren en doorontwikkelen*
 - *Beoogd resultaat* naar *Beoogde resultaten verduidelijken* 
 - *Open S3 Adoptie* naar *Open ruimte voor verandering*
 - *Contracting en accountability* naar *Contract voor succesvolle samenwerking*
@@ -1927,17 +2007,17 @@ De tweede en derde rang:
 - _Voorbereiden van vergaderingen_
 - _Activiteiten timeboxen_
 
-### Wijzigingen 2018-03-31
+### Changes 2018-03-21
 
 - patroon *Beschrijf Drivers* naar *Beschrijf drivers van de organisatie* hernoemd
-- _Beschrijf drivers van de organisatie_: de vier aspecten van een driver uitgelegd: de huidige situatie, de gevolgen van de situatie voor de organisatie, de behoefte van de organisatie in verband met deze situatie en de gevolgen van het feit dat zij zich bezighouden met het vervullen van de behoefte
+- _Beschrijf drivers van de organisatie_: de vier aspecten van een driver uitgelegd: de huidige situatie, de gevolgen van de situatie voor de organisatie, de behoefte van de organisatie in verband met deze situatie en de gevolgen van het vervullen van de behoefte
 - *behoefte* aan woordenlijst toegevoegd
 
 ### Wijzigingen 2017-11-16
 
 - kleine correcties
 - woordenlijst omschrijving van *Cirkel* en *Rol* afgestemd op de tekst bij het patroon
-- *Ontwikkelingsplan*: verduidelijking van verantwoordelijkheden
+- *Ontwikkelplan*: verduidelijking van verantwoordelijkheden
 - *Rol*: doorontwikkeling van de strategie verduidelijkt
 
 ### Wijzigingen 2017-11-10
@@ -1998,7 +2078,7 @@ De tweede en derde rang:
 
 **Toegevoegde patronen:**
 
-- *Delegeren van invloed*
+- *Invloed Delegeren*
 - *Drivers Beschrijven*
 - *Open Domein*
 
@@ -2022,7 +2102,7 @@ Diverse andere formaten en talen kunnen worden gevonden op <http://sociocracy30.
 
 ## Licentie
 
-"Sociocracy 3.0 - Een Practicale gids" van Bernhard Bockelbrink, James Priest en Liliana David is gelicentieerd onder een **Creative Commons Attribution-ShareAlike 4.0 International License**, welke een **Free Culture License** is.
+"Een Praktische gids voor de ontwikkeling van Agile en veerkrachtige organisaties met Sociocratie 3.0" van Bernhard Bockelbrink, James Priest en Liliana David is gelicentieerd onder een **Creative Commons Attribution-ShareAlike 4.0 International License**, welke een **Free Culture License** is.
 
 Deze licentie verleent u:
 
@@ -2035,17 +2115,17 @@ Je moet **de originele auteur van de materialen** benoemen, en **alle afgeleiden
 
 Om een kopie van deze licentie te bekijken, bezoek <https://creativecommons.org/licenses/by-sa/4.0/legalcode>
 
-Er is meer over het onderwerp van de vrije cultuur op de website van [Creative Commons](https://creativecommons.org/freeworks).
+Er is meer over de "free culture" op de [website van Creative Commons](https://creativecommons.org/freeworks).
 
 ### Attributie van afgeleide werken
 
 Als je een afgeleid werk maakt, moet je deze aan het originele werk attribueren. Ook moet je aangeven wat je hebt veranderd. Een goede attributie bevat titel, auteur, bron en licentie, zoals dit:
 
-> Dit werk, “[naam van je werk]” is een afgeleide van ‘Sociocracy 3.0 - Een praktische gids’ van James Priest, Bernhard Bockelbrink en Liliana David die wordt gebruikt onder CC BY SA. “[naam van uw werk]” is gelicentieerd onder CC BY SA door [uw naam].
+> Dit werk, "[naam van jouw werk]", is een afgeleide van "Een Praktische gids voor de ontwikkeling van Agile en veerkrachtige organisaties met Sociocratie 3.0" door James Priest, Bernhard Bockelbrink en Liliana David gebruikt onder CC BY SA. “[naam van jouw werk]” is gelicentieerd onder CC BY SA door [jouw naam].
 
 U kunt meer weten over attributie op de pagina [Creative Commons over beste praktijken voor attributie](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).
 
-## De Intentionele Commitment voor praktische uitvoering en leraren van Sociocratie 3.0 (ICPT)
+## De Intentionele Commitment voor Beoefenaars en Leraren van Sociocratie 3.0 (ICPT, uit het Engels)
 
 Deze verbintenis ondersteunt:
 
@@ -2059,9 +2139,9 @@ U kunt meer weten over de ICPT op <https://sociocracy30.org/s3-intentional-commi
 
 ### Volledige tekst van de ICPT
 
-**De Intentionele Commitment voor praktische uitvoering en leraren van Sociocratie 3.0 (Icpt)**
+**De Intentionele Commitment voor Beoefenaars en Leraren van Sociocratie 3.0 (ICPT, uit het Engels)**
 
-Ik zet mij in voor de ontwikkeling van een sociocratische en agile mindset, en ik houd me verantwoordelijk voor het integer beoefenen en overbrengen van S3, door deze richtlijnen te volgen:
+Ik zet me in voor het ontwikkelen van een sociocratische en agile mindset, en ik ben verantwoordelijk voor het beoefenen en onderwijzen van Sociocratie 3.0 met integriteit door deze richtlijnen te volgen:
 
 Ik probeer de zeven principes in mijn dagelijks leven te volgen. Ik commiteer mij aan artful participation in mijn samenwerking met anderen.
 
@@ -2095,39 +2175,33 @@ De inhoud van Sociocratie 3.0 weerspiegelt de opgedane ervaring en de wijsheid v
 
 Speciale erkenning gaat naar Gerard Endenburg en anderen die zich de afgelopen jaren hebben gecommiteerd aan het ontwikkelen en vastleggen van de Sociocratische Kring Organisatie Methode, die van zeer grote waarde en inspiratie is geweest voor de ontwikkeling van Sociocratie 3.0.
 
-We zouden ook iedereen willen erkennen die zich heeft ingezet om de opkomst van een meer agile en lean mentaliteit te vergemakkelijken, en degenen die verschillende praktijken met de wereld hebben gedeeld en ontwikkeld.
+We zouden ook iedereen willen erkennen die zich heeft ingezet om de opkomst van een meer agile en lean mentaliteit te vergemakkelijken, en degenen die verschillende werkwijzen met de wereld hebben gedeeld en ontwikkeld.
 
-Tot slot wil ik onze talrijke collega's, klanten, klanten en deelnemers van de Sociocratie 3.0 cursussen bedanken die ervoor hebben gekozen om te experimenteren met Sociocratie 3.0. Bedankt voor jullie voortdurende feedback om ons te helpen de patronen te evolueren en ons allemaal in staat te stellen te leren en te groeien.
+Tot slot wil ik onze talrijke collega's, klanten, klanten en deelnemers van de Sociocratie 3.0 cursussen bedanken die ervoor hebben gekozen om te experimenteren met Sociocratie 3.0. Bedankt voor jullie voortdurende feedback om ons te helpen de patronen te evolueren en in staat te stellen te leren en te groeien.
 
 Dit is zeker geen uitputtende lijst, maar wij willen de volgende mensen bedanken die rechtstreeks hebben bijgedragen aan de ontwikkeling van Sociocratie 3.0, of wiens werk invloed heeft gehad op wat het vandaag is:
 
-Gojko Adzic, Lysa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade, Jurgen Appelo, Kent Beck, Sue Bell, Angelina Bockelbrink, Jesper Boeg, Kees Boeke, Mary Boone, John Buck, Betty Cadbury, Diana Leafe Christian, Mike Cohn, Stephen Covey, Gigi Coyle, Jef Cumps, David Deida, Esther Derby, Kourosh Dini, Jutta Eckstein, Frands Frydendal, Gerard Endenburg, Andreas Hertel, Andrei Iuoraia, François Knuchel, Diana Larsen, Helmut Leitner, Jim and Michele McCarthy, Pieter van der Meche, Daniel Mezick, Susanne Mühlbauer, Niels Pfläging, Mary and Tom Poppendieck, Karl Popper, Brian Robertson, Marshall Rosenberg, Dave Snowden, Hal and Sidra Stone, Ken Schwaber, Jeff Sutherland, Sharon Villines, Nathaniel Whitestone, Ken Wilber, Jack Zimmerman.
+Gojko Adzic, Lyssa Adkins, Christopher Alexander, David J. Anderson, Ruth Andrade, Jurgen Appelo, Kent Beck, Sue Bell, Sonja Blignaut, Angelina Bockelbrink, Jesper Boeg, Kees Boeke, Mary Buck, John Buck, Betty Cadbury, Diana Leafe Christian, Mike Cohn, Stephen Covey, Gigi Coyle, Jef Cumps, David Deida, Esther Derby, Kourosh Dini, Jutta Eckstein, Frands Frydendal, Gerard Endenburg, Andreas Hertel, Andrei Iuoraia, Francit ois Knuchel, Diana Larsen, Helmut Leitner, Jim en Michele McCarthy, Pieter van der Meche, Daniel Mezick, Susanne MuSierhlbauer, Niels Pfläing, Mary en Tom Poppendieck, Karl Popper, Brian Robertson, Marshall Rosenberg, Dave Snowden, Hal en Sidra Stone, Ken Schwaber, Jeff Sutherland, Sharon Villines, Nathaniel Whitestone, Ken Wilber, Jack Zimmerman.
 
 ## Auteurs
 
-We verkopen consultancy, faciliteren leren, coaching en mentoring, ook gericht op, maar niet beperkt tot *Sociocratie 3.0*. We besteden een deel van onze tijd en geld aan het creëren van gratis middelen over *Sociocratie 3.0* als onderdeel van onze voortdurende inzet om sociocratie en aanverwante ideeën toegankelijker te maken voor de rest van de wereld.
+We verkopen consultancy, leer ondersteuning, coaching en mentoring, gericht op, maar niet beperkt tot *Sociocratie 3.0*. We besteden een deel van onze tijd en geld aan het creëren van gratis middelen over *Sociocratie 3.0* als onderdeel van onze voortdurende inzet om sociocratie en aanverwante ideeën toegankelijker te maken voor de rest van de wereld.
 
 ![James Priest, Liliana David, Bernhard Bockelbrink](img/james-liliana-bernhard.png)
 
-### James Priest
+**James Priest** dient internationaal, biedt consultancy op het gebied van organisatieontwikkeling, faciliteert leren en begeleidt mensen die in collaboratieve, adaptieve organisaties op elke schaal willen ontwikkelen.
 
-... dient internationaal, biedt consultancy op het gebied van organisatieontwikkeling, faciliteert leren en begeleidt mensen die in collaboratieve, adaptieve organisaties op elke schaal willen ontwikkelen.
-
-<https://thriveincollaboration.com>
+[thriveincollaboration.com](https://thriveincollaboration.com)
 
 <james@thriveincollaboration.com>
 
-### Bernhard Bockelbrink
-
-... is een agile coach, trainer en consultant die individuen, teams en organisaties steunt bij het navigeren van complexe uitdagingen en het ontwikkelen van een cultuur van effectieve, bewuste en prettige samenwerking.
+**Bernhard Bockelbrink** is een agile coach, trainer en adviseur die individuen, teams en organisaties ondersteunt bij het navigeren van complexe uitdagingen en het ontwikkelen van een cultuur van effectieve, bewuste en plezierige samenwerking.
 
 <https://evolvingcollaboration.com>
 
 <bernhard.bockelbrink@evolvingcollaboration.com>
 
-### Liliana David
-
-... dient internationaal, biedt training, facilitatie en begeleiding voor teams en organisaties die een grotere effectiviteit en gelijkwaardigheid in samenwerking willen ontwikkelen.
+**Liliana David** dient internationaal, biedt training, facilitering en begeleiding aan teams en organisaties die een grotere effectiviteit en gelijkwaardigheid in samenwerking willen ontwikkelen.
 
 <https://thriveincollaboration.com>
 
@@ -2149,7 +2223,7 @@ We verkopen consultancy, faciliteren leren, coaching en mentoring, ook gericht o
 **Alignment:** Het proces om de acties van alle delen van een organisatie op één lijn te brengen met de doelstellingen van de organisatie.
 
 
-**Backlog:** Een (geprioriteerde) lijst van werk gerelateerde items (deliverables), of (drivers) die nog moeten worden opgepakt.
+**Backlog:** Een (vaak geprioriteerde) lijst met taken (deliverables), of drivers die nog moeten worden opgepakt.
 
 
 **Behoefte:** Het gebrek aan iets wat gewenst of noodzakelijk is (een vereiste).
@@ -2158,7 +2232,7 @@ We verkopen consultancy, faciliteren leren, coaching en mentoring, ook gericht o
 **Beoogde Resultaat:** Het verwachte resultaat van een overeenkomst, actie, project of strategie.
 
 
-**Bezwaar:** Een _argument_ – gerelateerd aan een voorstel, besluit, bestaande overeenkomst of actie – die onbedoelde gevolgen of potentiële manieren om te verbeteren onthult.
+**Bezwaar:** Een argument dat verduidelijkt hoe een (voorgestelde) overeenkomst of actie onbedoelde consequenties heeft die je liever wil vermijden of dat er nog aanzienlijke verbeteringen mogelijk zijn en er schade zit in het missen van waarde die voortkomt uit de verbetering.
 
 
 **Cirkel:** Een zelfsturend en semi-autonoom team van gelijkwaardige mensen die samen verantwoording geven aan een domein.
@@ -2173,7 +2247,7 @@ We verkopen consultancy, faciliteren leren, coaching en mentoring, ook gericht o
 **Coördinatie:** Het proces dat het mogelijk maakt voor individuen of teams om effectief samen te werken over verschillende domeinen heen om zo gemeenschappelijke doelstellingen te bereiken.
 
 
-**Delegator:** Een individu of groep die de verantwoording voor een domein overdragen aan (een) ander(en).
+**Delegator:** Een individu of groep die de verantwoordelijkheid voor een domein aan anderen delegeert.
 
 
 **Delegeren:** Het verlenen van gezag van de ene partij (de delegator) aan een andere (de gedelegeerde) om verantwoording te geven aan een domein, (dat wil zeggen bepaalde dingen te doen en/of bepaalde besluiten te nemen) waarvoor de delegator de algemene verantwoordelijkheid behoudt.
@@ -2194,19 +2268,19 @@ We verkopen consultancy, faciliteren leren, coaching en mentoring, ook gericht o
 **Driver:** Het motief van een persoon of een groep om te reageren op een specifieke situatie.
 
 
-**Driver van de Organisatie:** Een driver is het motief van een persoon of groep om te reageren op een specifieke situatie. Een driver is een **driver van de organisatie** als een reactie op deze driver de organisatie zou helpen om waarde te genereren, verspilling te elimineren of schade te voorkomen.
+**Driver van de Organisatie:** Een driver is het motief van een persoon of groep om over te gaan tot actie in een specifieke situatie. Een driver is een **driver van de organisatie** wanneer het reageren hierop waarde oplevert voor de organisatie, of verspilling en schade voorkomt.
 
 
 **Effectiviteit (beginsel):** Besteed alleen tijd aan wat je dichter bij het bereiken van je doelstellingen brengt.
 
 
-**Empirisme (beginsel):** Test alle veronderstellingen door te experimenteren en te reviseren.
+**Empirisme (beginsel):** Test alle aannames waar jij op steunt, door te experimenteren en te reviseren.
 
 
 **Evolueren (v.):** geleidelijk ontwikkelen.
 
 
-**Gedelegeerde:** Een individu of groep die de aansprakelijkheid aanvaardt voor een domein dat aan hen is overgedragen.
+**Gedelegeerde:** Een individu of groep die de verantwoordelijkheid voor een aan hen gedelegeerd domein aanneemt en daarmee rolhouder of team wordt.
 
 
 **Gekozen waarden:** Een set van principes van een team (of een organisatie) die zij gezamenlijk hebben gekozen en aangenomen als richtlijnen voor gewenst gedrag in de samenwerking.
@@ -2248,7 +2322,7 @@ We verkopen consultancy, faciliteren leren, coaching en mentoring, ook gericht o
 **Overeenkomst:** Een overeengekomen richtlijn, proces, beleid of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden.
 
 
-**Patroon:** Een sjabloon voor het succesvol navigeren van een specifieke context.
+**Patroon:** Een sjabloon voor een proces, werkwijze of richtlijn die ingezet kan worden om succesvol te reageren op een specifiek soort uitdaging of kans.
 
 
 **Primaire Driver:** De primaire driver voor een domein is de hoofddriver waar mensen die verantwoordelijk zijn voor dat domein op reageren.
@@ -2257,10 +2331,16 @@ We verkopen consultancy, faciliteren leren, coaching en mentoring, ook gericht o
 **Principe:** Een basisidee of regel die richting geeft aan gedrag, of bepaalt of verklaard hoe iets gebeurt of werkt.
 
 
-**Rol:** Een domein dat is gedelegeerd aan een individu.
+**Rol:** Iemand die verantwoordelijkheid neemt voor een domein en daarmee rolhouder wordt.
+
+
+**Rolhouder:** Een individu die de verantwoordelijkheid neemt voor een rol.
 
 
 **Semi-autonomie:** De autonomie van mensen om waarde te creëren binnen hun domein, verder beperkt door hun eigen governance besluiten en bezwaren (waaronder die van de delegator en van vertegenwoordigers).
+
+
+**Sociale technologie:** Sociale technologieën zijn alle processen, technieken, methoden, vaardigheden en andere benaderingen die mensen kunnen gebruiken om sociale systemen — organisaties, verenigingen, gemeenschappen enz. – te beïnvloeden om gezamenlijke doelstellingen te bereiken en zinvolle interactie en uitwisseling te bevorderen.
 
 
 **Sociocratie:** Een denkwijze waarbij mensen die door besluiten worden getroffen, deze kunnen beïnvloeden op basis van redenen om dat te doen.
@@ -2296,13 +2376,13 @@ We verkopen consultancy, faciliteren leren, coaching en mentoring, ook gericht o
 **Timebox:** Een vooraf afgesproken tijdsperiode die te besteden is aan een specifieke activiteit (die niet noodzakelijkerwijs is afgerond aan het einde van de timebox).
 
 
-**Transparantie (beginsel):** Alle informatie toegankelijk maken voor iedereen in een organisatie, tenzij er een goede reden is om dit niet te doen.
+**Transparantie (beginsel):** Bewaar alle informatie die van waarde is voor de organisatie en maak deze voor iedereen toegankelijk, tenzij er een goede reden is voor vertrouwelijkheid.
 
 
 **Verantwoordelijk zijn voor (w.):** de verantwoordelijkheid nemen voor iets.
 
 
-**Verspilling:** Alles dat onnodig is of in de weg staat om op een (meer) effectieve manier te reageren op de driver.
+**Verspilling:** Alles dat overbodig is of belemmerend voor een (meer) effectieve reactie op de driver.
 
 
 **Waarde:** Het belang of nut van iets in relatie tot de driver. Het kan ook een principe zijn dat dient als richtlijn voor gedrag, dan meestal in het meervoud (waardes).
@@ -2318,7 +2398,8 @@ We verkopen consultancy, faciliteren leren, coaching en mentoring, ook gericht o
 de kaders van een domein.
 
 
-**Zorg:** Een aanname dat iets doen (zelfs in de afwezigheid van bezwaren) mogelijk in de weg kan staan van een (meer) effectieve reactie op een organisatiedrijfveer.
+**Zorg:** Een vermoeden - of mening - dat iets doen (zelfs in de afwezigheid van bezwaren) mogelijk in de weg zou kunnen staan van een (meer) effectieve reactie op een driver van de organisatie.
+
 
 
 

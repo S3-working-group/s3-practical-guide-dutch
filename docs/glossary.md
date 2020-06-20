@@ -10,13 +10,13 @@ title: Woordenlijst
 
 **Alignment:** Het proces om de acties van alle delen van een organisatie op één lijn te brengen met de doelstellingen van de organisatie.
 
-**Backlog:** Een (geprioriteerde) lijst van werk gerelateerde items (deliverables), of (drivers) die nog moeten worden opgepakt.
+**Backlog:** Een (vaak geprioriteerde) lijst met taken (deliverables), of drivers die nog moeten worden opgepakt.
 
 **Behoefte:** Het gebrek aan iets wat gewenst of noodzakelijk is (een vereiste).
 
 **Beoogde Resultaat:** Het verwachte resultaat van een overeenkomst, actie, project of strategie.
 
-**Bezwaar:** Een _argument_ – gerelateerd aan een voorstel, besluit, bestaande overeenkomst of actie – die onbedoelde gevolgen of potentiële manieren om te verbeteren onthult.
+**Bezwaar:** Een argument dat verduidelijkt hoe een (voorgestelde) overeenkomst of actie onbedoelde consequenties heeft die je liever wil vermijden of dat er nog aanzienlijke verbeteringen mogelijk zijn en er schade zit in het missen van waarde die voortkomt uit de verbetering.
 
 **Cirkel:** Een zelfsturend en semi-autonoom team van gelijkwaardige mensen die samen verantwoording geven aan een domein.
 
@@ -26,7 +26,7 @@ title: Woordenlijst
 
 **Coördinatie:** Het proces dat het mogelijk maakt voor individuen of teams om effectief samen te werken over verschillende domeinen heen om zo gemeenschappelijke doelstellingen te bereiken.
 
-**Delegator:** Een individu of groep die de verantwoording voor een domein overdragen aan (een) ander(en).
+**Delegator:** Een individu of groep die de verantwoordelijkheid voor een domein aan anderen delegeert.
 
 **Delegeren:** Het verlenen van gezag van de ene partij (de delegator) aan een andere (de gedelegeerde) om verantwoording te geven aan een domein, (dat wil zeggen bepaalde dingen te doen en/of bepaalde besluiten te nemen) waarvoor de delegator de algemene verantwoordelijkheid behoudt.
 
@@ -40,15 +40,15 @@ title: Woordenlijst
 
 **Driver:** Het motief van een persoon of een groep om te reageren op een specifieke situatie.
 
-**Driver van de Organisatie:** Een driver is het motief van een persoon of groep om te reageren op een specifieke situatie. Een driver is een **driver van de organisatie** als een reactie op deze driver de organisatie zou helpen om waarde te genereren, verspilling te elimineren of schade te voorkomen.
+**Driver van de Organisatie:** Een driver is het motief van een persoon of groep om over te gaan tot actie in een specifieke situatie. Een driver is een **driver van de organisatie** wanneer het reageren hierop waarde oplevert voor de organisatie, of verspilling en schade voorkomt.
 
 **Effectiviteit (beginsel):** Besteed alleen tijd aan wat je dichter bij het bereiken van je doelstellingen brengt.
 
-**Empirisme (beginsel):** Test alle veronderstellingen door te experimenteren en te reviseren.
+**Empirisme (beginsel):** Test alle aannames waar jij op steunt, door te experimenteren en te reviseren.
 
 **Evolueren (v.):** geleidelijk ontwikkelen.
 
-**Gedelegeerde:** Een individu of groep die de aansprakelijkheid aanvaardt voor een domein dat aan hen is overgedragen.
+**Gedelegeerde:** Een individu of groep die de verantwoordelijkheid voor een aan hen gedelegeerd domein aanneemt en daarmee rolhouder of team wordt.
 
 **Gekozen waarden:** Een set van principes van een team (of een organisatie) die zij gezamenlijk hebben gekozen en aangenomen als richtlijnen voor gewenst gedrag in de samenwerking.
 
@@ -76,15 +76,19 @@ title: Woordenlijst
 
 **Overeenkomst:** Een overeengekomen richtlijn, proces, beleid of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden.
 
-**Patroon:** Een sjabloon voor het succesvol navigeren van een specifieke context.
+**Patroon:** Een sjabloon voor een proces, werkwijze of richtlijn die ingezet kan worden om succesvol te reageren op een specifiek soort uitdaging of kans.
 
 **Primaire Driver:** De primaire driver voor een domein is de hoofddriver waar mensen die verantwoordelijk zijn voor dat domein op reageren.
 
 **Principe:** Een basisidee of regel die richting geeft aan gedrag, of bepaalt of verklaard hoe iets gebeurt of werkt.
 
-**Rol:** Een domein dat is gedelegeerd aan een individu.
+**Rol:** Iemand die verantwoordelijkheid neemt voor een domein en daarmee rolhouder wordt.
+
+**Rolhouder:** Een individu die de verantwoordelijkheid neemt voor een rol.
 
 **Semi-autonomie:** De autonomie van mensen om waarde te creëren binnen hun domein, verder beperkt door hun eigen governance besluiten en bezwaren (waaronder die van de delegator en van vertegenwoordigers).
+
+**Sociale technologie:** Sociale technologieën zijn alle processen, technieken, methoden, vaardigheden en andere benaderingen die mensen kunnen gebruiken om sociale systemen — organisaties, verenigingen, gemeenschappen enz. – te beïnvloeden om gezamenlijke doelstellingen te bereiken en zinvolle interactie en uitwisseling te bevorderen.
 
 **Sociocratie:** Een denkwijze waarbij mensen die door besluiten worden getroffen, deze kunnen beïnvloeden op basis van redenen om dat te doen.
 
@@ -108,11 +112,11 @@ title: Woordenlijst
 
 **Timebox:** Een vooraf afgesproken tijdsperiode die te besteden is aan een specifieke activiteit (die niet noodzakelijkerwijs is afgerond aan het einde van de timebox).
 
-**Transparantie (beginsel):** Alle informatie toegankelijk maken voor iedereen in een organisatie, tenzij er een goede reden is om dit niet te doen.
+**Transparantie (beginsel):** Bewaar alle informatie die van waarde is voor de organisatie en maak deze voor iedereen toegankelijk, tenzij er een goede reden is voor vertrouwelijkheid.
 
 **Verantwoordelijk zijn voor (w.):** de verantwoordelijkheid nemen voor iets.
 
-**Verspilling:** Alles dat onnodig is of in de weg staat om op een (meer) effectieve manier te reageren op de driver.
+**Verspilling:** Alles dat overbodig is of belemmerend voor een (meer) effectieve reactie op de driver.
 
 **Waarde:** Het belang of nut van iets in relatie tot de driver. Het kan ook een principe zijn dat dient als richtlijn voor gedrag, dan meestal in het meervoud (waardes).
 
@@ -123,5 +127,5 @@ title: Woordenlijst
 **Zelfsturing:** Mensen die zichzelf besturen binnen
 de kaders van een domein.
 
-**Zorg:** Een aanname dat iets doen (zelfs in de afwezigheid van bezwaren) mogelijk in de weg kan staan van een (meer) effectieve reactie op een organisatiedrijfveer.
+**Zorg:** Een vermoeden - of mening - dat iets doen (zelfs in de afwezigheid van bezwaren) mogelijk in de weg zou kunnen staan van een (meer) effectieve reactie op een driver van de organisatie.
 

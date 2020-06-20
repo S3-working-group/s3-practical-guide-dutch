@@ -3,7 +3,7 @@ title: "Visualiseer Werk"
 ---
 
 
-**Onderhoud een systeem dat alle belanghebbenden in staat stelt om de stand van zaken van alle lopende, lopende of voltooide werkitems in te zien.**
+<strong>Gebruik een systeem dat alle stakeholders in staat stelt om de stand van zaken van alle wachtende, lopende en voltooide werkitems in te zien.</strong>
 
 - waardevol voor <dfn data-info="Zelforganisatie: Elke activiteit of proces waarmee mensen hun dagelijkse werk organiseren zonder invloed van een externe tussenpersonen, en binnen kaders die zijn gedefinieerd door governance. In elke organisatie of team bestaan zelforganisatie en externe invloed naast elkaar.">zelforganisatie</dfn> en systemen van binnentrekken van werk
 - systeem moet toegankelijk zijn voor iedereen die geraakt wordt

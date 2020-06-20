@@ -3,9 +3,9 @@ title: "Open ruimte voor Verandering"
 ---
 
 
-**Nodig iedereen uit om experimenten te bedenken en uit te voeren voor de doorontwikkeling van de organisatie.**
+<strong>Nodig iedereen uit om experimenten te bedenken en uit te voeren voor de doorontwikkeling van de organisatie.</strong>
 
-- verhelder de <dfn data-info="Driver van de Organisatie: Een driver is het motief van een persoon of groep om te reageren op een specifieke situatie. Een driver is een **driver van de organisatie** als een reactie op deze driver de organisatie zou helpen om waarde te genereren, verspilling te elimineren of schade te voorkomen.">driver</dfn> voor verandering
+- verhelder de <dfn data-info="Driver van de Organisatie: Een driver is het motief van een persoon of groep om over te gaan tot actie in een specifieke situatie. Een driver is een **driver van de organisatie** wanneer het reageren hierop waarde oplevert voor de organisatie, of verspilling en schade voorkomt.">driver</dfn> voor verandering
 - plan regelmatig open space evenementen: 
     - nodig alle leden uit om experimenten op te zetten en uit te voeren
     - definieer de kaders voor de experimenten welke de ontwikkeling van een sociocratische en agile manier van denken mogelijk maken (bijvoorbeeld S3 beginselen)

@@ -3,7 +3,7 @@ title: "Voorbereiden voor Vergaderingen"
 ---
 
 
-**Vooraf voorbereiden om de vergaderingen effectiever te maken.**
+<strong>Bereid vergaderingen voor om ze effectiever te maken.</strong>
 
 Enkele overwegingen voor het succesvol voorbereiden van een vergadering:
 
@@ -39,5 +39,5 @@ Stem voor elk agendapunt in over:
 - bespreek bezwaren op een agenda en los deze zo mogelijk op voorafgaand aan de vergadering
 - review verbetersuggesties van de evaluatie van de vorige vergadering en bedenk hoe **jij** ernaar kunt handelen
 
-[&#9654; Check in](check-in.html)<br/>[&#9664; Faciliteer Vergaderingen](facilitate-meetings.html)<br/>[&#9650; Vergaderpraktijken](meeting-practices.html)
+[&#9654; Check in](check-in.html)<br/>[&#9664; Faciliteer Vergaderingen](facilitate-meetings.html)<br/>[&#9650; Vergaderwerkwijzen](meeting-practices.html)
 

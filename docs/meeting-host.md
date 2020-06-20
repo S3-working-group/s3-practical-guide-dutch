@@ -3,7 +3,7 @@ title: "Host van de vergadering"
 ---
 
 
-**Selecteer iemand om verantwoordelijk te zijn voor het voorbereiden en opvolgen van workshops of andere bijeenkomsten.**
+<strong>Selecteer iemand om verantwoordelijk te zijn voor het voorbereiden en opvolgen van meetings,  workshops of andere bijeenkomsten.</strong>
 
 Een persoon kan de rol van host van de vergadering op zich nemen voor een specifieke gebeurtenis of voor verschillende bijeenkomsten gedurende een bepaalde periode.
 
@@ -23,5 +23,5 @@ Voorbereiding:
 
 **Zie ook:** [Vergaderingen faciliteren](facilitate-meetings.html), [Voorbereiden voor vergaderingen](prepare-for-meetings.html)
 
-[&#9654; Governance Backlog](governance-backlog.html)<br/>[&#9664; Vergaderingen Evalueren](evaluate-meetings.html)<br/>[&#9650; Vergaderpraktijken](meeting-practices.html)
+[&#9654; Governance Backlog](governance-backlog.html)<br/>[&#9664; Vergaderingen Evalueren](evaluate-meetings.html)<br/>[&#9650; Vergaderwerkwijzen](meeting-practices.html)
 

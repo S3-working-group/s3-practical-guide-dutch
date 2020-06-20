@@ -13,5 +13,5 @@ Een governance backlog bevat:
 
 **Opmerking:** Aankomende verslagen en overeenkomsten die gereviewed moeten worden, worden meestal direct toegevoegd aan de agenda (in plaats van de backlog).
 
-[&#9654; Werk Organiseren](organizing-work.html)<br/>[&#9664; Host van de Vergadering](meeting-host.html)<br/>[&#9650; Vergaderpraktijken](meeting-practices.html)
+[&#9654; Werk Organiseren](organizing-work.html)<br/>[&#9664; Host van de Vergadering](meeting-host.html)<br/>[&#9650; Vergaderwerkwijzen](meeting-practices.html)
 

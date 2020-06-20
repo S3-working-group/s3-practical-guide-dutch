@@ -3,7 +3,7 @@ title: "Service cirkel"
 ---
 
 
-**Uitbesteden van diensten vereist door twee of meer domeinen.**
+<strong>Besteed diensten uit die nodig zijn voor twee of meer domeinen.</strong>
 
 Een service cirkel kan worden bemenst door leden van de <dfn data-info="Domein: Een afgebakend gebied van invloed, activiteit en besluitvorming binnen een organisatie.">domeinen</dfn> die het dient, en/of door andere mensen.
 

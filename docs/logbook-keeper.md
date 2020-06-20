@@ -3,7 +3,7 @@ title: "Logboekhouder"
 ---
 
 
-**Selecteer een lid van het team die specifiek verantwoordelijk is voor het bijhouden van alle informatie die het team nodig heeft.**
+<strong>Selecteer iemand uit het team om specifiek verantwoordelijk te zijn is voor het bijhouden van alle informatie die het team nodig heeft.</strong>
 
 De logboekhouder is verantwoordelijk voor het onderhouden van het <dfn data-info="Logboek: Een (digitaal) systeem om alle informatie op te slaan die relevant is voor het sturen van een organisatie.">logboek</dfn> van een team door:
 

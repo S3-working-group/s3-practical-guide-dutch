@@ -3,7 +3,7 @@ title: "Cirkel van Afgevaardigden"
 ---
 
 
-**Delegeer het nemen van governance besluiten die invloed hebben op meerdere domeinen aan afgevaardigden die door deze domeinen zijn geselecteerd.**
+<strong>Delegeer het nemen van governance besluiten die invloed hebben op meerdere domeinen aan afgevaardigden die door deze domeinen zijn geselecteerd.</strong>
 
 Om <dfn data-info="Governance: Het vaststellen van doelstellingen en het nemen en ontwikkelen van besluiten die ervoor moeten zorgen dat deze doelstellingen ook worden bereikt.">governance belsuiten</dfn> te nemen namens hen, sturen stakeholders [afgevaardigden](representative.html) om een cirkel van afgevaardigden te vormen.
 

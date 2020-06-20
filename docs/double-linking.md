@@ -3,7 +3,7 @@ title: "Dubbele Koppeling"
 ---
 
 
-**Maak een *bidirectionele* informatiestroom en beïnvloeding tussen twee teams mogelijk.**
+<strong>Maak een <em>twee-wegs</em> stroom van informatie en invloed mogelijk tussen twee teams.</strong>
 
 Twee onderling afhankelijke teams kiezen elk een van hun leden om hun belangen te behartigen in de governance besluiten van het andere team.
 

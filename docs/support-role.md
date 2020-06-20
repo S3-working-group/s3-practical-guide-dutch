@@ -3,9 +3,9 @@ title: "Ondersteunende rol"
 ---
 
 
-**Dit rolpatroon is van toepassing op externe contractanten.**
+<strong>Dit rolpatroon is van toepassing op externe contractanten.</strong>
 
-- verhelderen en beschrijf de <dfn data-info="Driver van de Organisatie: Een driver is het motief van een persoon of groep om te reageren op een specifieke situatie. Een driver is een **driver van de organisatie** als een reactie op deze driver de organisatie zou helpen om waarde te genereren, verspilling te elimineren of schade te voorkomen.">driver</dfn> voor de [rol](role.html)
+- verhelder en beschrijf de <dfn data-info="Driver van de Organisatie: Een driver is het motief van een persoon of groep om over te gaan tot actie in een specifieke situatie. Een driver is een **driver van de organisatie** wanneer het reageren hierop waarde oplevert voor de organisatie, of verspilling en schade voorkomt.">driver</dfn> voor de [rol](role.html)
 - maak een [domeinbeschrijving](clarify-domains.html)
 - indien waardevol, voer een selectieproces uit
 - beperk de looptijd van het contract

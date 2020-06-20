@@ -3,7 +3,7 @@ title: "Contract voor succesvolle samenwerking"
 ---
 
 
-**Steun vanaf het begin een succesvolle samenwerking en bouw vertrouwen tussen partijen door wederzijds voordelige en juridisch solide contracten te creëren.**
+<strong>Draag van af het begin zorg voor een succesvolle samenwerking en bouw vertrouwen op door gezamenlijk contracten te ontwikkelen die juridisch solide zijn en voordelig voor alle partijen.</strong>
 
 Een **contract** is een reeks beloften tussen twee of meer partijen die zij juridisch bindend maken, dat wil zeggen als deze beloften worden geschonden, heeft de benadeelde partij toegang tot rechtsmiddelen of alternatieve oplossingen.
 
@@ -60,7 +60,7 @@ Elk contract kan op elk moment worden gewijzigd, mits alle ondertekenaars het er
 - stel een proefperiode vast– waar alle partijen de samenwerking kunnen uitproberen – en een duidelijk protocol voor de manier waarop iedere partij het contract in de proefperiode kan worden beëindigd
 - definieer en plan regelmatige evaluatiemomenten waar ondertekenaars samenkomen om te delen of het contract gewijzigd moet worden om beter te passen bij de veranderende context
 - stel ook een duidelijke procedures vast voor het breken van het contract
-- overweeg om alternatieve middelen voor geschillenbeslechting beschikbaar te stellen, bijvoorbeeld bemiddeling of arbitrage
+- overweeg om alternatieve middelen beschikbaar te stellen, bijvoorbeeld bemiddeling of arbitrage, om conflicten op te lossen
 - overweeg het contract te beperken tot een vaste termijn waarna het contract afloopt en kan worden verlengd indien nodig
 
 ### Cultuur
@@ -71,7 +71,7 @@ Elk contract beïnvloedt de cultuur van de samenwerking die het bestuurt, zelfs 
 - stem het contract af op de organisatiestructuur (van alle partijen) en op wettelijke vereisten
 - ontwikkel contracten die accountability mogelijk maken en aanmoedigen
 
-als je vindt dat standaardcontracten in jouw industrie verkeerd zijn afgestemd op de cultuur die je wilt ontwikkelen, bouw een eigen verzameling van formats voor contracten en clausules op en overweeg deze te delen met anderen, zodat de ervaring uit het verleden gebruikt kan worden bij het maken van nieuwe contracten.
+Wanneer standaardcontracten in jouw industrie volgens jou niet in overeenstemming zijn met de cultuur die je wilt ontwikkelen kun je een eigen verzameling opbouwen met templates voor contracten en clausules. Overweeg om deze beschikbaar te stellen voor anderen, zodat ervaring uit het verleden gebruikt kan worden bij het maken van nieuwe contracten.
 
 [&#9654; Transparant Salaris](transparent-salary.html)<br/>[&#9664; Overeenkomsten breken](breaking-agreements.html)<br/>[&#9650; Zaken die Co-creatie mogelijk maken](enablers-of-collaboration.html)
 

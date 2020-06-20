@@ -3,7 +3,7 @@ title: "Vergaderingen evalueren"
 ---
 
 
-**Neem tijd om te leren aan het einde van elke vergadering of workshop.**
+<strong>Neem tijd om te leren aan het einde van elke vergadering of workshop.</strong>
 
 Reflecteer op interacties, vier successen en deel suggesties voor verbetering voor het sluiten van de vergadering.
 
@@ -28,5 +28,5 @@ Vraag iedereen in een [ronde](round.html) kort iets te delen over een of meer va
 - waar ruimte ligt voor groei en verbetersuggesties (ik wens...)
 - wilde ideeën en radicale suggesties (wat als...)
 
-[&#9654; Host van de Vergadering](meeting-host.html)<br/>[&#9664; Check in](check-in.html)<br/>[&#9650; Vergaderpraktijken](meeting-practices.html)
+[&#9654; Host van de Vergadering](meeting-host.html)<br/>[&#9664; Check in](check-in.html)<br/>[&#9650; Vergaderwerkwijzen](meeting-practices.html)
 

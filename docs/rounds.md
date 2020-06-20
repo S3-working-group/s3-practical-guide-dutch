@@ -3,7 +3,7 @@ title: "Rondes"
 ---
 
 
-**In een groepsvergadering ga je de cirkel rond, zodat iedereen op zijn beurt het woord kan voeren.**
+<strong>In een groepsbijeenkomst ga je de cirkel rond, zodat iedereen op zijn beurt aan het woord komt.</strong>
 
 Rondes is een techniek waarmee je gelijkwaardigheid kunt faciliteren en een effectieve dialoog kunt ondersteunen.
 
@@ -13,5 +13,5 @@ Vorm een cirkel en begin elke ronde met een ander persoon en verander de richtin
 
 ![Rondes](img/circle/rounds.png)
 
-[&#9654; Faciliteer Vergaderingen](facilitate-meetings.html)<br/>[&#9650; Vergaderpraktijken](meeting-practices.html)
+[&#9654; Faciliteer Vergaderingen](facilitate-meetings.html)<br/>[&#9650; Vergaderwerkwijzen](meeting-practices.html)
 

@@ -3,7 +3,7 @@ title: "Evaluatiecriteria"
 ---
 
 
-**Ontwikkel goed gedefinieerde evaluatiecriteria om te bepalen of het gewenste effect had op een overeenkomst.**
+<strong>Ontwikkel goed gedefinieerde evaluatiecriteria om te bepalen of het uitvoeren van een overeenkomst de gewenste effecten heeft.</strong>
 
 - ga voor **eenvoudige en ondubbelzinnige** criteria en documenteer ze (om discussie te vermijden bij het reviewen van de <dfn data-info="Overeenkomst: Een overeengekomen richtlijn, proces, beleid of protocol dat is ontworpen om de stroom van waarde zo goed mogelijk te geleiden.">overeenkomsten</dfn>)
 - definieer **bruikbare statistieken** om de effecten en afwijkingen van de <dfn data-info="Beoogde Resultaat: Het verwachte resultaat van een overeenkomst, actie, project of strategie.">beoogde resultaten</dfn> op te merken en te volgen

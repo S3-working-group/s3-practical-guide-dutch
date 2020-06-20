@@ -3,7 +3,7 @@ title: "Vergaderingen faciliteren"
 ---
 
 
-**Kies iemand om de vergadering te faciliteren en de groep te helpen focus te behouden, binnen de planning te blijven en creativiteit en wijsheid te ontlokken.**
+<strong>Kies iemand om de vergadering te faciliteren en de groep te helpen focus te behouden, binnen de planning te blijven en creativiteit en wijsheid te ontlokken.</strong>
 
 Stel een agenda op voorafgaand aan elke vergadering en selecteer een facilitator om:
 
@@ -15,5 +15,5 @@ Overweeg om een facilitator te selecteren voor een bepaalde term. Zelfs een oner
 
 **Zie ook:** [Bereid voor voor Vergaderingen](prepare-for-meetings.html), [Rolselectie](role-selection.html)
 
-[&#9654; Voorbereiden voor Vergaderingen](prepare-for-meetings.html)<br/>[&#9664; Rondes](rounds.html)<br/>[&#9650; Vergaderpraktijken](meeting-practices.html)
+[&#9654; Voorbereiden voor Vergaderingen](prepare-for-meetings.html)<br/>[&#9664; Rondes](rounds.html)<br/>[&#9650; Vergaderwerkwijzen](meeting-practices.html)
 

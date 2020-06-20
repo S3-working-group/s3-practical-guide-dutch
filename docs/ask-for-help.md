@@ -3,7 +3,7 @@ title: "Vraag om hulp"
 ---
 
 
-**Een eenvoudig protocol voor het leren, het delen van vaardigheden en het opbouwen van verbindingen, met respect voor de autonomie van mensen.**
+<strong>Een simpel protocol om te leren, vaardigheden te delen en connecties te maken, met respect voor de autonomie van mensen.</strong>
 
 Vraag iemand, "*zou je bereid zijn om me te helpen ...*?" De ander kan antwoorden met een eenvoudig "*ja*" of "*nee*".
 

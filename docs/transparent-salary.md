@@ -3,9 +3,9 @@ title: "Transparant Salaris"
 ---
 
 
-**Maak een eerlijke salarisformule en maak deze transparant.**
+<strong>Creëer een eerlijke salarisformule en maak deze transparant.</strong>
 
-Transparant salaris (ookwel "open salaris") is het vaststellen van de vergoeding van elke werknemer volgens een reeks regels - de *salarisformule* - in plaats van dit vaststellen tijdens individuele onderhandelingen tussen werkgever en werknemer. De salarisformule – en vaak ook individuele vergoeding – is transparant voor alle leden van een organisatie, en soms voor het publiek.
+Transparant salaris (ookwel "open salaris") is het vaststellen van de vergoeding van elke werknemer volgens een reeks regels - de *salarisformule* - in plaats van door dit vast te stellen tijdens individuele onderhandelingen tussen werkgever en werknemer. De salarisformule – en vaak ook individuele vergoeding – is transparant voor alle leden van een organisatie, en soms voor het publiek.
 
 Een transparante salarisformule moet in overeenstemming zijn met de context van een organisatie en door alle belanghebbenden als eerlijk genoeg worden beschouwd.
 
