@@ -1,7 +1,7 @@
 ---
 title:
 - type: main
-  text: ${_("Sociocracy 3.0 - A Practical Guide")}
+  text: ${_("A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0")}
 creator:
 - role: author
   text: Bernhard Bockelbrink, James Priest, Liliana David
