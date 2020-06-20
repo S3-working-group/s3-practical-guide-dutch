@@ -18,12 +18,6 @@ define update-make-conf
 $(MKTPL) templates/make-conf config/make-conf $(LOC) $(PRJ)
 endef
 
-
-make translations:
-	$(MKTPL) templates/version content/version $(LOC) $(PRJ)
-	# it's intentional this is just echoed
-	echo "sudo crowdin --identity ~/crowdin-s3-patterns.yaml upload sources -b release-$$(cat content/version) --dryrun"
-
 site:
 	# build jekyll site
 	$(update-make-conf)
@@ -31,6 +25,13 @@ site:
 	# build content files
 	mdslides build jekyll $(CONFIG) $(SOURCE) docs/ --glossary=$(GLOSSARY) --template=content/website/_templates/index.md --section-index-template=content/website/_templates/pattern-index.md --introduction-template=content/website/_templates/introduction.md
 
+	# split introduction into intro and concepts/principles
+	awk '{print >out}; /<!-- split here -->/{out="$(DOCS_TMP)/concepts-and-principles-content.md"}' out=$(DOCS_TMP)/introduction-content.md docs/introduction.md
+	$(MKTPL) templates/website/introduction.md $(DOCS_TMP)/intro_tmpl.md $(LOC) $(PRJ)
+	cd $(DOCS_TMP); multimarkdown --to=mmd --output=../../docs/introduction.md intro_tmpl.md
+	$(MKTPL) content/website/_templates/concepts-and-principles.md $(DOCS_TMP)/concepts_tmpl.md $(LOC) $(PRJ)
+	cd $(DOCS_TMP); multimarkdown --to=mmd --output=../../docs/concepts-and-principles.md concepts_tmpl.md
+	
 	# prepare templates
 	$(MKTPL) templates/website/_layouts/default.html docs/_layouts/default.html $(LOC) $(PRJ)
 	$(MKTPL) templates/website/_layouts/plain.html docs/_layouts/plain.html $(LOC) $(PRJ)
@@ -113,15 +114,27 @@ setup:
 	-mkdir -p $(DOCS_TMP)
 	-mkdir -p $(TMPSUP)
 	-mkdir docs/_site
-	# -mkdir gitbook
-ifeq ("$(wildcard $(EBOOK_TMP)/img)","")
-	cd $(EBOOK_TMP); ln -s ../../img
+
+	# images for ebook
+ifneq ("$(wildcard $(EBOOK_TMP)/img)","")
+	rm -r $(EBOOK_TMP)/img
+endif
+	cp -r img $(EBOOK_TMP)/img
+	cp templates/covers/* $(EBOOK_TMP)/img
+
+	# images for supporter epub
+ifneq ("$(wildcard $(TMPSUP)/img)","")
+	# take no risk here!
+	rm -r $(TMPSUP)/img
 endif 
+	cp -r img $(TMPSUP)/img
+
 	# clean up and copy images do to docs folder
 ifneq ("$(wildcard docs/img)","")
 	rm -r docs/img
 endif
 	cp -r img docs/img
+
 ifneq ("$(wildcard gitbook/img)","")
 	# rm -r gitbook/img
 endif

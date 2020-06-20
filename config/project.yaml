@@ -13,7 +13,7 @@ target_filename: "S3-practical-guide-dutch"
 pattern_prefix: " Patroon %(chapter)s.%(section)s:"
 
 # Version of the practical guide (added to all releases)
-version: "v2019-05-03-nl-0.2"
+version: "v2020-05-08-nl-0.1"
 
 # URL o the Github project
 github_url: "https://github.com/S3-working-group/s3-practical-guide-dutch"
