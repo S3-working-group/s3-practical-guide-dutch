@@ -1,13 +1,15 @@
 ## Continue verbetering van het werkproces
 
-**Onthul de drijfveren binnen een organisatie door het werkproces doorlopend te evalueren, verbeteren en verfijnen en ontwikkel aan de hand hiervan een op meetbare gegevens gebaseerd pull-systeem voor organisatorische verandering.**
+<summary>
+<strong>Onthul drivers en creëer een op statistieken gebaseerd pull-systeem voor organisatorische veranderingen, door voortdurend het werkproces te verbeteren en verfijnen.</strong>
+</summary>
 
 - introduceer het principe van consent en [Navigeren via Spanning](section:navigate-via-tension) om werkprocessen in een team door te ontwikkelen
 - overweeg om een facilitator te selecteren die de groepsprocessen kan begeleiden en om waardes te kiezen die dienen als richtlijnen voor gewenst gedrag
-- initieer een proces van continue verbetering, bij. middels Kanban of regelmatige [Retrospectives](section:retrospective)
+- initieer een proces van continue verbetering, bv. middels Kanban of regelmatige [Retrospectives](section:retrospective)
 - leden van het team kunnen daar waar nodig gebruik maken van S3 patronen
 - indien waardevol, verbreed de scope van het experiment op iteratieve wijze naar andere teams
-- let bewust op mogelijke belemmeringen 
+- let bewust op mogelijke belemmeringen
 
 ### Verspilling en Continue Verbetering
 

@@ -1,6 +1,8 @@
 ## Peer Review
 
-**Ondersteun elkaar om te leren en te groeien binnen jouw rollen en teams.**
+<summary>
+<strong>Ondersteun elkaar om te leren en te groeien binnen jouw rollen en teams.</strong>
+</summary>
 
 De rolhouder - of het team - leidt de peer review door het proces op te zetten en in elke stap als eerst te spreken.
 

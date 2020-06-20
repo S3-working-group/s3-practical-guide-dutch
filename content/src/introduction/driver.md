@@ -1,4 +1,4 @@
-#### Drivers
+### Drivers
 
 {{define:driver}}
 
@@ -7,7 +7,7 @@ Drivers:
 - kunnen worden gebruikt om doelen, doelstellingen, missies, visies, streven en de bedoeling af te leiden
 - kan veranderen met de tijd
 
-##### Drivers, waarde en verspilling
+#### Drivers, waarde en verspilling
 
 {{define:value}}
 

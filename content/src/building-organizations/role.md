@@ -1,8 +1,10 @@
 ## Rol
 
-**Delegeren van accountability voor een domein aan individuen.**
+<summary>
+<strong>De verantwoordelijkheid voor een domein aan individuen delegeren.</strong>
+</summary>
 
-Een rol is een verantwoordelijkheidsgebied (een [domein](glossary:domain)) dat [gedelegeerd](glossary:delegation) is aan een individu (**de rolbewaarder**) welke de autonomie heeft om beslissingen en actie te nemen binnen de kaders van het roldomein.
+Een rol is een gebied van verantwoordelijkheid (een domein) dat gedelegeerd is aan een individu (**de rolhouder**) welke de autonomie heeft om beslissingen te nemen en acties uit te voeren binnen de kaders van het domein behorende bij de rol.
 
 De rolhouder heeft de leiding bij het opstellen van een [strategie](glossary:strategy) over de manier waarop zij hun domein zullen invullen. Ze evolueren hun strategie in samenwerking met de [delegator](glossary:delegator).
 

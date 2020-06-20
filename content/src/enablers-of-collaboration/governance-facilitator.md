@@ -1,8 +1,10 @@
 ## Governance facilitator
 
-**Selecteer iemand om governance vergaderingen te faciliteren.**
+<summary>
+<strong>Selecteer iemand om governance vergaderingen te faciliteren.</strong>
+</summary>
 
-Een [governance](section:governance) facilitator:
+Een [governance](glossary:governance) facilitator:
 
 - zorgt ervoor dat [governance vergaderingen](section:governance-meeting) goed verlopen en geëvalueerd worden
 - is (meestal) 1 van de leden geselecteerd door het [team](glossary:team) (en voor een specifieke termijn)

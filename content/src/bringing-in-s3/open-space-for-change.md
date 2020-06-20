@@ -1,6 +1,8 @@
 ## Open ruimte voor Verandering
 
-**Nodig iedereen uit om experimenten te bedenken en uit te voeren voor de doorontwikkeling van de organisatie.**
+<summary>
+<strong>Nodig iedereen uit om experimenten te bedenken en uit te voeren voor de doorontwikkeling van de organisatie.</strong>
+</summary>
 
 - verhelder de [driver](glossary:organizational-driver) voor verandering
 - plan regelmatig open space evenementen: 

@@ -1,6 +1,8 @@
 ## Governance vergadering
 
-**Teams komen regelmatig bijeen om te bepalen wat er moet worden gedaan om doelstellingen te bereiken en kaders vast te stellen over hoe en wanneer er iets zal gebeuren.**
+<summary>
+<strong>Teams komen regelmatig bijeen om te bepalen wat er moet worden gedaan om doelstellingen te bereiken en kaders vast te stellen over hoe en wanneer iets wordt gedaan.</strong>
+</summary>
 
 Een governance vergadering is meestal:
 

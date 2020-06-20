@@ -1,6 +1,8 @@
 ## Statuten
 
-Leg de S3 principes en patronen vast in de statuten, indien dit nodig is om de **juridische integriteit ** en **organisatiecultuur** te beschermen
+<summary>
+Leg de S3 principes en patronen vast in de statuten, indien dit nodig is om de <strong>juridische integriteit </strong> en <strong>organisatiecultuur</strong> te beschermen
+</summary>
 
 Denk aan:
 

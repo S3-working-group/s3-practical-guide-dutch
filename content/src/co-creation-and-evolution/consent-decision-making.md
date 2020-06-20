@@ -1,6 +1,8 @@
 ## Consent Besluitvorming
 
-**Een (gefaciliteerd) groepsproces voor besluitvorming: het uitnodigen van bezwaren en het overwegen van informatie en kennis die aan het licht zijn gekomen om voorstellen of bestaande overeenkomsten verder te ontwikkelen.**
+<summary>
+<strong>Een (gefaciliteerd) groepsproces voor besluitvorming: nodig uit tot bezwaar en verwerk de hiermee onthulde informatie en kennis om bestaande overeenkomsten verder te ontwikkelen.</strong>
+</summary>
 
 Voorstellen worden [overeenkomsten](glossary:agreement) wanneer zij *goed genoeg voor nu zijn en veilig genoeg om te proberen* tot de volgende review.
 

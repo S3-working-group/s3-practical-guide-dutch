@@ -1,6 +1,6 @@
 ## Licentie
 
-"Sociocracy 3.0 - Een Practicale gids" van Bernhard Bockelbrink, James Priest en Liliana David is gelicentieerd onder een **Creative Commons Attribution-ShareAlike 4.0 International License**, welke een **Free Culture License** is.
+"Een Praktische gids voor de ontwikkeling van Agile en veerkrachtige organisaties met Sociocratie 3.0" van Bernhard Bockelbrink, James Priest en Liliana David is gelicentieerd onder een **Creative Commons Attribution-ShareAlike 4.0 International License**, welke een **Free Culture License** is.
 
 Deze licentie verleent u:
 
@@ -13,12 +13,12 @@ Je moet **de originele auteur van de materialen** benoemen, en **alle afgeleiden
 
 Om een kopie van deze licentie te bekijken, bezoek <https://creativecommons.org/licenses/by-sa/4.0/legalcode>
 
-Er is meer over het onderwerp van de vrije cultuur op de website van [Creative Commons](https://creativecommons.org/freeworks).
+Er is meer over de "free culture" op de [website van Creative Commons](https://creativecommons.org/freeworks).
 
 ### Attributie van afgeleide werken
 
 Als je een afgeleid werk maakt, moet je deze aan het originele werk attribueren. Ook moet je aangeven wat je hebt veranderd. Een goede attributie bevat titel, auteur, bron en licentie, zoals dit:
 
-> Dit werk, “[naam van je werk]” is een afgeleide van ‘Sociocracy 3.0 - Een praktische gids’ van James Priest, Bernhard Bockelbrink en Liliana David die wordt gebruikt onder CC BY SA. “[naam van uw werk]” is gelicentieerd onder CC BY SA door [uw naam].
+> Dit werk, "[naam van jouw werk]", is een afgeleide van "Een Praktische gids voor de ontwikkeling van Agile en veerkrachtige organisaties met Sociocratie 3.0" door James Priest, Bernhard Bockelbrink en Liliana David gebruikt onder CC BY SA. “[naam van jouw werk]” is gelicentieerd onder CC BY SA door [jouw naam].
 
 U kunt meer weten over attributie op de pagina [Creative Commons over beste praktijken voor attributie](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).

@@ -1,6 +1,8 @@
 ## Uitlijnen van invloed, informatie- en waardestromen
 
-**Om de waardestroom te organiseren is het van belang om de besluitvorming te laten plaatsvinden dichtbij waar de waarde wordt gecreëerd en om de stroom van invloed en informatie ook zo te laten lopen.**
+<summary>
+<strong>Om ervoor te zorgen dat er continu waarde door de organisatie stroomt, is het belangrijk dat besluiten worden genomen dicht bij waar de waarde wordt gecreëerd, en om de stroom van informatie hierop te laten aansluiten.</strong>
+</summary>
 
 **Waardestroom:** {{glossary:flow-of-value}}
 

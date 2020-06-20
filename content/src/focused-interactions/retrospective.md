@@ -1,15 +1,17 @@
-## Retrospectief
+## Retrospective
 
-**Spendeer tijd aan het reflecteren op opgedane ervaringen, leer ervan en besluit hoe het werkproces verbeterd kan worden.**
+<summary>
+<strong>Spendeer tijd aan het reflecteren op ervaringen uit het verleden, leer ervan en besluit hoe het werkproces verbeterd kan worden.</strong>
+</summary>
 
 - uitkomst: wijzigingen in het werkproces, nieuwe taken, "tussendoor" [overeenkomsten](glossary:agreement), en [drivers](glossary:organizational-driver) waar een afspraak over gemaakt moet worden
 - gefaciliteerde vergadering (~1u)
 - regelmatige intervallen (1-4 weken)
 - aanpassen aan situatie en context
 
-![Uitkomsten van een Retrospectief](img/meetings/retrospective.png)
+![Uitkomsten van een Retrospective](img/meetings/retrospective.png)
 
-### Vijf fases van een Retrospectief
+### Vijf fases van een Retrospective
 
 1. Zorg voor de juiste sfeer 
 2. Verzamel data

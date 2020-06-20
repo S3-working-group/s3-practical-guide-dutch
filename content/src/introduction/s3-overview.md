@@ -1,53 +1,42 @@
-## Sociocratie 3.0 - Een praktische gids voor de ontwikkeling van wendbare en veerkrachtige organisaties
+## Wat is Sociocratie 3.0?
 
-### Effectief samenwerken op elke schaal
+Sociocratie 3.0 - oftewel "S3" - is [sociale technologie](glossary:social-technology) , waarmee geleidelijk aan agile en veerkrachtige organisaties kunnen worden ontwikkeld. Het is toe te passen in kleine start-ups tot aan grote internationale netwerken en samenwerkingen tussen meerdere entiteiten.
 
-Sociocratie 3.0 - **oftewel S3** is een praktische gids om wendbare en veerkrachtige organisaties te ontwikkelen van elke schaalgrootte, van kleine start-ups tot aan grote internationale netwerken en landelijke samenwerkingen bestaande uit meerdere entiteiten. Het voorziet in een samenhangende manier om integriteit in een organisatie te laten groeien en **een sociocratische, agile manier van denken** te ontwikkelen.
+In deze praktische handleiding ontdek je een uitgebreide verzameling van beproefde **-concepten, principes en werkwijzen om prestaties, betrokkenheid en welzijn te verbeteren** in organisaties.
 
-S3 bestaat uit een zeer volledige verzameling van richtlijnen en werkwijzen (patronen), die effectief zijn gebleken voor organisatie om **prestaties te verbeteren, op elkaar af te stemmen, zingeving te vergroten en welzijn te verbeteren**.
+Sinds de lancering in 2015 hebben de patronen van S3 mensen in verschillende contexts in organisaties geholpen om het beste uit samenwerking te krijgen. Van start-ups tot kleine en middelgrote ondernemingen, grote internationale organisaties, door investeerders gefinancierde en non-profitorganisaties, families en gemeenschappen.
 
-Deze patronen helpen ontdekken hoe doelen het best bereikt kunnen worden en hoe om te gaan met complexe situaties., Stap voor stap, **zonder de noodzaak aan radicale verandertrajecten, reorganisaties of lange termijn verander initiatieven:**
+S3 gebruiken kan je **helpen jouw doelen te bereiken ** en met succes te navigeren in complexiteit. Je kunt stap voor stap wijzigingen aanbrengen, **zonder dat er een radicale reorganisatie nodig is** of een langetermijn veranderplan:
 
-Begin gewoon daar waar de grootste behoefte aan verandering ligt, selecteer een of meer patronen om te proberen, **beweeg in je eigen tempo** en ontwikkel vaardigheden terwijl je bezig bent.
+- Begin simpelweg met het identificeren van de gebieden waar de nood het hoogst is en selecteer een of meer werkwijzen of richtlijnen die helpen.
+- Ga verder in je eigen tempo, en ontwikkel gaandeweg je zowel je vaardigheden als een meer sociocratische en agile mentaliteit.
 
-Er zitten voor iedereen handige en relevante patronen bij **ongeacht positie in de organisatie**.
+Er zitten voor iedereen handige en beproefde opties bij, **ongeacht positie in de organisatie**.
 
-Sociocratie 3.0 is:
+**Sociocratie 3.0 is gratis** en gelicentieerd onder een Creative Commons Free Culture License.
 
-- **flexibel**: aanpasbare patronen, onafhankelijk inzetbaar en wederzijds versterkend, in te zetten op alle aspecten van samenwerking
-- **op principes gebaseerd:** 7 kernprincipes uit agile en sociocratische manieren van samenwerken worden weerspiegeld in elk patroon
-- **gratis**: gelicentieerd onder een Creative Commons Free Culture Licentie
+## Hoe helpt Sociocratie 3.0?
 
-### Wat zit er in voor mij?
+S3 is een transformerende technologie voor zowel individuen als de gehele organisatie. S3 helpt je ontdekken hoe je de grootste uitdagingen van je organisatie het hoofd kunt bieden, zelfs de meest hardnekkige problemen, en de kansen die voorbij komen kan grijpen.
 
-**Sociocratie 3.0:**
+Sociocratie 3.0 is ontworpen om flexibel te zijn en moedigt aan om te experimenteren en leren. Je kunt gebruiken wat je nodig hebt, je kunt het aanpassen aan je context en je bestaande aanpak ermee verrijken.
 
-- biedt een samenhangende verzameling van op principes gebaseerde patronen om samen te werken, om te gaan met complexiteit, aan te blijven passen aan de context en te blijven ontwikkelen.
-- ondersteunt mensen om in kleine stapjes beschikbare informatie te verwerken om werkprocessen, producten, diensten en vaardigheden continue te blijven verbeteren.
-- helpt organisaties om zo goed mogelijk gebruik te maken van aanwezig talent en flexibele organisatiestructuren te ontwikkelen om de stroom van informatie en invloed goed af te stemmen op de waardestroom.
-- biedt een organische, iteratieve aanpak voor verandering die daar begint waar de organisatie is en helpt te bewegen op een tempo dat passend is bij hen, de behoeften en de context waar zij zich in bevinden.
-- maakt gebruik van de collectieve intelligentie van een groep.
-- faciliteert de ontwikkeling van strategieën die "goed genoeg voor nu zijn" en "veilig genoeg om te proberen".
-- bevordert accountability en een gevoel van betrokkenheid.
-- helpt zowel individuen als organisaties om te veranderen.
+S3 integreert kernbegrippen en werkwijzen uit agile methodologieën, lean management, Kanban (en KMM), Design Thinking, Teal Organisaties en de familie van op sociocratie gebaseerde governance-methoden (SCM/Dynamic Governance, Holacracy® etc.). Het is complementair aan en compatibel met elk agile of lean framework, inclusief Scrum en de verschillende frameworks om deze methode op te schalen.
 
-**Sociocratie 3.0 kan worden toegepast binnen:**
+**In deze praktische handleiding zal je het volgende vinden:**
 
-- start-ups
-- MKB's
-- grote, internationale, netwerkorganisaties
-- families
-- door beleggers gefinancierde organisaties
-- gemeenschappen
-- en meer…
+- Nuttige concepten die je helpen **jouw organisatie beter te begrijpen** en effectief te communiceren over waar verandering nodig is.
+- Een **organische, iteratieve benadering van verandering** die mensen ontmoet waar ze zijn en hen helpt stappen te maken in hun eigen tempo en afgestemd op hun unieke context en behoeften.
+- **Zeven kern principes** van agile en sociocratische samenwerking
+- Een samenhangende verzameling van **Meer dan 70 werkwijzen en richtlijnen** om je te helpen om te gaan met complexiteit en samenwerking te verbeteren: 
+    - **Eenvoudige, gefaciliteerde formats** die ervoor zorgen dat teams gebruik maken van de collectieve intelligentie van de groep en beschikbare informatie verwerken om stapsgewijs hun werk, processen, producten en diensten te blijven verbeteren.
+    - **Groepswerkwijzen** die organisaties helpen optimaal reeds aanwezig talent te benutten, door **mensen die elkaar steunen** bij het ontwikkelen van vaardigheden, eigenaarschap en betrokkenheid.
+    - Eenvoudige **tools om te verduidelijken wie wat doet **, mensen vrij te maken omzelf te besluiten en handelen, binnen duidelijk gedefinieerde kaders die ruimte geven om te experimenteren en ontwikkelen.
+    - Patronen voor het ontwikkelen van een flexibel, gedecentraliseerde netwerk, een **organisatiestructuur die verder gaat dan hiërarchie**, waar informatie en invloed daar ligt waar het direct steunend is aan de creatie van waarde.
+- Een **woordenlijst** met uitleg over alle termen waarmee je mogelijk niet bekend bent.
 
-### Inhoud van deze handleiding
+Deze praktische handleiding voor Sociocratie 3.0 is geschreven en gepubliceerd door de drie medeontwikkelaars van Sociocratie 3.0.
 
-- een klein beetje geschiedenis en een kort overzicht van enkele basisconcepten achter S3
-- een beschrijving van alle patronen in S3
-- een bijlage 
-    - changelog
-    - info over auteurs en dank aan
-    - de licentie
-    - de Intentionele Commitment voor Beoefenaars en Leraren van Sociocratie 3.0 (ICPT, uit het Engels)
-    - woordenlijst en index
+Trouw blijvend aan het gedachtegoed van S3, zal dit boek altijd in ontwikkeling blijven, dat groeit en verandert aan de hand van wat we leren van mensen die aan het experimenteren zijn met S3 in organisaties over de hele wereld. Sinds we vijf jaar geleden zijn begonnen, hebben we meerdere updates per jaar gepubliceerd en dat zullen we de komende jaren blijven doen.
+
+Hoewel verschillende secties in dit boek kort zijn en nog steeds wat ruw om de randen, de inhoud en uitleg waren voor veel mensen voldoende om met S3 te beginnen en positieve veranderingen in hun organisaties te bewerkstelligen. We hopen dat je er wat hebt.

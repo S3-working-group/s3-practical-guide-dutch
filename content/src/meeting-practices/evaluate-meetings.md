@@ -1,6 +1,8 @@
 ## Vergaderingen evalueren
 
-**Neem tijd om te leren aan het einde van elke vergadering of workshop.**
+<summary>
+<strong>Neem tijd om te leren aan het einde van elke vergadering of workshop.</strong>
+</summary>
 
 Reflecteer op interacties, vier successen en deel suggesties voor verbetering voor het sluiten van de vergadering.
 

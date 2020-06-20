@@ -1,6 +1,8 @@
 ## Open Domein
 
-**Bewust accountable zijn voor een domein op uitnodiging in plaats van in opdracht en nodig degenen die kunnen bijdragen uit om dit te doen wanneer zij kunnen.**
+<summary>
+<strong>Kies bewust voor de verantwoording voor een domein op uitnodiging, in plaats van opdracht en de genodigden om een bijdrage te leveren wanneer zij kunnen.</strong>
+</summary>
 
 De [delegator](glossary:delegator) van het open domein verduidelijkt:
 

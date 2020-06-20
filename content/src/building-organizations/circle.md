@@ -1,6 +1,8 @@
 ## Cirkel
 
+<summary>
 {{define:circle}}
+</summary>
 
 Een cirkel:
 

@@ -1,6 +1,8 @@
 ## Coördinatie Vergadering
 
-**Kom regelmatig bij elkaar (meestal wekelijks) om over werk te rapporten en het te coördineren tussen domeinen.**
+<summary>
+<strong>Kom regelmatig bij elkaar (meestal wekelijks) om werk tussen domeinen te bespreken en te coördineren.</strong>
+</summary>
 
 - faciliteer de vergadering ([timebox](glossary:timebox) gesprekken en gebruik rondes waar waardevol)
 - wanneer nuttig, stel een agenda voor de vergadering op en deel deze van te voren met deelnemers 
@@ -10,7 +12,7 @@
 Agenda items:
 
 - synchronisatie en afstemming tussen domeinen
-- prioritering en distributie van werk 
+- prioritering en distributie van werk
 - reageren op de belemmeringen
 
 ![Fases van een coördinatievergadering](img/meetings/coordination-meeting.png)

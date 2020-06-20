@@ -1,10 +1,12 @@
 ## Delegeren van invloed
 
-**Distribueer macht en invloed om het mogelijk te maken voor andere mensen om te besluiten en handelen binnen vooraf vastgestelde kaders.**
+<summary>
+<strong>Distribueer de macht om te beïnvloeden zodat iedereen zelf besluiten kan nemen en kan handelen binnen vooraf vastgestelde kaders.</strong>
+</summary>
 
 Een [delegator](glossary:delegator) kan [gedelegeerden](glossary:delegatee) ondersteunen om waarde te leveren door:
 
-- Duidelijk [domeinen](glossary:domain) van autonomie en accountability te definiëren
+- Verduidelijk [domeinen](glossary:domain) van autonomie en verantwoordelijkheid
 - Leer- en ontwikkelmogelijkheden te garanderen
 - Ondersteuning aan te bieden waar nodig
 

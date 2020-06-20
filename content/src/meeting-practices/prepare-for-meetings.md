@@ -1,6 +1,8 @@
 ## Voorbereiden voor Vergaderingen
 
-**Vooraf voorbereiden om de vergaderingen effectiever te maken.**
+<summary>
+<strong>Bereid vergaderingen voor om ze effectiever te maken.</strong>
+</summary>
 
 Enkele overwegingen voor het succesvol voorbereiden van een vergadering:
 

@@ -11,7 +11,7 @@ Evolueer de structuur van uw organisatie continu naar:
 
 De basisbouwstenen voor de organisatiestructuur zijn onderling afhankelijk, verbonden domeinen.
 
-Domeinen kunnen worden gekoppeld om een hiërarchie of een **heterarchy** (a.k.a. complex adaptief systeem, of netwerk, waar meerdere functionele structuren naast elkaar kunnen bestaan) te vormen.
+Domeinen kunnen worden gekoppeld om een hiërarchie of een **heterarchy** te vormen. Een heterarchie is een complex, adaptief systeem, of netwerk, waar meerdere functionele structuren naast elkaar kunnen bestaan.
 
 Sociocratie 3.0 beschrijft een verscheidenheid aan **structurele patronen** om een organisatiestructuur op te bouwen.
 

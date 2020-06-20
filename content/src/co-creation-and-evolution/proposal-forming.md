@@ -1,6 +1,8 @@
 ## Voorstel Vormen
 
-**Een (gefaciliteerd) groepsproces waarmee in co-creatie bedacht wordt hoe er het best op een driver gereageerd kan worden.**
+<summary>
+<strong>Een (gefaciliteerd) groepsproces waarmee in co-creatie bedacht wordt hoe er het best op een driver gereageerd kan worden.</strong>
+</summary>
 
 - maakt gebruik van de collectieve intelligentie en diversiteit aan perspectief binnen een groep
 - mensen betrekken bij het co-creeëren van afspraken

@@ -1,6 +1,8 @@
 ## Cirkel van Afgevaardigden
 
-**Delegeer het nemen van governance besluiten die invloed hebben op meerdere domeinen aan afgevaardigden die door deze domeinen zijn geselecteerd.**
+<summary>
+<strong>Delegeer het nemen van governance besluiten die invloed hebben op meerdere domeinen aan afgevaardigden die door deze domeinen zijn geselecteerd.</strong>
+</summary>
 
 Om [governance belsuiten](glossary:governance) te nemen namens hen, sturen stakeholders [afgevaardigden](section:representative) om een cirkel van afgevaardigden te vormen.
 

@@ -1,6 +1,8 @@
 ## Dagelijkse Standup
 
-**Ontmoet dagelijks om werk te organiseren, leren te vergemakkelijken en productiviteit en doeltreffendheid te verbeteren.**
+<summary>
+<strong>Ontmoet dagelijks om werk te organiseren, van elkaar te leren en de productiviteit en effectiviteit te verbeteren.</strong>
+</summary>
 
 - [Getimeboxed](glossary:timebox) (meestal 15 minuten)
 - dagelijks op hetzelfde moment

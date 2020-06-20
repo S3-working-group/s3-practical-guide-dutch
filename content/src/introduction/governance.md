@@ -18,7 +18,7 @@ Voor elk domein in een organisatie is er een *bestuursorgaan*: mensen met een ma
 
 Er zijn veel manieren om werk en governance te verdelen. Soms is het bestuursorgaan één persoon, bijvoorbeeld in het geval van een team lead, en soms is het een groep mensen, bijvoorbeeld in een cirkel waarin alle leden van de cirkel de verantwoordelijkheid voor governance delen binnen de kaders van het domein.
 
-**Governance besluiten** kaderen acties en sturen toekomstige beslissingen.
+**Governance besluiten** kaderen activiteiten en sturen toekomstige beslissingen.
 
 Dit omvat:
 

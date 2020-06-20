@@ -1,9 +1,41 @@
 ## Wijzigingen
 
+### Wijzigingen 2020-05-08
+
+- Alle illustraties herzien voor een meer consistente stijl en grotere leesbaarheid
+- herziene introductie: meer uitleg over patronen en kernbegrippen
+- woordenlijst bijgewerkt: herziene uitleg van [Delegator](glossary:delegator), [Delegatee](glossary:delegatee), [Rol](glossary:role) en [Patroon](glossary:pattern), toegevoegd [Rol Keeper](glossary:role-keeper)
+
+### Wijzigingen 2020-04-29
+
+- Inleiding: bezwaren *toegevoegd* en *Overeenkomst toegevoegd* aan concepten
+- patroon *bezwaren* hernoemd tot [Kwalificeer Bezwaren](section:arguments-qualify-as-objections) 
+- patroon *Overeenkomst* hernoemd tot [Overeenkomsten vastleggen](section:record-agreements)
+- [Bezwaren Kwalificeren](section:arguments-qualify-as-objections): herziene tekst en bijgewerkte illustratie
+- [Overeenkomsten vastleggen](section:record-agreements): herziene tekst, meer details toegevoegd van overeenkomsten die kunnen worden opgenomen, bijgewerkte illustratie
+
+### Wijzigingen 2019-12-22
+
+- nieuwe introductietekst toegevoegd
+- voegde "sociale technologie" toe aan de woordenlijst
+- website heeft nu aparte pagina's voor "Inleiding" en "Concepten en Principles"
+- ePub ziet er nu veel beter uit
+
+### Wijzigingen 2019-11-29
+
+- Principe van Transparantie: herziene beschrijving om duidelijk te maken dat waardevolle informatie moet worden opgenomen en vervolgens met iedereen in de organisatie moet worden gedeeld
+- Principe van Empirisme: verduidelijkt dat alleen die veronderstellingen waarvan je afhankelijk bent dat ze getest moeten worden
+
+### Wijzigingen 2019-06-27
+
+- *bezwaren*: verder verfijnde definitie van bezwaar, en aldus de woordenlijst term voor [bezwaar](glossary:objection) bijgewerkt
+- verving "actie" door activiteit op enkele plaatsen waar het zinvoller was
+- een paar typos gerepareerd
+
 ### Wijzigingen 2019-05-03
 
-- verfijnde glossary termen voor [overaankomst](glossary:agreement), [organisatie](glossary:organization) en [team](glossary:team), voegde woordenlijst term toe voor [Doelstelling](glossary:objective)
-- Prinses van Accountability: verduidelijkt de individuele accountablity voor het werk en voor samenwerking
+- verfijnde woordenlijst termen voor [overeenkomst](glossary:agreement), [organisatie](glossary:organization) en [team](glossary:team), voegde woordenlijst toe voor [doelstelling](glossary:objective)
+- Principe van Accountability: verduidelijkt de individuele accountability voor werk en voor samenwerking
 - [contract voor succesvolle samenwerking](section:contract-for-successful-collaboration): paste tekst aan
 - [op te leveren resultaten beschrijven](section:describe-deliverables): user stories toegevoegd als voorbeeld
 - [Dubbele-gelinkte Hiërarchie](section:double-linked-hierarchy): herziene samenvatting
@@ -26,7 +58,7 @@
 
 **Woordenlijst:**
 
-- [team toegevoegd](glossary:team) aan woordenlijst (en vervang groep met team gedurende de praktische gids waar van toepassing)
+- [team toegevoegd](glossary:team) aan woordenlijst (en vervang groep met team in de praktische gids waar van toepassing)
 - de definitie van [Op te leveren resultaten](glossary:deliverable) verbeterd
 - **driver statement** uit tekst en woordenlijst verwijder
 - de definities voor [governance](glossary:governance), [activiteiten](glossary:operations), en [zelforganisatie](glossary:self-organization) geupdate
@@ -34,12 +66,12 @@
 **Illustraties:**
 
 - aangepaste formats voor domein beschrijving en rolbeschrijving
-- illustraties voor [Koppelen](section:linking) en [Dubbele Koppeling](section:double-linking) bijgewerkt
+- illustraties voor [Linken](section:linking) en [Dubbele Link](section:double-linking) bijgewerkt
 
 **Wijzigingen aan patronen:**
 
 - [Overeenkomst](section:agreement): beschrijving vermeldt nu dat alle verwachtingen moeten worden geregistreerd
-- [Op te leveren resultaten beschrijven](section:describe-deliverables): verbeterde beschrijving
+- [Op te leveren producten beschrijven](section:describe-deliverables): verbeterde beschrijving
 - [Beschrijf Drivers van de organisatie](section:oescribe-organizational-drivers): meer informatie over het samenvattenvan drivers
 - [Bezwaren oplossen](section:resolve-objections): beide illustraties bijgewerkt
 
@@ -70,7 +102,7 @@
 **Wijzigingen aan patronen:**
 
 - [overeenstemmen over waarden](section:agree-on-values): verbeterde beschrijving
-- [Flow uitlijnen](section:align-flow): verbeterde beschrijving en illustratie
+- [Stroom uitlijnen](section:align-flow): verbeterde beschrijving en illustratie
 - [Patronen aanpassen aan de context](section:adapt-patterns-to-context): verbeterde beschrijving
 - [Overeenkomst](section:agreement): verbeterde beschrijving, bijgewerkt template
 - [Artful Participation](section:artful-participation): verbeterde samenvatting
@@ -111,7 +143,7 @@
 
 **Patronen hernoemd:**
 
-- *Overeenkomsten evalueren* naar *Overeenkomsten evalueren en evolueren*
+- *Overeenkomsten evalueren* naar *Overeenkomsten evalueren en doorontwikkelen*
 - *Beoogd resultaat* naar *Beoogde resultaten verduidelijken* 
 - *Open S3 Adoptie* naar *Open ruimte voor verandering*
 - *Contracting en accountability* naar *Contract voor succesvolle samenwerking*
@@ -123,17 +155,17 @@
 - [Voorbereiden van vergaderingen](section:prepare-for-meetings)
 - [Activiteiten timeboxen](section:timebox-activities)
 
-### Wijzigingen 2018-03-31
+### Changes 2018-03-21
 
 - patroon *Beschrijf Drivers* naar *Beschrijf drivers van de organisatie* hernoemd
-- [Beschrijf drivers van de organisatie](section:describe-organizational-drivers): de vier aspecten van een driver uitgelegd: de huidige situatie, de gevolgen van de situatie voor de organisatie, de behoefte van de organisatie in verband met deze situatie en de gevolgen van het feit dat zij zich bezighouden met het vervullen van de behoefte
+- [Beschrijf drivers van de organisatie](section:describe-organizational-drivers): de vier aspecten van een driver uitgelegd: de huidige situatie, de gevolgen van de situatie voor de organisatie, de behoefte van de organisatie in verband met deze situatie en de gevolgen van het vervullen van de behoefte
 - *behoefte* aan woordenlijst toegevoegd
 
 ### Wijzigingen 2017-11-16
 
 - kleine correcties
 - woordenlijst omschrijving van *Cirkel* en *Rol* afgestemd op de tekst bij het patroon
-- *Ontwikkelingsplan*: verduidelijking van verantwoordelijkheden
+- *Ontwikkelplan*: verduidelijking van verantwoordelijkheden
 - *Rol*: doorontwikkeling van de strategie verduidelijkt
 
 ### Wijzigingen 2017-11-10
@@ -194,7 +226,7 @@
 
 **Toegevoegde patronen:**
 
-- *Delegeren van invloed*
+- *Invloed Delegeren*
 - *Drivers Beschrijven*
 - *Open Domein*
 

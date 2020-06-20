@@ -1,6 +1,8 @@
 ## Open Systemen
 
-**Intentioneel communiceren met en leren van anderen buiten uw systeem.**
+<summary>
+<strong>Communiceer met en leer bewust van anderen buiten het eigen systeem.</strong>
+</summary>
 
 Individuen, teams en hele organisaties kunnen onderlinge afhankelijkheid erkennen en mensen van buiten hun systeem bewust uitnodigen om **kennis, ervaring en invloed te introduceren** om bij te dragen aan besluitvorming en collectief leren te ondersteunen.
 

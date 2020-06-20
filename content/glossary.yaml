@@ -1,4 +1,12 @@
 ---
+#this is the database for the glossary.
+#each entry has a key that is used to reference it in the source files
+#{define:driver}
+#and some translatable strings
+#- name: the name of the glossary entry
+#- definition: the definition of the term in the form "a **x** is …"
+#- glossary: glossary text for a term
+#- note: a note that will be added as a second paragraph to the glossary after the definition
 title: Woordenlijst
 continued: (...)
 terms:
@@ -19,7 +27,7 @@ terms:
   backlog:
     name: Backlog
     definition: Een **backlog** (naar-do-list) is een (geprioriteerde) lijst van werk gerelateerde items (deliverables), of (drivers) die nog moeten worden opgepakt.
-    glossary: Een (geprioriteerde) lijst van werk gerelateerde items (deliverables), of (drivers) die nog moeten worden opgepakt.
+    glossary: Een (vaak geprioriteerde) lijst met taken (deliverables), of drivers die nog moeten worden opgepakt.
   chosen-values:
     name: Gekozen waarden
     glossary: Een set van principes van een team (of een organisatie) die zij gezamenlijk hebben gekozen en aangenomen als richtlijnen voor gewenst gedrag in de samenwerking.
@@ -36,8 +44,8 @@ terms:
     glossary: Een omgeving waar onbekenden onbekend zijn, oorzaak en gevolg alleen achteraf begrepen kunnen worden, en acties tot onvoorspelbare veranderingen leiden. [Snowden en Boone]
   concern:
     name: Zorg
-    definition: Een **zorg** is een aanname dat iets doen (zelfs in de afwezigheid van bezwaren) **mogelijk** in de weg kan staan van een (meer) effectieve reactie op een organisatiedrijfveer.
-    glossary: Een aanname dat iets doen (zelfs in de afwezigheid van bezwaren) mogelijk in de weg kan staan van een (meer) effectieve reactie op een organisatiedrijfveer.
+    definition: Een **zorg** is een vermoeden - of mening - dat iets doen (zelfs in de afwezigheid van bezwaren) **mogelijk** in de weg zou kunnen staan van een (meer) effectieve reactie op een driver van de organisatie.
+    glossary: Een vermoeden - of mening - dat iets doen (zelfs in de afwezigheid van bezwaren) mogelijk in de weg zou kunnen staan van een (meer) effectieve reactie op een driver van de organisatie.
   consent:
     name: Instemming (beginsel)
     definition:
@@ -56,13 +64,14 @@ terms:
     glossary: Het proces dat het mogelijk maakt voor individuen of teams om effectief samen te werken over verschillende domeinen heen om zo gemeenschappelijke doelstellingen te bereiken.
   delegatee:
     name: Gedelegeerde
-    glossary: Een individu of groep die de aansprakelijkheid aanvaardt voor een domein dat aan hen is overgedragen.
+    glossary: Een individu of groep die de verantwoordelijkheid voor een aan hen gedelegeerd domein aanneemt en daarmee rolhouder of team wordt.
   delegation:
     name: Delegeren
+    definition: Delegeren is het verlenen van de autoriteit over een domein van de ene partij aan de andere.
     glossary: Het verlenen van gezag van de ene partij (de delegator) aan een andere (de gedelegeerde) om verantwoording te geven aan een domein, (dat wil zeggen bepaalde dingen te doen en/of bepaalde besluiten te nemen) waarvoor de delegator de algemene verantwoordelijkheid behoudt.
   delegator:
     name: Delegator
-    glossary: Een individu of groep die de verantwoording voor een domein overdragen aan (een) ander(en).
+    glossary: Een individu of groep die de verantwoordelijkheid voor een domein aan anderen delegeert.
   deliverable:
     name: Deliverable
     definition: Een **deliverable** is een product, service, component of materiaal dat is geleverd in reactie op een driver van de organisatie.
@@ -82,7 +91,7 @@ terms:
   empiricism:
     name: Empirisme (beginsel)
     definition:
-    glossary: Test alle veronderstellingen door te experimenteren en te reviseren.
+    glossary: Test alle aannames waar jij op steunt, door te experimenteren en te reviseren.
   equivalence:
     name: Gelijkwaardigheid (beginsel)
     definition:
@@ -120,6 +129,14 @@ terms:
     name: Behoefte
     definition: Een behoefte is het gebrek aan iets wat gewenst of noodzakelijk is (een vereiste).
     glossary: Het gebrek aan iets wat gewenst of noodzakelijk is (een vereiste).
+  objection:
+    name: Bezwaar
+    definition: Een **bezwaar** is een argument dat verduidelijkt hoe een (voorgestelde) overeenkomst of actie onbedoelde consequenties heeft die je liever wil vermijden of dat er nog aanzienlijke verbeteringen mogelijk zijn en er schade zit in het missen van waarde die voortkomt uit de verbetering.
+    glossary: Een argument dat verduidelijkt hoe een (voorgestelde) overeenkomst of actie onbedoelde consequenties heeft die je liever wil vermijden of dat er nog aanzienlijke verbeteringen mogelijk zijn en er schade zit in het missen van waarde die voortkomt uit de verbetering.
+  objective:
+    name: Doel
+    definition:
+    glossary: Een (specifiek) resultaat dat een persoon of team of organisatie wil bereiken; een streven of een doel.
   open-domain:
     name: Open Domein
     definition:
@@ -132,18 +149,6 @@ terms:
     name: Activiteiten backlog
     definition: Een **activiteiten backlog** is een zichtbare lijst van (meestal geprioriteerde) nog op te leveren werkitems (op te leveren resultaten).
     glossary: Een zichtbare lijst van (meestal geprioriteerde) nog op te leveren werkitems (op te leveren resultaten).
-  objection:
-    name: Bezwaar
-    definition: Een **bezwaar** is een reden waarom iets doen in de weg staat van een (meer) effectieve reactie op een driver van de organisatie (dat wil zeggen een vereiste van de organisatie).
-    glossary: Een _argument_ – gerelateerd aan een voorstel, besluit, bestaande overeenkomst of actie – die onbedoelde gevolgen of potentiële manieren om te verbeteren onthult.
-  peer-domain:
-    name: Domein op gelijk niveau
-    definition:
-    glossary: Twee domeinen bevinden zich binnen hetzelfde directe superdomein en kunnen overlappen.
-  objective:
-    name: Doel
-    definition:
-    glossary: Een (specifiek) resultaat dat een persoon of team of organisatie wil bereiken; een streven of een doel.
   organization:
     name: Organisatie
     definition:
@@ -151,11 +156,15 @@ terms:
   organizational-driver:
     name: Driver van de Organisatie
     definition:
-    glossary: Een driver is het motief van een persoon of groep om te reageren op een specifieke situatie. Een driver is een **driver van de organisatie** als een reactie op deze driver de organisatie zou helpen om waarde te genereren, verspilling te elimineren of schade te voorkomen.
+    glossary: Een driver is het motief van een persoon of groep om over te gaan tot actie in een specifieke situatie. Een driver is een **driver van de organisatie** wanneer het reageren hierop waarde oplevert voor de organisatie, of verspilling en schade voorkomt.
   pattern:
     name: Patroon
-    definition: Een **patroon** is een sjabloon om een specifieke context succesvol te navigeren.
-    glossary: Een sjabloon voor het succesvol navigeren van een specifieke context.
+    definition: Een **patroon** is als een sjabloon voor een proces, werkwijze of richtlijn die ingezet kan worden om succesvol te reageren op een specifiek soort uitdaging of kans.
+    glossary: Een sjabloon voor een proces, werkwijze of richtlijn die ingezet kan worden om succesvol te reageren op een specifiek soort uitdaging of kans.
+  peer-domain:
+    name: Domein op gelijk niveau
+    definition:
+    glossary: Twee domeinen bevinden zich binnen hetzelfde directe superdomein en kunnen overlappen.
   primary-driver:
     name: Primaire Driver
     definition:
@@ -167,7 +176,11 @@ terms:
   role:
     name: Rol
     definition:
-    glossary: Een domein dat is gedelegeerd aan een individu.
+    glossary: Iemand die verantwoordelijkheid neemt voor een domein en daarmee rolhouder wordt.
+  role-keeper:
+    name: Rolhouder
+    definition:
+    glossary: Een individu die de verantwoordelijkheid neemt voor een rol.
   scm:
     name: Sociocratische Kring-organisatie Methode (SKM)
     glossary: Een op sociocratisch principes gebaseerde egalitaire bestuursmethode voor organisaties, ontwikkeld door Gerard Endenburg in Nederland.
@@ -183,6 +196,10 @@ terms:
     name: Semi-autonomie
     definition:
     glossary: De autonomie van mensen om waarde te creëren binnen hun domein, verder beperkt door hun eigen governance besluiten en bezwaren (waaronder die van de delegator en van vertegenwoordigers).
+  social-technology:
+    name: Sociale technologie
+    definition: Elk proces, techniek, methode, vaardigheid of elke andere benadering die mensen kunnen gebruiken om sociale systemen — organisaties, verenigingen, gemeenschappen enz. – te beïnvloeden en daardoor gezamenlijke doelstellingen te bereiken en zinvolle interactie en uitwisseling te bevorderen.
+    glossary: Sociale technologieën zijn alle processen, technieken, methoden, vaardigheden en andere benaderingen die mensen kunnen gebruiken om sociale systemen — organisaties, verenigingen, gemeenschappen enz. – te beïnvloeden om gezamenlijke doelstellingen te bereiken en zinvolle interactie en uitwisseling te bevorderen.
   sociocracy:
     name: Sociocratie
     glossary: Een denkwijze waarbij mensen die door besluiten worden getroffen, deze kunnen beïnvloeden op basis van redenen om dat te doen.
@@ -221,7 +238,7 @@ terms:
   transparency:
     name: Transparantie (beginsel)
     definition:
-    glossary: Alle informatie toegankelijk maken voor iedereen in een organisatie, tenzij er een goede reden is om dit niet te doen.
+    glossary: Bewaar alle informatie die van waarde is voor de organisatie en maak deze voor iedereen toegankelijk, tenzij er een goede reden is voor vertrouwelijkheid.
   value:
     name: Waarde
     definition: "**Waarde** is het belang of nut van iets in relatie tot de driver."
@@ -232,5 +249,5 @@ terms:
     glossary: "Waardevolle principes die dienen als richtlijnen voor gewenst gedrag. Niet te verwarren met waarde (enkelvoud) in de context van een driver."
   waste:
     name: Verspilling
-    definition: "**Verspilling** is alles dat onnodig is of in de weg staat om op een (meer) effectieve manier te reageren op de driver."
-    glossary: Alles dat onnodig is of in de weg staat om op een (meer) effectieve manier te reageren op de driver.
+    definition: "**Verspilling** is alles dat overbodig is of belemmerend voor een (meer) effectieve reactie op de driver."
+    glossary: Alles dat overbodig is of belemmerend voor een (meer) effectieve reactie op de driver.

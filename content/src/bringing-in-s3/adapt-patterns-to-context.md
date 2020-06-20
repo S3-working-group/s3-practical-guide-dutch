@@ -1,6 +1,8 @@
 ## Patronen Aanpassen aan de Context
 
-**Pas S3 patronen aan en ontwikkel deze om beter aan te sluiten bij jouw specifieke context.**
+<summary>
+<strong>Pas S3 patronen aan en ontwikkel deze om beter aan te sluiten bij jouw specifieke context.</strong>
+</summary>
 
 Zorg ervoor dat iedereen die wordt geraakt:
 

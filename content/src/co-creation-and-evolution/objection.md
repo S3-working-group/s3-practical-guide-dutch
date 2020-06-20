@@ -18,9 +18,9 @@ Bij het zoeken naar potentiële bezwaren, overweeg:
 - waarom het verspilling zou zijn om door te gaan zoals voorgesteld (of eerder overeengekomen): **efficientie**
 - de negatieve gevolgen van iets op andere plekken (in hetzelfde [domein](glossary:domain), in de bredere organisatie of daarbuiten): **bijwerkingen**
 
-De informatie die door bezwaren wordt onthuld, kan worden gebruikt om te verbeteren:
+De informatie die door bezwaren wordt onthuld, kan worden gebruikt om volgende zaken te verbeteren:
 
-- huidige en geplande actie
+- huidige en geplande acties
 - hoe mensen besluiten uitvoeren
 - bestaande overeenkomsten
 - voorstellen
@@ -32,7 +32,7 @@ Niet alle argumenten zijn ook bezwaren. Maak onderscheid tussen bezwaren, die al
 
 Om te ontdekken of een argument als bezwaar wordt aangemerkt, zou een facilitator in een groepscontext kunnen vragen:
 
-*"Denken jullie dat dit argument gekwalificeerd is als een bezwaar?"*
+*"Kwalificeren jullie dit argument als een bezwaar?"*
 
 Als niemand het met het argument oneens is, is een bezwaar doorgaans in aanmerking genomen. Anders wil men het werkelijke bezwaar ontdekken of misverstanden blootleggen.
 
@@ -46,7 +46,7 @@ Enkele nuttige vragen:
     - nu verbeterd kan worden?
     - iemands bijdrage aan het reageren op een driver voorkomt of vermindert?
     - in strijd is met de waarden van de organisatie?
-    - gezien wordt als niet “veilig genoeg” om te proberen?
+    - wordt gezien als niet 'veilig genoeg' om te proberen?
 
 ### Zorgen
 

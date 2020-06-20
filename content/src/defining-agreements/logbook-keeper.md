@@ -1,6 +1,8 @@
 ## Logboekhouder
 
-**Selecteer een lid van het team die specifiek verantwoordelijk is voor het bijhouden van alle informatie die het team nodig heeft.**
+<summary>
+<strong>Selecteer iemand uit het team om specifiek verantwoordelijk te zijn is voor het bijhouden van alle informatie die het team nodig heeft.</strong>
+</summary>
 
 De logboekhouder is verantwoordelijk voor het onderhouden van het [logboek](glossary:logbook) van een team door:
 

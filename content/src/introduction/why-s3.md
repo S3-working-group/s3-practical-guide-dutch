@@ -24,10 +24,10 @@ Het helpt ook om te voorkomen dat er wordt gedacht dat we een verkeerde voorstel
 
 *Sociocratie 3.0* gebruikt een niet-gecentraliseerd distributiemodel. Dit is een paradigmawisseling in de manier waarop sociocratie naar mensen en organisaties wordt gebracht, en waar veel mensen zich aan kunnen relateren.
 
-We ondersteunen "virale" distributie door twee hoofdstrategieën:
+Wij ondersteunen "virale" distributie via twee belangrijke strategieën:
 
 * **Sociocratie 3.0 is open:** Wij willen de groei van een levendig ecosysteem van manieren om het toe te passen en verschillende samen van Sociocratie bevorderen, waar mensen hun inzichten en de aanpassingen die ze maken voor hun specifieke context delen en bespreken. Om deze reden benadrukt Sociocratie 3.0 het belang van de onderliggende principes en nodigt expliciet uit tot creativiteit bij het vervoegen, aanpassen en veranderen ervan om beter aan te sluiten bij hun behoeften.
-* **Sociocratie 3.0 is gratis:** Om de grens voor mensen en organisaties zo laag mogelijk te houden, bieden we gratis middelen aan onder een *Creative Commons Free Culture License* om *Sociocratie 3.0*te leren, gebruiken en overbrengen. Iedereen kan onze middelen gebruiken zonder onze uitdrukkelijke toestemming, zelfs in een commerciële context, of als basis voor het bouwen van zijn eigen bronnen [^zolang hij zijn nieuwe bronnen onder dezelfde licentie deelt]. Wij moedigen andere organisaties, adviseurs, coaches, leer facilitatoren en trainers aan ons voorbeeld te volgen en hun middelen ook vrij te maken.
+* **Sociocratie 3.0 is gratis:** Om de grens voor mensen en organisaties zo laag mogelijk te houden, bieden we gratis middelen aan onder een *Creative Commons Free Culture License* om *Sociocratie 3.0*te leren, gebruiken en overbrengen. Iedereen kan onze materialen gebruiken zonder onze uitdrukkelijke toestemming, zelfs in een commerciële context, of als basis om eigen materialen te ontwikkelen, zolang deze nieuwe bronnen onder dezelfde licentie worden gedeeld. Wij verwachten van en moedigen andere organisaties, adviseurs, coaches, leer facilitatoren en trainers aan ons voorbeeld te volgen en hun materialen ook vrij beschikbaar te maken.
 
 ### De Evolutie van de Sociocratische Kring Organisatie Methode
 
@@ -49,7 +49,7 @@ In *Sociocratie 3.0*, is het doel impliciet in alle gevallen – om waarde te st
 
 Als je naar de normen kijkt, kan de *Sociocratische Kring Organisatie Methode* er groot en angstig uitzien. Door alleen op de essentiële punten te focussen, biedt *Sociocratie 3.0* een lichtgewicht kader om aan te passen en zo nodig op voort te bouwen.
 
-Dit betekent niet dat het allemaal makkelijk is: kiezen om *Sociocratie 3.0* patronen te naar binnen te trekken vereist een investering in aanleren en afleren. Daarom is het belangrijk om alleen te pakken wat je nodig hebt, want het heeft geen zin om dingen te veranderen die al goed gaan.
+Dit betekent niet dat het allemaal makkelijk is: kiezen om patronen uit *Sociocratie 3.0* toe te passen vereist een investering in aanleren en afleren. Daarom is het belangrijk om alleen te pakken wat je nodig hebt. Het heeft heeft geen zin om dingen te veranderen, wanneer wat je nu doet al goed gaat.
 
 #### Integratie met Agile en Lean denken
 
@@ -59,4 +59,4 @@ De *Sociocratische Kring Organisatie Methode* is een "lege" methode als het gaat
 
 De organisatiestructuur volgens de *Sociocratische Kring Organisatie Methode* is gemodelleerd naar een hiërarchie van domeinen. We zien een toenemende opkomst van gemeenschappelijke multi-stakeholder omgevingen en de noodzaak van een bredere verscheidenheid aan patronen voor een organisatiestructuur. De evolutie van de organisatiestructuur gebeurt natuurlijk wanneer de stroom van informatie en invloed in een organisatie geleidelijk aan op de waardestroom wordt afgestemd. *Sociocratie 3.0* biedt een verscheidenheid aan structurele patronen die kunnen worden gecombineerd om op flexibele wijze de nodige structuur te ontwikkelen.
 
-*James Priest, Bernhard Bockelbrink, Liliana David*
+<!-- split here -->

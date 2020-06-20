@@ -1,6 +1,8 @@
 ## Activiteiten timeboxen
 
-**Stel een tijdsbeperking in om focus te behouden, wees bewust van de tijd die je hebt en hoe je het gebruikt.**
+<summary>
+<strong>Bepaal hoeveel tijd je ergens voor neemt, zodat je focus kunt behouden en bewust omgaat met de tijd die je hebt.</strong>
+</summary>
 
 {{define:timebox}}
 

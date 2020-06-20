@@ -1,6 +1,8 @@
 ## Logboek
 
-**Onderhoud een coherent en toegankelijk systeem, waar alle benodigde informatie in terug te vinden is.**
+<summary>
+<strong>Zorg voor een samenhangend en toegankelijk systeem waarin alle informatie wordt opgeslagen die nodig is om goed samen te kunnen werken. </strong>
+</summary>
 
 Een logboek is een (digitaal) systeem om alle informatie op te slaan die relevant is voor het functioneren van een organisatie en zijn teams. Het logboek is toegankelijk voor alle leden van een organisatie en informatie wordt alleen vertrouwelijk gehouden als er goede redenen zijn om dat te doen.
 

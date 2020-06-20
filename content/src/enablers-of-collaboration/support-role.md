@@ -1,8 +1,10 @@
 ## Ondersteunende rol
 
-**Dit rolpatroon is van toepassing op externe contractanten.**
+<summary>
+<strong>Dit rolpatroon is van toepassing op externe contractanten.</strong>
+</summary>
 
-- verhelderen en beschrijf de [driver](glossary:organizational-driver) voor de [rol](section:role)
+- verhelder en beschrijf de [driver](glossary:organizational-driver) voor de [rol](section:role)
 - maak een [domeinbeschrijving](section:clarify-domains)
 - indien waardevol, voer een selectieproces uit
 - beperk de looptijd van het contract

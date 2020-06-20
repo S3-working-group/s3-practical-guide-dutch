@@ -1,6 +1,8 @@
 ## Visualiseer Werk
 
-**Onderhoud een systeem dat alle belanghebbenden in staat stelt om de stand van zaken van alle lopende, lopende of voltooide werkitems in te zien.**
+<summary>
+<strong>Gebruik een systeem dat alle stakeholders in staat stelt om de stand van zaken van alle wachtende, lopende en voltooide werkitems in te zien.</strong>
+</summary>
 
 - waardevol voor [zelforganisatie](glossary:self-organization) en systemen van binnentrekken van werk
 - systeem moet toegankelijk zijn voor iedereen die geraakt wordt

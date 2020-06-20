@@ -1,6 +1,8 @@
 ## Vertegenwoordiger
 
-**Selecteer een teamlid om deel te nemen aan de governance van een ander team om de stroom van informatie en invloed mogelijk te maken.**
+<summary>
+<strong>Selecteer een teamlid om deel te nemen aan de governance van een ander team om ervoor te zorgen dat informatie en invloed tussen beiden blijft stromen.</strong>
+</summary>
 
 Vertegenwoordigers (a.k.a. links):
 

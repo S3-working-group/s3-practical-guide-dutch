@@ -1,6 +1,8 @@
 ## Voorstellen co-creëren
 
-**Breng mensen samen om voorstellen te co-creëren in reactie op drivers van de organisatie: maak gebruik van de collectieve intelligentie, vergroot het gevoel van eigenaarschap en betrokkenheid en accountability.**
+<summary>
+<strong>Breng mensen samen om voorstellen te co-creëren over hoe te reageren op drivers van de organisatie: maak gebruik van de collectieve intelligentie, vergroot het gevoel van eigenaarschap, verantwoordelijkheid en betrokkenheid.</strong>
+</summary>
 
 Er zijn veel manieren om voorstellen te co-creëren. Ze volgen meestal een soortgelijk patroon:
 

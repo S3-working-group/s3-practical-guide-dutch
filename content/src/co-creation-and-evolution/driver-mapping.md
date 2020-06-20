@@ -4,6 +4,6 @@ Een workshop format om een effectieve manier te vinden om om te gaan met een com
 
 Een (kleine of grote) groep identificeert en clustert [drivers](glossary:driver), om ze vervolgens snel van concept om te zetten naar actie in kleinere, zelforganiserende teams.
 
-![Driver Mapping: Proces](img/facilitation-guides/driver-mapping-fg-print.png)
+![Driver Mapping: Proces](img/process/driver-mapping.png)
 
 ![Driver Mapping: Template voor domeinen](img/templates/domain-template.png)

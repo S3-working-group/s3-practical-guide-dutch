@@ -1,17 +1,16 @@
 msgid ""
 msgstr ""
-"(…)\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: crowdin.com\n"
 "X-Crowdin-Project: sociocracy-30\n"
+"X-Crowdin-Project-ID: 88253\n"
 "X-Crowdin-Language: nl\n"
 "X-Crowdin-File: localization.pot\n"
+"X-Crowdin-File-ID: 947\n"
 "Project-Id-Version: sociocracy-30\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Last-Translator: sociocracy30\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2019-05-12 11:29\n"
+"PO-Revision-Date: 2020-06-20 11:29\n"
 
 # continuation marker for follow-up slides
 msgid "(…)"
@@ -25,13 +24,29 @@ msgstr "Patronen"
 msgid "Pattern"
 msgstr "Patroon"
 
-# site title for practical guide microsite and ebook
-msgid "Sociocracy 3.0 - A Practical Guide"
-msgstr "Sociocratie 3.0 - Een praktische gids"
+# site title for practical guide microsite
+msgid "A Practical Guide to Sociocracy 3.0"
+msgstr "Een praktische gids voor Sociocratie 3.0"
+
+# title for ebook
+msgid "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0"
+msgstr "Een Praktische gids om geleidelijk te bouwen aan de ontwikkeling van Agile en veerkrachtige organisaties met Sociocratie 3.0"
+
+# subtitle for ebook
+msgid "70+ Powerful Practices to Help You and Your Organization Thrive"
+msgstr "70+ Krachtige gebruiken om jou en jouw organisatie te laten floreren"
+
+# SE 2019
+msgid "Supporter Edition 2019"
+msgstr "Supporters Editie 2019"
 
 # site descriptions for practical guide microsite
-msgid "The official description of Sociocracy 3.0 — All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
-msgstr "De officiële beschrijving van Sociocratie 3.0 – Alle patronen, de zeven principes en kernbegrippen. Onderhouden door Bernhard Bockelbrink, James Priest en Liliana David."
+msgid "The official description of Sociocracy 3.0 - All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
+msgstr "De officiële beschrijving van Sociocratie 3.0 - Alle patronen, de zeven principes en kernbegrippen. Bijgehouden door Bernhard Bockelbrink, James Priest en Liliana David."
+
+# Headline for page "Concepts and Principles" in website
+msgid "Concepts and Principles"
+msgstr "Concepten en principes"
 
 # Headline for Section "Introduction" (e.g. in ebook)
 msgid "Introduction"

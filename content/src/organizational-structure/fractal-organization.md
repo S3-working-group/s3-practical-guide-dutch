@@ -1,6 +1,8 @@
 ## Fractale organisatie
 
-**Meerdere entiteiten (organisaties of projecten) met een gemeenschappelijke (of vergelijkbare) primaire driver en structuur die lessen kunnen delen over functionele domeinen, actie op één lijn te brengen en besluiten op hoog niveau te nemen (bijv. algemene strategie)**.
+<summary>
+<strong><strong>Meerdere entiteiten (organisaties of projecten) met een gemeenschappelijke (of vergelijkbare) primaire driver en structuur kunnen als functionele domeinen van elkaar leren, acties afstemmen en hoog over besluiten nemen (bijv. algemene strategie)</strong>.</strong>
+</summary>
 
 Een fractale organisatie kan een groot netwerk inschakelen om snel te reageren op veranderende contexten.
 

@@ -1,8 +1,10 @@
 ## Bezwaren Oplossen
 
-**Los bezwaren één voor één op door de informatie die zij bevatten te gebruiken om voorstellen aan te passen.**
+<summary>
+<strong>Los bezwaren één voor één op door de informatie die zij bevatten te gebruiken om voorstellen aan te passen en door te ontwikkelen.</strong>
+</summary>
 
-Kies de meest veelbelovende optie om [bezwaren](glossary:objection) op te lossen en kies, als dat niet lukt, een andere. Elke poging zal helpen om meer informatie te krijgen over de inhoud van het bezwaar en een fractie dichter bij de aanpassing van het voorstel brengen die het bezwaar oplost.
+Kies de meest veelbelovende optie om [bezwaren](glossary:objection) op te lossen en kies als dat niet lukt simpelweg een andere. Elke poging zal helpen om meer informatie te krijgen over de inhoud van het bezwaar en een fractie dichter bij de aanpassing van het voorstel brengen die het bezwaar oplost.
 
 Vaak is het handig om te beginnen bij de persoon die het bezwaar uitte wanneer er wordt gezocht naar een aanpassing van het voorstel.
 

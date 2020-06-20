@@ -1,6 +1,8 @@
 ## Artful participation
 
-**Committeer je aan het leveren van jouw beste bijdrage aan de effectiviteit van de samenwerking.**
+<summary>
+<strong>Zet je in om je best te doen om je te gedragen en te communiceren op een manier die bevorderend is voor een effectieve samenwerking.</strong>
+</summary>
 
 *"Is mijn gedrag op dit moment de beste bijdrage die ik kan leveren aan de effectiviteit van deze samenwerking?"*
 

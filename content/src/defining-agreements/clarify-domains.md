@@ -1,6 +1,8 @@
 ## Domeinen verduidelijken
 
-**Helder begrip van tot waar iemands accountability en autonomie reikt, leidt tot verbeterde efficiëntie, effectieve samenwerking en meer wendbaarheid binnen de hele organisatie.**
+<summary>
+<strong>Helder begrip van tot waar iemands verantwoordelijkheid en autonomie reikt, leidt tot meer efficiëntie, effectieve samenwerking en wendbaarheid binnen de hele organisatie.</strong>
+</summary>
 
 Een eenvoudige manier om [domeinen](glossary:domain) te verduidelijken is door gebruik te maken van een **domeinnaam beschrijving**:
 

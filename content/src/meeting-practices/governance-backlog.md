@@ -1,6 +1,8 @@
 ## Governance backlog
 
+<summary>
 {{define:governance-backlog}}
+</summary>
 
 Een governance backlog bevat:
 

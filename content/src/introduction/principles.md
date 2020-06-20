@@ -1,8 +1,8 @@
 ### De zeven principes
 
-Sociocratie is gebouwd op zeven principes die de organisatiecultuur vormgeven. Aangezien de zeven principes in alle patronen aanwezig zijn, is het van belang om deze te begrijpen om Sociocratie 3.0 patronen toe te passen en aan te passen.
+Sociocratie is gebouwd op zeven principes die de organisatiecultuur vormgeven. Omdat de zeven principes terug te vinden zijn in ieder patroon, helpt het om deze te begrijpen wanneer je de patronen gaat toepassen. Het is noodzakelijk deze te begrijpen wanneer je de patronen gaat aanpassen.
 
-Het beoefenen van S3 helpt mensen om deze essentiële waardes te waarderen, voor zowel individuen als organisaties.
+Het beoefenen van Sociocratie 3.0 helpt mensen om de toegevoegde waarde van deze kernprincipes, voor individuen en organisaties te erkennen en waarderen. Dit bevordert ook het integreren van deze principes in de cultuur van de organisatie.
 
 ![De zeven principes](img/framework/s3-principles-plain.png)
 
@@ -19,15 +19,3 @@ Het beoefenen van S3 helpt mensen om deze essentiële waardes te waarderen, voor
 **Transparantie:** *{{glossary:transparency}}*
 
 **Accountability:** *{{glossary:accountability}}*
-
-#### Het principe van Accountability
-
-*{{glossary:accountability}}*
-
-Handel binnen de kaders van elke overeenkomst van toepassing op het domein waar jij de verantwoording voor draagt, inclusief die organisatie als geheel, teams waar jij bij hoort en rollen die jij invult.
-
-Elk lid van de organisatie is verantwoordelijk voor een effectieve reactie op drivers van de organisatie, zowel in het uitvoeren van werk als in het mogelijk maken van een effectieve samenwerking.
-
-Individuen zijn ook verantwoordelijk voor hun werk, voor permanent blijven leren en ontwikkelen en voor het ondersteunen van elkaar.
-
-Iedereen in een organisatie is verantwoordelijk voor de overeenstemming van acties op de waarden van de organisatie.

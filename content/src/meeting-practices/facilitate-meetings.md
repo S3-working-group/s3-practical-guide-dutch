@@ -1,6 +1,8 @@
 ## Vergaderingen faciliteren
 
-**Kies iemand om de vergadering te faciliteren en de groep te helpen focus te behouden, binnen de planning te blijven en creativiteit en wijsheid te ontlokken.**
+<summary>
+<strong>Kies iemand om de vergadering te faciliteren en de groep te helpen focus te behouden, binnen de planning te blijven en creativiteit en wijsheid te ontlokken.</strong>
+</summary>
 
 Stel een agenda op voorafgaand aan elke vergadering en selecteer een facilitator om:
 

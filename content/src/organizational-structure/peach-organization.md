@@ -1,6 +1,8 @@
 ## Perzik Organisatie
 
-**Lever waarde in complexe en concurrerende omgevingen via **decentralisatie** (van resources en invloed) en **directe interactie** tussen de makers van waarde en de klanten die ze dienen.**
+<summary>
+<strong>Lever waarde in complexe en concurrerende omgevingen door <em>decentralisatie</em> (van middelen en invloed) en <em>directe interactie</em> tussen degenen die waarde creëren en de klanten die ze dienen.</strong>
+</summary>
 
 Teams in de periferie:
 

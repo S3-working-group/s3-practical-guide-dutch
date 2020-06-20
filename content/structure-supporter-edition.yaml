@@ -1,98 +1,98 @@
 ---
-section-prefix: ' Patroon %(chapter)s.%(section)s:'
+section-prefix: ' Pattern %(chapter)s.%(section)s:'
 content:
   title: title
   end: SKIP
   introduction:
-    title: Introductie
+    title: Introduction
     slug: introduction
     sections:
       - 
-        title: S3 Overzicht
+        title: Note for Supporter Edition
+        slug: note-for-supporter-edition
+      - 
+        title: S3 Overview
         slug: s3-overview
       - 
-        title: Geschiedenis
+        title: History
         slug: history
       - 
-        title: Waarom Sociocratie 3.0?
+        title: Why Sociocracy 3.0?
         slug: why-s3
       - 
-        title: Patronen en de zeven principes
-        slug: patronen-en-principes
+        title: Patterns and the Seven Principles
+        slug: patterns-and-principles
       - 
-        title: Patronen
+        title: Patterns
         slug: patterns
       - 
-        title: Principes
+        title: Principles
         slug: principles
       - 
-        title: Principe van Accountability
-        slug: principle-accountability
-      - 
-        title: Sleutelconcepten om inzicht te krijgen in organisaties
+        title: Key Concepts for Making Sense of Organizations
         slug: making-sense-of-organizations
       - 
         title: Drivers
         slug: driver
       - 
-        title: Domeinen
+        title: Domains
         slug: domain
       - 
-        title: Bezwaren
-        slug: bezwaar
+        title: Objections
+        slug: objection
       - 
-        title: Overeenkomsten
+        title: Agreements
         slug: agreement
       - 
         title: Governance
         slug: governance
   chapters:
     - 
-      title: Co-Creatie en Evolutie
+      title: Co-Creation And Evolution
       slug: co-creation-and-evolution
       sections:
         - 
-          title: Reageren op Drivers van de organisatie
+          title: Respond To Organizational Drivers
           slug: respond-to-organizational-drivers
         - 
-          title: Navigeren via spanning
+          title: Navigate Via Tension
           slug: navigate-via-tension
         - 
-          title: Drivers van de Organisatie Beschrijven
+          title: Describe Organizational Drivers
           slug: describe-organizational-drivers
         - 
-          title: Consent Besluitvorming
+          title: Consent Decision Making
           slug: consent-decision-making
         - 
-          title: Argumenten kwalificeren als bezwaren
-          slug: argumenten-kwalificeren-als-bezwaren
+          title: Test Arguments Qualify as Objections
+          slug: test-arguments-qualify-as-objections
         - 
-          title: Bezwaren Oplossen
+          title: Resolve Objections
           slug: resolve-objections
         - 
-          title: Overeenkomsten evalueren en doorontwikkelen
+          title: Evaluate And Evolve Agreements
           slug: evaluate-and-evolve-agreements
         - 
-          title: Degenen die Geraakt Worden Besluiten
+          title: Those Affected Decide
           slug: those-affected-decide
         - 
-          title: Voorstellen co-creëren
+          title: Co-Create Proposals
           slug: co-create-proposals
         - 
-          title: Voorstel Vormen
+          title: Proposal Forming
           slug: proposal-forming
         - 
-          title: Rol Selectie
+          title: Role Selection
           slug: role-selection
         - 
           title: Driver Mapping
           slug: driver-mapping
     - 
-      title: Gezamenlijke ontwikkeling
+      title: Peer Development
       slug: peer-development
       sections:
         - 
-          title: Vraag om hulp
+          title: Ask For Help
           slug: ask-for-help
         - 
           title: Peer Feedback
@@ -101,237 +101,234 @@ content:
           title: Peer Review
           slug: peer-review
         - 
-          title: Ontwikkelplan
+          title: Development Plan
           slug: development-plan
     - 
-      title: Zaken die Co-creatie mogelijk maken
+      title: Enablers Of Collaboration
       slug: enablers-of-collaboration
       sections:
         - 
-          title: Artful participation
+          title: Artful Participation
           slug: artful-participation
         - 
-          title: De Zeven Principes Aannemen
+          title: Adopt The Seven Principles
           slug: adopt-the-seven-principles
         - 
-          title: Waarden Vaststellen
+          title: Agree On Values
           slug: agree-on-values
         - 
-          title: Governance facilitator
+          title: Governance Facilitator
           slug: governance-facilitator
         - 
-          title: Overeenkomsten breken
+          title: Breaking Agreements
           slug: breaking-agreements
         - 
-          title: Contract voor succesvolle samenwerking
+          title: Contract For Successful Collaboration
           slug: contract-for-successful-collaboration
         - 
-          title: Transparant Salaris
+          title: Transparent Salary
           slug: transparent-salary
         - 
-          title: Ondersteunende rol
+          title: Support Role
           slug: support-role
         - 
-          title: Statuten
+          title: Bylaws
           slug: bylaws
     - 
-      title: Organisaties Opbouwen
+      title: Building Organizations
       slug: building-organizations
       sections:
         - 
-          title: Delegeren van invloed
+          title: Delegate Influence
           slug: delegate-influence
         - 
-          title: Cirkel
+          title: Circle
           slug: circle
         - 
-          title: Rol
+          title: Role
           slug: role
         - 
-          title: Koppelen
+          title: Linking
           slug: linking
         - 
-          title: Dubbele Koppeling
+          title: Double Linking
           slug: double-linking
         - 
-          title: Vertegenwoordiger
+          title: Representative
           slug: representative
         - 
-          title: Hulpteam
+          title: Helping Team
           slug: helping-team
         - 
-          title: Open Domein
+          title: Open Domain
           slug: open-domain
         - 
-          title: Open Systemen
+          title: Open Systems
           slug: open-systems
     - 
-      title: S3 binnen brengen
+      title: Bringing In S3
       slug: bringing-in-s3
       sections:
         - 
-          title: Patronen Aanpassen aan de Context
+          title: Adapt Patterns To Context
           slug: adapt-patterns-to-context
         - 
-          title: Ontwikkel een Pull-systeem voor Verandering in de Organisatie
+          title: Create A Pull-System For Organizational Change
           slug: create-a-pull-system-for-organizational-change
         - 
-          title: Wees De Verandering
+          title: Be The Change
           slug: be-the-change
         - 
-          title: Nodig Verandering uit
+          title: Invite Change
           slug: invite-change
         - 
-          title: Open ruimte voor Verandering
+          title: Open Space For Change
           slug: open-space-for-change
         - 
-          title: Continue Verbetering van het Werkproces
+          title: Continuous Improvement Of Work Process
           slug: continuous-improvement-of-work-process
     - 
-      title: Overeenkomsten Definiëren
+      title: Defining Agreements
       slug: defining-agreements
       sections:
         - 
-          title: Overeenkomsten vastleggen
+          title: Record Agreements
           slug: record-agreements
         - 
-          title: Strategie Ontwikkelen
+          title: Develop Strategy
           slug: develop-strategy
         - 
-          title: Domeinen Verduidelijken
+          title: Clarify Domains
           slug: clarify-domains
         - 
-          title: Verduidelijk de Beoogde Resultaten
+          title: Clarify Intended Outcome
           slug: clarify-intended-outcome
         - 
-          title: Op te Leveren Resultaten Beschrijven
+          title: Describe Deliverables
           slug: describe-deliverables
         - 
-          title: Evaluatiecriteria
+          title: Evaluation Criteria
           slug: evaluation-criteria
         - 
-          title: Logboek
+          title: Logbook
           slug: logbook
         - 
-          title: Logboekhouder
+          title: Logbook Keeper
           slug: logbook-keeper
     - 
-      title: Gerichte Interacties
+      title: Focused Interactions
       slug: focused-interactions
       sections:
         - 
-          title: Governance Vergadering
+          title: Governance Meeting
           slug: governance-meeting
         - 
           title: Retrospective
           slug: retrospective
         - 
-          title: Dagelijkse Standup
+          title: Daily Standup
           slug: daily-standup
         - 
-          title: Planning en Review Vergaderingen
+          title: Planning And Review Meetings
           slug: planning-and-review-meetings
         - 
-          title: Coördinatie Vergadering
+          title: Coordination Meeting
           slug: coordination-meeting
     - 
-      title: Vergaderwerkwijzen
+      title: Meeting Practices
       slug: meeting-practices
       sections:
         - 
-          title: Rondes
+          title: Rounds
           slug: rounds
         - 
-          title: Faciliteer Vergaderingen
+          title: Facilitate Meetings
           slug: facilitate-meetings
         - 
-          title: Voorbereiden voor Vergaderingen
+          title: Prepare For Meetings
           slug: prepare-for-meetings
         - 
-          title: Check in
+          title: Check In
           slug: check-in
         - 
-          title: Vergaderingen Evalueren
+          title: Evaluate Meetings
           slug: evaluate-meetings
         - 
-          title: Host van de Vergadering
+          title: Meeting Host
           slug: meeting-host
         - 
           title: Governance Backlog
           slug: governance-backlog
     - 
-      title: Werk Organiseren
+      title: Organizing Work
       slug: organizing-work
       sections:
         - 
           title: Backlog
           slug: backlog
         - 
-          title: Prioriteer backlogs
+          title: Prioritize Backlogs
           slug: prioritize-backlogs
         - 
-          title: Werk Visualiseren
+          title: Visualize Work
           slug: visualize-work
         - 
-          title: Pull-systeem voor Werk
+          title: Pull-System For Work
           slug: pull-system-for-work
         - 
-          title: Beperk Lopende Werkzaamheden
+          title: Limit Work In Progress
           slug: limit-work-in-progress
         - 
-          title: Activiteiten Timeboxen
+          title: Timebox Activities
           slug: timebox-activities
         - 
-          title: Stroom in Lijn Brengen
+          title: Align Flow
           slug: align-flow
         - 
-          title: Coördinator
+          title: Coordinator
           slug: coordinator
     - 
-      title: Organisatiestructuur
+      title: Organizational Structure
       slug: organizational-structure
       sections:
         - 
-          title: Service cirkel
+          title: Service Circle
           slug: service-circle
         - 
-          title: Cirkel van Afgevaardigden
+          title: Delegate Circle
           slug: delegate-circle
         - 
-          title: Perzik Organisatie
+          title: Peach Organization
           slug: peach-organization
         - 
-          title: Dubbel-gelinkte Hiërarchie
+          title: Double-Linked Hierarchy
           slug: double-linked-hierarchy
         - 
-          title: Service organisatie
+          title: Service Organization
           slug: service-organization
         - 
-          title: Fractale organisatie
+          title: Fractal Organization
           slug: fractal-organization
   appendix:
     title: Appendix
     slug: appendix
     sections:
       - 
-        title: Wijzigingen
+        title: Changelog
         slug: changelog
       - 
         title: Links
         slug: links
       - 
-        title: Licentie
-        slug: license
-      - 
-        title: S3 Intentionele Commitment
+        title: S3 Intentional Commitment
         slug: icpt
       - 
-        title: Met dank aan
+        title: Acknowledgments
         slug: acknowledgments
       - 
-        title: Auteurs
+        title: Authors
         slug: authors
       - 
-        title: Woordenlijst
+        title: Glossary
         slug: glossary
 

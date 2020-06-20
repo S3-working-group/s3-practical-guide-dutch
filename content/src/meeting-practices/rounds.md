@@ -1,6 +1,8 @@
 ## Rondes
 
-**In een groepsvergadering ga je de cirkel rond, zodat iedereen op zijn beurt het woord kan voeren.**
+<summary>
+<strong>In een groepsbijeenkomst ga je de cirkel rond, zodat iedereen op zijn beurt aan het woord komt.</strong>
+</summary>
 
 Rondes is een techniek waarmee je gelijkwaardigheid kunt faciliteren en een effectieve dialoog kunt ondersteunen.
 

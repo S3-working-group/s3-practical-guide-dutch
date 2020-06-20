@@ -1,15 +1,17 @@
 ## Waarden vaststellen
 
-**Bewust de cultuur van jouw organisatie vormgeven.**
+<summary>
+<strong>Zorg voor een bewuste ontwikkeling van jouw organisatiecultuur</strong>
+</summary>
 
 {{define:values}}
 
 - elk lid brengt zijn eigen waarden naar een organisatie, welke zijn gebaseerd op persoonlijke ervaringen en overtuigingen
-- een team of organisatie kan ervoor **kiezen om collectieve waarden aan te nemen** om hun samenwerking te begeleiden
+- een team of organisatie kan ervoor **kiezen om als collectief waarden aan te nemen ** die zij nastreven in hun samenwerking
 
-Waarden bieden richtlijnen om passende acties te bepalen, zelfs wanneer er geen expliciete [overeenkomsten](glossary:agreement) zijn.
+Waarden bieden richtlijnen over hoe te handelen, ook wanneer er geen expliciete [overeenkomsten](glossary:agreement) zijn.
 
-Een reeks waarden die collectief worden aangenomen, ondersteunt de effectiviteit van een organisatie:
+Het hebben van gezamenlijke waarden bevordert de effectiviteit van een organisatie:
 
 - vermindert de kans op **misverstanden**
 - zorgt voor een **gezamenlijke basis** van waaruit besluiten worden genomen en acties ondernomen

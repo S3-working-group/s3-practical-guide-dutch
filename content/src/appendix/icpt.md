@@ -1,4 +1,4 @@
-## De Intentionele Commitment voor praktische uitvoering en leraren van Sociocratie 3.0 (ICPT)
+## De Intentionele Commitment voor Beoefenaars en Leraren van Sociocratie 3.0 (ICPT, uit het Engels)
 
 Deze verbintenis ondersteunt:
 
@@ -12,9 +12,9 @@ U kunt meer weten over de ICPT op <https://sociocracy30.org/s3-intentional-commi
 
 ### Volledige tekst van de ICPT
 
-**De Intentionele Commitment voor praktische uitvoering en leraren van Sociocratie 3.0 (Icpt)**
+**De Intentionele Commitment voor Beoefenaars en Leraren van Sociocratie 3.0 (ICPT, uit het Engels)**
 
-Ik zet mij in voor de ontwikkeling van een sociocratische en agile mindset, en ik houd me verantwoordelijk voor het integer beoefenen en overbrengen van S3, door deze richtlijnen te volgen:
+Ik zet me in voor het ontwikkelen van een sociocratische en agile mindset, en ik ben verantwoordelijk voor het beoefenen en onderwijzen van Sociocratie 3.0 met integriteit door deze richtlijnen te volgen:
 
 Ik probeer de zeven principes in mijn dagelijks leven te volgen. Ik commiteer mij aan artful participation in mijn samenwerking met anderen.
 

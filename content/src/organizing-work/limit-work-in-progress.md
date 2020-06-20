@@ -1,6 +1,8 @@
 ## Beperk Lopende Werkzaamheden
 
-**Beperk het aantal lopende werkzaamheden in elke fase van het werkproces.**
+<summary>
+<strong>Beperk het aantal lopende werkzaamheden in elke fase van het werkproces.</strong>
+</summary>
 
 Werk in uitvoering omvat:
 

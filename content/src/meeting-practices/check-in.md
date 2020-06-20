@@ -1,8 +1,10 @@
 ## Check In
 
-**Help mensen zich bewust te worden van zichzelf en anderen en zich te concentreren, aanwezig te zijn en zich te engageren.**
+<summary>
+<strong>Helpt mensen om zich bewust te worden van zichzelf en anderen, te focussen, aanwezig te zijn en mee te doen.</strong>
+</summary>
 
-Deel tijdens de check in iets over wat jouw aandacht heeft, hoe het gaat, welke gedachten, gevoelens, afleidingen of behoeften je hebt.
+Deel tijdens de check in iets over wat jouw aandacht heeft, hoe het gaat, deel gedachten, gevoelens, afleidingen of behoeften je hebt.
 
 De check in kan in de vorm van een openingsronde of afsluitronde tijdens een groepsbijeenkomst, of gewoon tijdens een 1 op 1.
 

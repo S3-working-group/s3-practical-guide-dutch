@@ -8,7 +8,7 @@ Het woord sociocratie kan worden herleid tot 1851, toen **Auguste Comte** voorst
 
 Een paar decennia later, gebruikte **Lester Frank Ward** het woord 'sociocratie' om de heerschappij van mensen met relaties met elkaar te beschrijven. In plaats van sociologen in het middelpunt, wilde hij meer macht en verantwoordelijkheid geven aan het individu, en stelde hij zich sociologen voor in een rol van onderzoeker en adviseur.
 
-In 1926 heeft de Nederlandse onderwijshervormer en Quaker **Kees Boeke** een residentiële school opgezet op basis van consent. Medewerkers en studenten werden behandeld als gelijkwaardige deelnemers aan het bestuur van de school, alle beslissingen moesten voor iedereen aanvaardbaar zijn. Hij heeft deze versie van sociocratie gebouwd op de Quaker-beginselen en -praktijken en schreef in 1945 een plan, welke later werd gepubliceerd door zijn vrouw Beatrice Cadbury Boeke, “Sociocracy: Democracy as it might be”, waarin hij sociocratie omschrijft als een werkelijke democratische samenleving.
+In 1926 heeft de Nederlandse onderwijshervormer en Quaker **Kees Boeke** een residentiële school opgezet op basis van consent. Medewerkers en studenten werden behandeld als gelijkwaardige deelnemers aan het bestuur van de school, alle beslissingen moesten voor iedereen aanvaardbaar zijn. Hij heeft deze versie van sociocratie gebouwd op de Quaker-beginselen en -werkwijzen en schreef in 1945 een plan, welke later werd gepubliceerd door zijn vrouw Beatrice Cadbury Boeke, “Sociocracy: Democracy as it might be”, waarin hij sociocratie omschrijft als een werkelijke democratische samenleving.
 
 **Gerard Endenburg**, ook een Quaker en een student op de school van Boeke, wilde sociocratie toepassen in zijn gezinsbedrijf, Endenburg Elektrotechniek. Hij heeft de *Sociocratische Kring Organisatie Methode (SKM)* (later de "Sociocratische Methode") gecreëerd en geëvolueerd, waarbij de vorm van sociocratie van Boeke wordt geïntegreerd met techniek en cybernetica. In 1978 heeft Endenburg het Sociocratisch Centrum in Utrecht (nu het Sociocratische Centrum in Rotterdam) opgericht als een manier om sociocratie in en buiten Nederland te promoten. Sinds 1994 zijn organisaties in Nederland die SKM gebruiken vrijgesteld van de wettelijke verplichting om een ondernemingsraad te hebben.
 
@@ -18,9 +18,7 @@ Sociocratie is effectief gebleken voor veel organisaties en gemeenschappen rond 
 
 In 2014 zijn ** James Priest en Bernhard Bockelbrink** samengekomen om een set aan lesmaterialen te ontwikkelen, onder de Creative Commons license, waarin ideeën uit Sociocratie, Agile en Lean worden samengevoegd. Zij ontdekten dat organisaties van alle groottes een flexibel menu van werkwijzen en structuren nodig hebben – passend binnen hun specifieke context – die de ontwikkeling van een sociocratische en agile mindset mogelijk maakt om meer effectiviteit, afstemming, zingeving en welzijn te bereiken. De eerste versie van **Sociocratie 3.0.** is gelanceerd in maart 2015.
 
-**Liliana David** is kort hierna onderdeel van het team geworden en zij werken regelmatig samen om zowel het raamwerk als de website verder te ontwikkelen.
-
-Gezamenlijk proberen zij S3 beschikbaar en toepasbaar te maken voor zoveel mogelijk organisaties en verstrekken zij te gebruiken materialen en informatie onder een **Creative Commons Free Culture License**. Dit is te gebruiken door mensen die over Sociocratie 3.0 willen leren, het willen toepassen en er anderen over willen vertellen.
+**Liliana David** is kort daarna lid geworden van het team. Zij werken op regelmatige basis samen om S3 beschikbaar en toepasbaar te maken voor zoveel mogelijk organisaties. Zij verstrekken te gebruiken materialen en informatie onder een **Creative Commons Free Culture License**, zodat het te gebruiken is door iedereen die meer over Sociocratie 3.0 wil leren, het wil toepassen en er anderen over wil vertellen.
 
 ### De Sociocratie 3.0 beweging
 
