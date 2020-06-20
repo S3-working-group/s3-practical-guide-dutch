@@ -18,7 +18,7 @@ content:
         slug: why-s3
       - 
         title: Patronen en de zeven principes
-        slug: patronen-en-principes
+        slug: patterns-and-principles
       - 
         title: Patronen
         slug: patterns
@@ -39,7 +39,7 @@ content:
         slug: domain
       - 
         title: Bezwaren
-        slug: bezwaar
+        slug: objection
       - 
         title: Overeenkomsten
         slug: agreement
@@ -65,7 +65,7 @@ content:
           slug: consent-decision-making
         - 
           title: Argumenten kwalificeren als bezwaren
-          slug: argumenten-kwalificeren-als-bezwaren
+          slug: test-arguments-qualify-as-objections
         - 
           title: Bezwaren Oplossen
           slug: resolve-objections
